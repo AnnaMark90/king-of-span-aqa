@@ -1,25 +1,28 @@
-import path from "path";
 import fs from "fs";
 import { PNG } from "pngjs";
 import pixelmatch from "pixelmatch";
-import { LANGS, PAGES, BASE_URLS } from "../constants/constants.js";
+import { getSnapshotPaths } from "../utils/utils";
 
-export function buildUrl(env, pageKey, lang) {
-  return `${BASE_URLS[env]}${LANGS[lang]}${PAGES[pageKey][lang]}`;
+// PageObject управляет страницей.
+// Helpers управляют окружением.
+
+export async function openPageInNewContext({ browser, url, PageObject }) {
+  const context = await browser.newContext();
+  const page = await context.newPage();
+  const pageObject = new PageObject(page);
+
+  await pageObject.openPage(url);
+
+  return { context, page, pageObject };
 }
 
-export function getSnapshotPaths({ lang, device, pageKey }) {
-  const dir = path.join("snapshots", lang, device, pageKey);
-  fs.mkdirSync(dir, { recursive: true });
-
-  return {
-    production: path.join(dir, "production.png"),
-    staging: path.join(dir, "staging.png"),
-    diff: path.join(dir, "diff.png"),
-  };
+export async function closeContext(context) {
+  if (context) {
+    await context.close();
+  }
 }
 
-export async function compareEnvs({
+export async function compareEnvsSnapshots({
   browser,
   productionUrl,
   stagingUrl,
@@ -27,6 +30,7 @@ export async function compareEnvs({
   device,
   pageKey,
   PageObject,
+  testInfo,
 }) {
   const { production, staging, diff } = getSnapshotPaths({
     lang,
@@ -35,24 +39,26 @@ export async function compareEnvs({
   });
 
   // ---------- PRODUCTION ----------
-  const prodContext = await browser.newContext();
-  const prodPage = await prodContext.newPage();
-  const prodObj = new PageObject(prodPage);
-
-  await prodObj.openPageAndDoSnapshot(productionUrl);
-  await prodObj.doScreenshot(production);
-
-  await prodContext.close();
+  const prod = await openPageInNewContext({
+    browser,
+    url: productionUrl,
+    PageObject,
+  });
 
   // ---------- STAGING ----------
-  const stageContext = await browser.newContext();
-  const stagePage = await stageContext.newPage();
-  const stageObj = new PageObject(stagePage);
+  const stage = await openPageInNewContext({
+    browser,
+    url: stagingUrl,
+    PageObject,
+  });
 
-  await stageObj.openPageAndDoSnapshot(stagingUrl);
-  await stageObj.doScreenshot(staging);
-
-  await stageContext.close();
+  try {
+    await prod.pageObject.doScreenshot(production);
+    await stage.pageObject.doScreenshot(staging);
+  } finally {
+    await closeContext(prod.context);
+    await closeContext(stage.context);
+  }
 
   // ---------- COMPARE ----------
   const prodImage = PNG.sync.read(fs.readFileSync(production));
@@ -83,10 +89,17 @@ export async function compareEnvs({
   const totalPixels = width * height;
   const diffPercent = (mismatchPixels / totalPixels) * 100;
 
-  const allowedThreshold = 0.3; // допустимые 0.3%
+  const allowedThreshold = 0; // допустимые %
 
   if (diffPercent > allowedThreshold) {
     fs.writeFileSync(diff, PNG.sync.write(diffImage));
+
+    if (testInfo) {
+      await testInfo.attach("visual-diff", {
+        path: diff,
+        contentType: "image/png",
+      });
+    }
 
     throw new Error(
       `Visual difference detected: ${mismatchPixels} pixels (${diffPercent.toFixed(
@@ -96,43 +109,144 @@ export async function compareEnvs({
   }
 }
 
-// export function buildUrl(env, pageKey, lang) {
-//   return `${BASE_URLS[env]}${LANGS[lang]}${PAGES[pageKey][lang]}`;
+export async function compareEnvsSeoText({
+  browser,
+  productionUrl,
+  stagingUrl,
+  PageObject,
+  testInfo,
+}) {
+  // ---------- PRODUCTION ----------
+  const prod = await openPageInNewContext({
+    browser,
+    url: productionUrl,
+    PageObject,
+  });
+
+  // ---------- STAGING ----------
+  const stage = await openPageInNewContext({
+    browser,
+    url: stagingUrl,
+    PageObject,
+  });
+
+  let prodSeo;
+  let stageSeo;
+
+  try {
+    prodSeo = await prod.pageObject.getSeoImgAndHeaders();
+    stageSeo = await stage.pageObject.getSeoImgAndHeaders();
+  } finally {
+    await closeContext(prod.context);
+    await closeContext(stage.context);
+  }
+
+  const imagesDiff =
+    JSON.stringify(prodSeo.images) !== JSON.stringify(stageSeo.images);
+
+  const headersDiff =
+    JSON.stringify(prodSeo.headers) !== JSON.stringify(stageSeo.headers);
+
+  if (imagesDiff || headersDiff) {
+    if (testInfo) {
+      await testInfo.attach("production-seo.json", {
+        body: JSON.stringify(prodSeo, null, 2),
+        contentType: "application/json",
+      });
+
+      await testInfo.attach("staging-seo.json", {
+        body: JSON.stringify(stageSeo, null, 2),
+        contentType: "application/json",
+      });
+    }
+
+    throw new Error(
+      `SEO differences detected:
+      Images different: ${imagesDiff}
+      Headers different: ${headersDiff}`,
+    );
+  }
+}
+
+// async function openPageAndDoSnapshot(page, url) {
+//   await page.goto(url, {
+//     waitUntil: "networkidle",
+//   });
+
+//   await await page.click(button_accept_cookie);
+//   await page.waitForTimeout(time_to_wait);
+
+//   const scrollHeight = await page.evaluate(() => document.body.scrollHeight);
+//   console.log("Scroll HEIGHT = " + scrollHeight);
+//   const scrollTimes = Number.parseInt(scrollHeight / 500);
+//   console.log("Scroll TIMES = " + scrollTimes);
+
+//   for (var i = 1; i < scrollTimes; i++) {
+//     console.log("i = " + i + " - " + (i <= scrollTimes) + " -> " + scrollTimes);
+//     await page.evaluate(() => {
+//       window.scrollBy({
+//         top: 500,
+//         behavior: "smooth",
+//       });
+//     });
+//     await page.waitForTimeout(time_to_wait);
+//   }
+
+//   console.log("Pages Scrolled");
+//   await page.evaluate(async () => {
+//     window.scrollTo(0, document.body.scrollHeight);
+//   });
+
+//   await page.waitForTimeout(time_to_wait);
+
+//   console.log("Pages Scrolled to Top");
+//   await page.evaluate(async () => {
+//     window.scrollTo(0, 0);
+//   });
+
+//   await page.waitForTimeout(time_to_wait);
+
+//   if (url.startsWith("https://www")) {
+//     await page.screenshot({
+//       path: "snapshots/prod/fullpage.png",
+//       fullPage: true,
+//     });
+//   }
+
+//   if (url.startsWith("https://stage")) {
+//     await page.screenshot({
+//       path: "snapshots/stage/fullpage.png",
+//       fullPage: true,
+//     });
+//   }
 // }
 
-// export function getSnapshotPaths({ lang, device, pageKey }) {
-//   const dir = path.join("snapshots", lang, device, pageKey);
-//   fs.mkdirSync(dir, { recursive: true });
-
-//   return {
-//     production: path.join(dir, "production.png"),
-//     staging: path.join(dir, "staging.png"),
-//   };
-// }
-
-// export async function compareEnvs({
+// export async function compareEnvsSnapshots({
 //   browser,
 //   productionUrl,
 //   stagingUrl,
-//   lang,
-//   device,
-//   pageKey,
 //   PageObject,
+//   testInfo,
 // }) {
-//   const dir = path.join("snapshots", lang, device, pageKey);
-//   fs.mkdirSync(dir, { recursive: true });
-
-//   const productionPath = path.join(dir, "production.png");
-//   const stagingPath = path.join(dir, "staging.png");
-//   const diffPath = path.join(dir, "diff.png");
+//   const { production, staging, diff } = getSnapshotPaths({
+//     lang,
+//     device,
+//     pageKey,
+//   });
 
 //   // PRODUCTION
+//   const prod = await openPageInNewContext({
+//     browser,
+//     url: productionUrl,
+//     PageObject,
+//   });
+
 //   const prodContext = await browser.newContext();
 //   const prodPage = await prodContext.newPage();
 //   const prodObj = new PageObject(prodPage);
 
-//   await prodObj.openPageAndDoSnapshot(productionUrl);
-//   await prodObj.doScreenshot(productionPath);
+//   await prodObj.openPage(productionUrl);
+//   await prodObj.doScreenshot(production);
 
 //   await prodContext.close();
 
@@ -141,17 +255,56 @@ export async function compareEnvs({
 //   const stagePage = await stageContext.newPage();
 //   const stageObj = new PageObject(stagePage);
 
-//   await stageObj.openPageAndDoSnapshot(stagingUrl);
-//   await stageObj.doScreenshot(stagingPath);
+//   await stageObj.openPage(stagingUrl);
+//   await stageObj.doScreenshot(staging);
 
 //   await stageContext.close();
 
 //   // COMPARE
-//   const prodBuffer = fs.readFileSync(productionPath);
-//   const stageBuffer = fs.readFileSync(stagingPath);
+//   const prodImage = PNG.sync.read(fs.readFileSync(production));
+//   const stageImage = PNG.sync.read(fs.readFileSync(staging));
 
-//   if (!prodBuffer.equals(stageBuffer)) {
-//     fs.copyFileSync(stagingPath, diffPath);
-//     throw new Error("Visual difference detected");
+//   if (
+//     prodImage.width !== stageImage.width ||
+//     prodImage.height !== stageImage.height
+//   ) {
+//     throw new Error("Images have different sizes");
 //   }
-// }
+
+//   const { width, height } = prodImage;
+//   const diffImage = new PNG({ width, height });
+
+//   const mismatchPixels = pixelmatch(
+//     prodImage.data,
+//     stageImage.data,
+//     diffImage.data,
+//     width,
+//     height,
+//     {
+//       threshold: 0.15,
+//       includeAA: false,
+//     },
+//   );
+
+//   const totalPixels = width * height;
+//   const diffPercent = (mismatchPixels / totalPixels) * 100;
+
+//   const allowedThreshold = 0; // допустимые %
+
+//   if (diffPercent > allowedThreshold) {
+//     fs.writeFileSync(diff, PNG.sync.write(diffImage));
+
+//     if (testInfo) {
+//       await testInfo.attach("visual-diff", {
+//         path: diff,
+//         contentType: "image/png",
+//       });
+//     }
+
+//     throw new Error(
+//       `Visual difference detected: ${mismatchPixels} pixels (${diffPercent.toFixed(
+//         2,
+//       )}%) differ`,
+//     );
+//   }
+//

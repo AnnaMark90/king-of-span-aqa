@@ -4,13 +4,6 @@ export class AnyPage {
     this.page = page;
     this.acceptCookieButton = page.locator(BUTTON_ACCEPT_COOKIE);
   }
-
-  async open(url) {
-    await this.page.goto(url, {
-      waitUntil: "networkidle",
-    });
-  }
-
   async clickAcceptCookieButton() {
     try {
       await this.page.waitForSelector("#ccc-notify-accept", {
@@ -46,20 +39,62 @@ export class AnyPage {
     });
   }
 
-  async openPageAndDoSnapshot(url) {
+  async openPage(url) {
     console.log(url);
-
-    await this.open(url);
+    await this.page.goto(url, {
+      waitUntil: "networkidle",
+    });
     await this.clickAcceptCookieButton();
     await this.waitForFonts();
     await this.disableAnimations();
     await this.scrollPage();
     await this.hideDynamicElements();
     await this.page.waitForTimeout(300);
+  }
 
-    // await this.open(url);
-    // await this.clickAcceptCookieButton();
-    // await this.scrollPage();
+  async getSeoImgAndHeaders() {
+    const images = await this.page.$$eval("img", (imgs) =>
+      imgs.map((img) => ({
+        fileName: img.src.split("/").pop() || "unknown",
+        src: img.src,
+        alt: img.alt,
+        title: img.title,
+      })),
+    );
+
+    images.sort((a, b) => a.fileName.localeCompare(b.fileName));
+
+    console.log("========== IMAGES ==========");
+    console.log("Number of images = " + images.length);
+    images.forEach((img) => {
+      console.log(img.fileName);
+      console.log(img.src);
+      console.log(img.alt);
+      console.log(img.title);
+      console.log("----------");
+    });
+
+    const headers = await this.page.$$eval("h1, h2, h3, h4, h5, h6", (tags) =>
+      tags.map((tag) => ({
+        level: tag.tagName.toLowerCase(), // 'h1', 'h2' и т.д.
+        text: tag.textContent.trim(),
+      })),
+    );
+
+    headers.sort((a, b) => a.level.localeCompare(b.level));
+
+    console.log("========== H1...6 ==========");
+    console.log("Number of Headers = " + headers.length);
+    headers.forEach((header) => {
+      console.log(header.level);
+      console.log(header.text);
+      console.log("----------");
+    });
+
+    return {
+      images,
+      headers,
+    };
   }
 
   async disableAnimations() {
