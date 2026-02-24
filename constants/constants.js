@@ -3,14 +3,14 @@ export const BUTTON_ACCEPT_COOKIE = "#ccc-notify-accept";
 export const LANGS = {
   pl: "/pl/pl/",
   en: "/gb/en/",
-  ar: "sa/ar/",
+  ar: "/sa/ar/",
 };
 
 export const PAGES = {
-  home: { pl: "", en: "" },
-  about: { pl: "o-nas/", en: "about-us/" },
-  contact: { pl: "kontakt/", en: "contact-us/" },
-  projects: { pl: "zrealizowane-projekty/", en: "" },
+  home: { pl: "", en: "", ar: "" },
+  about: { pl: "o-nas/", en: "about-us/", ar: "about-us/" },
+  contact: { pl: "kontakt/", en: "contact-us/", ar: "contact-kingspan/" },
+  projects: { pl: "zrealizowane-projekty/", en: "", ar: "" },
 };
 
 export const BASE_URLS = {

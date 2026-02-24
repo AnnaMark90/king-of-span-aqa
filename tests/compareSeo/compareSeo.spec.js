@@ -22,7 +22,3 @@ test.skip(`${pageKey} compare images, headers prod vs stage`, () => {
     });
   }
 });
-
-// один контекст = одно окружение
-// проверка seo полностью
-// сохранение json всего html? различий seo?

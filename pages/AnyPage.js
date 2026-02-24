@@ -1,4 +1,6 @@
 import { BUTTON_ACCEPT_COOKIE } from "../constants/constants";
+import fs from "fs";
+import path from "path";
 export class AnyPage {
   constructor(page) {
     this.page = page;
@@ -32,11 +34,14 @@ export class AnyPage {
     });
   }
 
-  async doScreenshot(path) {
+  async doScreenshot(filePath) {
+    fs.mkdirSync(path.dirname(filePath), { recursive: true });
+
     await this.page.screenshot({
-      path: path,
+      path: filePath,
       fullPage: true,
     });
+    console.log("SCREENSHOT SAVED:", filePath);
   }
 
   async openPage(url) {

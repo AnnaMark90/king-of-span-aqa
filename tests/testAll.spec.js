@@ -15,23 +15,27 @@ test.describe(`${pageKey} prod vs stage`, () => {
     test.describe(`lang: ${lang}`, () => {
       let prodData;
       let stageData;
+      let productionUrl;
+      let stagingUrl;
       let productionPath;
       let stagingPath;
+      let diffSeoPath;
       let diffPath;
 
       test.beforeAll(async ({ browser }, testInfo) => {
         const device = testInfo.project.name.split("-")[1];
-        const productionUrl = buildUrl("production", pageKey, lang);
-        const stagingUrl = buildUrl("staging", pageKey, lang);
         const paths = getSnapshotPaths({
           lang,
           device,
           pageKey,
         });
-
         productionPath = paths.production;
         stagingPath = paths.staging;
         diffPath = paths.diff;
+        diffSeoPath = paths.diffSeo;
+
+        productionUrl = buildUrl("production", pageKey, lang);
+        stagingUrl = buildUrl("staging", pageKey, lang);
 
         prodData = await collectEnvData({
           browser,
@@ -59,6 +63,9 @@ test.describe(`${pageKey} prod vs stage`, () => {
         await compareEnvsSeo({
           prodSeo: prodData.seo,
           stageSeo: stageData.seo,
+          prodUrl: productionUrl,
+          stageUrl: stagingUrl,
+          diffSeoPath,
           testInfo,
         });
       });
@@ -66,6 +73,9 @@ test.describe(`${pageKey} prod vs stage`, () => {
   }
 });
 
-// один контекст = одно окружение
-// проверка seo полностью
-// сохранение json всего html? различий seo?
+// один контекст = одно окружение - под вопросом
+// проверка seo полностью - есть
+// сохранение json
+// всего html - сделать
+// различий seо - есть
+// параллелизация

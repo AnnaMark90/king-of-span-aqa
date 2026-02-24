@@ -1,0 +1,16 @@
+{
+  "description": {
+    "error": "missing",
+    "prod": "",
+    "stage": ""
+  },
+  "hreflangs": {
+    "error": "missing",
+    "prod": [],
+    "stage": []
+  },
+  "stageCanonical": {
+    "expected": "https://stage.kingspan.com/sa/ar/contact-kingspan/",
+    "actual": "https://kingspan-prd.kingspan.com/sa/ar/contact-kingspan/"
+  }
+}

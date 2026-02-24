@@ -1,0 +1,29 @@
+{
+  "description": {
+    "error": "missing",
+    "prod": "",
+    "stage": ""
+  },
+  "images": {
+    "prod": [
+      "/content/dam/kingspan/kingspan-logo.svg|Kingspan Polska|",
+      "/etc.clientlibs/kingspan-dep/clientlibs/clientlib-react/resources/static/media/plus-icon-white.d27856c3.svg||",
+      "/etc.clientlibs/kingspan-dep/clientlibs/clientlib-react/resources/static/media/plus-icon-white.d27856c3.svg||"
+    ],
+    "stage": [
+      "/content/dam/kingspan/kingspan-logo.svg|Kingspan logo|",
+      "/content/dam/kingspan/kingspan-logo-mobile.svg|Kingspan logo|",
+      "/etc.clientlibs/kingspan-dep/clientlibs/clientlib-react/resources/static/media/plus-icon-white.d27856c3.svg||",
+      "/etc.clientlibs/kingspan-dep/clientlibs/clientlib-react/resources/static/media/plus-icon-white.d27856c3.svg||"
+    ]
+  },
+  "hreflangs": {
+    "error": "missing",
+    "prod": [],
+    "stage": []
+  },
+  "stageCanonical": {
+    "expected": "https://stage.kingspan.com/pl/pl/kontakt/",
+    "actual": "https://kingspan-prd.kingspan.com/pl/pl/kontakt/"
+  }
+}

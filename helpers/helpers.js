@@ -1,6 +1,13 @@
 import fs from "fs";
 import { PNG } from "pngjs";
 import pixelmatch from "pixelmatch";
+import path from "path";
+import {
+  normalizeHreflangs,
+  normalizeImages,
+  pathOnly,
+  isEmpty,
+} from "../utils/utils";
 
 // PageObject управляет страницей.
 // Helpers управляют окружением.
@@ -53,6 +60,16 @@ export async function compareEnvsSnapshots({
   diffPath,
   testInfo,
 }) {
+  console.log("PROD PATH:", prodPath);
+  console.log("STAGE PATH:", stagePath);
+  console.log("DIFF PATH:", diffPath);
+
+  if (!fs.existsSync(prodPath))
+    throw new Error(`Production screenshot missing: ${prodPath}`);
+
+  if (!fs.existsSync(stagePath))
+    throw new Error(`Staging screenshot missing: ${stagePath}`);
+
   const prodImage = PNG.sync.read(fs.readFileSync(prodPath));
   const stageImage = PNG.sync.read(fs.readFileSync(stagePath));
 
@@ -64,6 +81,7 @@ export async function compareEnvsSnapshots({
   }
 
   const { width, height } = prodImage;
+
   const diffImage = new PNG({ width, height });
 
   const mismatchPixels = pixelmatch(
@@ -72,121 +90,99 @@ export async function compareEnvsSnapshots({
     diffImage.data,
     width,
     height,
-    {
-      threshold: 0.15,
-      includeAA: false,
-    },
+    { threshold: 0.15 },
   );
 
-  const totalPixels = width * height;
-  const diffPercent = (mismatchPixels / totalPixels) * 100;
+  const diffPercent = (mismatchPixels / (width * height)) * 100;
 
-  const allowedThreshold = 0; // допустимый процент
+  if (mismatchPixels > 0) {
+    fs.mkdirSync(path.dirname(diffPath), { recursive: true });
 
-  if (diffPercent > allowedThreshold) {
     fs.writeFileSync(diffPath, PNG.sync.write(diffImage));
 
+    console.log("DIFF SAVED:", diffPath);
+
     if (testInfo) {
-      await testInfo.attach("visual-diff.png", {
+      await testInfo.attach("diff.png", {
         path: diffPath,
         contentType: "image/png",
       });
     }
 
-    throw new Error(
-      `Visual difference detected: ${mismatchPixels} pixels (${diffPercent.toFixed(
-        2,
-      )}%) differ`,
-    );
+    throw new Error(`Visual difference: ${diffPercent.toFixed(2)}%`);
   }
 }
 
-export async function compareEnvsSeo({ prodSeo, stageSeo, testInfo }) {
-  const prod = {
-    images: prodSeo.images,
-    headers: prodSeo.headers,
-    title: prodSeo.meta.title,
-    description: prodSeo.meta.description,
-    robots: prodSeo.meta.robots,
-    canonical: prodSeo.meta.canonical,
-    hreflangs: prodSeo.meta.hreflangs,
-  };
+export async function compareEnvsSeo({
+  prodSeo,
+  stageSeo,
+  prodUrl,
+  stageUrl,
+  diffSeoPath,
+  testInfo,
+}) {
+  const rules = [
+    ["title", prodSeo.meta.title, stageSeo.meta.title],
+    ["description", prodSeo.meta.description, stageSeo.meta.description],
+    ["headers", prodSeo.headers, stageSeo.headers],
+    [
+      "images",
+      normalizeImages(prodSeo.images),
+      normalizeImages(stageSeo.images),
+    ],
+    [
+      "hreflangs",
+      normalizeHreflangs(prodSeo.meta.hreflangs),
+      normalizeHreflangs(stageSeo.meta.hreflangs),
+    ],
+  ];
 
-  const stage = {
-    images: stageSeo.images,
-    headers: stageSeo.headers,
-    title: stageSeo.meta.title,
-    description: stageSeo.meta.description,
-    robots: stageSeo.meta.robots,
-    canonical: stageSeo.meta.canonical,
-    hreflangs: stageSeo.meta.hreflangs,
-  };
+  const diff = {};
 
-  const diff = Object.keys(prod).reduce((acc, key) => {
-    if (JSON.stringify(prod[key]) !== JSON.stringify(stage[key])) {
-      acc[key] = {
-        prod: prod[key],
-        stage: stage[key],
-      };
+  for (const [name, prod, stage] of rules) {
+    const state =
+      isEmpty(prod) || isEmpty(stage)
+        ? "missing"
+        : JSON.stringify(prod) !== JSON.stringify(stage)
+          ? "different"
+          : "ok";
+
+    switch (state) {
+      case "missing":
+        diff[name] = { error: "missing", prod, stage };
+        break;
+
+      case "different":
+        diff[name] = { prod, stage };
+        break;
     }
-    return acc;
-  }, {});
-
-  if (Object.keys(diff).length) {
-    if (testInfo) {
-      await testInfo.attach("seo-diff.json", {
-        body: JSON.stringify(diff, null, 2),
-        contentType: "application/json",
-      });
-    }
-
-    throw new Error(
-      `SEO differences detected: ${Object.keys(diff).join(", ")}`,
-    );
   }
+
+  const canonicals = [
+    ["prodCanonical", prodSeo.meta.canonical, prodUrl],
+    ["stageCanonical", stageSeo.meta.canonical, stageUrl],
+  ];
+
+  for (const [name, actual, expected] of canonicals) {
+    if (actual !== expected) {
+      diff[name] = { expected, actual };
+    }
+  }
+
+  if (!Object.keys(diff).length) return;
+
+  const json = JSON.stringify(diff, null, 2);
+
+  fs.mkdirSync(path.dirname(diffSeoPath), { recursive: true });
+
+  fs.writeFileSync(diffSeoPath, json, "utf-8");
+
+  if (testInfo) {
+    await testInfo.attach("seo-diff.json", {
+      path: diffSeoPath,
+      contentType: "application/json",
+    });
+  }
+
+  throw new Error(`SEO issues: ${Object.keys(diff).join(", ")}`);
 }
-
-// оркестратор
-// export async function compareEnvs({
-//   browser,
-//   productionUrl,
-//   stagingUrl,
-//   lang,
-//   device,
-//   pageKey,
-//   PageObject,
-//   testInfo,
-// }) {
-//   const { production, staging, diff } = getSnapshotPaths({
-//     lang,
-//     device,
-//     pageKey,
-//   });
-
-//   const prodData = await collectEnvData({
-//     browser,
-//     url: productionUrl,
-//     PageObject,
-//     snapshotPath: production,
-//   });
-
-//   const stageData = await collectEnvData({
-//     browser,
-//     url: stagingUrl,
-//     PageObject,
-//     snapshotPath: staging,
-//   });
-
-//   await compareEnvsSnapshots({
-//     prodPath: production,
-//     stagePath: staging,
-//     diffPath: diff,
-//     testInfo,
-//   });
-
-//   await compareEnvsSeo({
-//     prodSeo: prodData.seo,
-//     stageSeo: stageData.seo,
-//     testInfo,
-//   });
-// }
