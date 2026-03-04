@@ -1,25 +1,70 @@
 import fs from "fs";
 import path from "path";
-import { LANGS, PAGES, BASE_URLS } from "../constants/constants.js";
 
 export const isEmpty = (v) => !v || (Array.isArray(v) && v.length === 0);
 
-export const pathOnly = (url) => new URL(url).pathname;
+export const pathOnly = (url) => {
+  if (!url || url === "Missing") return "/";
+  try {
+    return new URL(url).pathname;
+  } catch {
+    return "/";
+  }
+};
 
-export const normalizeImages = (images) =>
-  images.map((img) => `${pathOnly(img.src)}|${img.alt}|${img.title}`);
+export const normalizePath = (p) => {
+  if (!p || p === "Missing" || p === "Empty") return p;
+  let cleanPath = p.replace(/\/{2,}/g, "/");
+  return cleanPath.endsWith("/") && cleanPath !== "/"
+    ? cleanPath.slice(0, -1)
+    : cleanPath;
+};
+
+export const pathOnlySafe = (url) => {
+  if (!url || url === "Missing" || url === "" || url === "Empty") {
+    return "Empty";
+  }
+  try {
+    const u = new URL(url, "https://www.kingspan.com");
+    const pathname = u.pathname;
+    return pathname === "/" ? "/" : pathname.replace(/\/$/, "");
+  } catch {
+    return url;
+  }
+};
+
+export const normalizeImages = (images) => {
+  if (!images || !Array.isArray(images)) return [];
+
+  return images
+    .map((img) => {
+      let cleanSrc = "Missing Src";
+
+      if (img.src && img.src !== "Missing" && img.src !== "Empty") {
+        try {
+          const urlObj = new URL(img.src, "https://base.com");
+          cleanSrc = urlObj.pathname;
+        } catch (e) {
+          cleanSrc = img.src;
+        }
+      }
+
+      const alt = img.alt || "";
+      const title = img.title || "";
+      return `${cleanSrc}|${alt}|${title}`;
+    })
+    .sort();
+};
 
 export const normalizeHreflangs = (hreflangs) =>
-  hreflangs.map((h) => `${h.hreflang}|${pathOnly(h.href)}`);
-
-export function buildUrl(env, pageKey, lang) {
-  return `${BASE_URLS[env]}${LANGS[lang]}${PAGES[pageKey][lang]}`;
-}
+  hreflangs.map((h) => `${h.lang}|${pathOnlySafe(h.href)}`);
 
 export function getSnapshotPaths({ lang, device, pageKey }) {
   const dir = path.join(process.cwd(), "snapshots", lang, device, pageKey);
 
-  fs.mkdirSync(dir, { recursive: true });
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
 
   return {
     dir,
