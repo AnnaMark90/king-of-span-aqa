@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       batch_name:
-        description: ''
+        description: 'Имя батча'
         required: false
         default: ''
 
