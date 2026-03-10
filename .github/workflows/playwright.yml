@@ -1,10 +1,10 @@
-name: Playwright Tests
+﻿name: Playwright Tests
 
 on:
   workflow_dispatch:
     inputs:
       batch_name:
-        description: 'Имя батча'
+        description: 'Batch Name'
         required: false
         default: ''
 
@@ -23,18 +23,17 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
-      - name: Install Playwright Browsers
+      - name: Install Playwright
         run: npx playwright install --with-deps chromium
-      - name: Run tests
-        run: |
-          if [ -z "${{ github.event.inputs.batch_name }}" ]; then
-            npx playwright test --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }} --reporter=blob
-          else
-            npm run test -- --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }} --reporter=blob --batch=${{ github.event.inputs.batch_name }}
-          fi
-      - name: Upload Blob Report
+      - name: Run default
+        if: ${{ github.event.inputs.batch_name == '' }}
+        run: npx playwright test --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }} --reporter=blob
+      - name: Run batch
+        if: ${{ github.event.inputs.batch_name != '' }}
+        run: npm run test -- --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }} --reporter=blob --batch=${{ github.event.inputs.batch_name }}
+      - name: Upload Blob
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -51,17 +50,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
-      - name: Download all blob reports
+      - name: Download blobs
         uses: actions/download-artifact@v4
         with:
           path: all-blob-reports
           pattern: blob-report-*
           merge-multiple: true
-      - name: Merge into HTML Report
+      - name: Merge Reports
         run: npx playwright merge-reports --reporter html ./all-blob-reports
-      - name: Upload Final Report
+      - name: Upload Final
         uses: actions/upload-artifact@v4
         with:
           name: final-playwright-report
