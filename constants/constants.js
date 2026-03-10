@@ -1,11 +1,13 @@
-export const BUTTON_ACCEPT_COOKIE = "#ccc-notify-accept";
+import fs from "fs";
+import path from "path";
 
-const PROD_BASE = "https://www.kingspan.com";
-const STAGE_BASE = "https://d2ciz519lp8snl.cloudfront.net";
-
+export const PROD_BASE = "https://www.kingspan.com";
+export const STAGE_BASE = "https://d2ciz519lp8snl.cloudfront.net";
+export const USER_AGENT =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36";
 export const getStatusText = (status) => {
   const codes = {
-    200: "OK",
+    200: "Successful",
     201: "Created",
     301: "Moved Permanently",
     302: "Found / Redirect",
@@ -22,63 +24,47 @@ export const getStatusText = (status) => {
   };
   return codes[status] || "Unknown Status";
 };
+const batchName = (
+  process.env.npm_config_batch ||
+  process.env.BATCH ||
+  "testRun"
+).trim();
 
-export const TEST_PAGES = [
-  {
-    lang: "ie-en",
-    pageKey: "passiveFireProtection",
-    path: "ie/en/campaigns/passive-fire-protection-service",
-  },
-  {
-    lang: "ie-en",
-    pageKey: "internalWallInsulation",
-    path: "ie/en/knowledge-articles/what-you-need-to-know-about-internal-wall-insulation--",
-  },
-  {
-    lang: "gb-en",
-    pageKey: "thermalBridging",
-    path: "gb/en/knowledge-articles/what-is-thermal-bridging",
-  },
-  {
-    lang: "cz-cs",
-    pageKey: "cookiePolicy",
-    path: "cz/cs/zasady-pouzivani-souboru-cookie",
-  },
-  {
-    lang: "sa-ar",
-    pageKey: "roofInsulationBoard",
-    path: "sa/ar/products/insulation-boards/roof-insulation-board/tt47",
-  },
-  {
-    lang: "gb-en",
-    pageKey: "contactTechnicalInsulation",
-    path: "gb/en/contact-us/kingspan-technical-insulation",
-  },
-  {
-    lang: "gb-en",
-    pageKey: "contactKingspanInsulation",
-    path: "gb/en/contact-us/kingspan-insulation",
-  },
-  {
-    lang: "ie-en",
-    pageKey: "tarecpirM1CR",
-    path: "ie/en/knowledge-articles/tarecpir-m1-cr-for-marine-applications",
-  },
-  {
-    lang: "ee-et",
-    pageKey: "planetPassionate",
-    path: "ee/et/meist/planet-passionate",
-  },
-  {
-    lang: "se-sv",
-    pageKey: "dokument",
-    path: "se/sv/dokument",
-  },
-].map((page) => {
-  const cleanPath = page.path.startsWith("/") ? page.path.slice(1) : page.path;
+const filePath = path.resolve(process.cwd(), `dataBatches/${batchName}.txt`);
+
+if (!fs.existsSync(filePath)) {
+  throw new Error(
+    `Файл не найден: ${filePath}. Убедитесь, что он есть в папке dataBatches.`,
+  );
+}
+
+const rawPaths = fs
+  .readFileSync(filePath, "utf-8")
+  .split("\n")
+  .map((line) => line.trim())
+  .filter((line) => line && !line.startsWith("#"));
+
+// export const TEST_PAGES = rawPaths.map((rawPath) => {
+//   const cleanPath = rawPath.replace(/^\//, "");
+//   const parts = cleanPath.split("/").filter(Boolean);
+
+//   return {
+//     lang: parts.length >= 2 ? `${parts[0]}-${parts[1]}` : "default",
+//     pageKey: parts.slice(2).join("/") || "home",
+//     path: cleanPath,
+//     prodUrl: `${PROD_BASE}/${cleanPath}`,
+//     stageUrl: `${STAGE_BASE}/${cleanPath}`,
+//   };
+// });
+
+export const TEST_PAGES = rawPaths.map((rawPath) => {
+  const cleanPath = rawPath.replace(/^\/+|\/+$/g, "").trim();
+  const parts = cleanPath.split("/").filter(Boolean);
 
   return {
-    ...page,
+    lang: parts.length >= 2 ? `${parts[0]}-${parts[1]}` : "default",
+    pageKey: parts.slice(2).join("/") || "home",
+    path: cleanPath,
     prodUrl: `${PROD_BASE}/${cleanPath}`,
     stageUrl: `${STAGE_BASE}/${cleanPath}`,
   };

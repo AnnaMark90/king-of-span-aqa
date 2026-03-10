@@ -4,7 +4,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "test:smoke": "npx playwright test tests/smokeChecks.spec.js",
+    "get-urls": "node scripts/fetchSitemap.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/github4ta/king-of-spam.git"

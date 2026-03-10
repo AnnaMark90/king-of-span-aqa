@@ -2,47 +2,84 @@ import { defineConfig, devices } from "@playwright/test";
 
 export default defineConfig({
   testDir: "./tests",
-  snapshotDir: "./snapshots",
-  snapshotPathTemplate: "{snapshotDir}/{arg}{ext}",
   fullyParallel: true,
-  forbidOnly: !!process.env.CI,
-  retries: process.env.CI ? 2 : 0,
-  workers: process.env.CI ? 2 : 2,
+  retries: process.env.CI ? 1 : 0,
+  workers: 2,
   timeout: 5 * 60 * 1000,
-  reporter: "html",
+  reporter: [["html", { open: "never" }]],
   use: {
     trace: "on-first-retry",
     ignoreHTTPSErrors: true,
     actionTimeout: 15000,
     navigationTimeout: 60000,
-  },
-  expect: {
-    toHaveScreenshot: {
-      animations: "disabled",
-    },
+    // headless: false,
   },
 
   projects: [
     {
-      name: "compare-desktop",
+      name: "Desktop-1920-Chrome",
       use: {
         browserName: "chromium",
         viewport: { width: 1920, height: 1080 },
       },
     },
     {
-      name: "compare-tablet",
+      name: "Desktop-1200-Chrome",
       use: {
         browserName: "chromium",
-        ...devices["iPad Pro 11"],
+        viewport: { width: 1200, height: 800 },
       },
     },
     {
-      name: "compare-mobile",
+      name: "Tablet-768-Chrome",
       use: {
         browserName: "chromium",
-        ...devices["Pixel 7"],
+        viewport: { width: 768, height: 1024 },
+        hasTouch: true,
       },
     },
+    {
+      name: "Mobile-iPhone14",
+      use: {
+        ...devices["iPhone 14 Pro"],
+      },
+    },
+    // {
+    //   name: "Smoke-Firefox",
+    //   use: {
+    //     browserName: "firefox",
+    //     viewport: { width: 1920, height: 1080 },
+    //   },
+    // },
+    // {
+    //   name: "Smoke-Safari",
+    //   use: {
+    //     browserName: "webkit",
+    //     viewport: { width: 1920, height: 1080 },
+    //   },
+    // },
   ],
+  // projects: [
+  //   {
+  //     name: "compare-desktop",
+  //     use: {
+  //       browserName: "chromium",
+  //       viewport: { width: 1920, height: 1080 },
+  //     },
+  //   },
+  //   {
+  //     name: "compare-tablet",
+  //     use: {
+  //       browserName: "chromium",
+  //       ...devices["iPad Pro 11"],
+  //     },
+  //   },
+  //   {
+  //     name: "compare-mobile",
+  //     use: {
+  //       browserName: "chromium",
+  //       ...devices["Pixel 7"],
+  //     },
+  //   },
+  // ],
 });

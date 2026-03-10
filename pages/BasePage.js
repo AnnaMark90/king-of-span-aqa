@@ -1,9 +1,9 @@
-import { BUTTON_ACCEPT_COOKIE } from "../constants/constants.js";
+import { log } from "node:console";
 
 export class BasePage {
   constructor(page) {
     this.page = page;
-    this.acceptCookieButton = page.locator(BUTTON_ACCEPT_COOKIE);
+    this.responseHeaders = null;
   }
 
   async clickAcceptCookieButton() {
@@ -44,12 +44,27 @@ export class BasePage {
   }
 
   async openPage(url) {
+    console.log(`Opening page: ${url}`);
     try {
       const response = await this.page.goto(url, {
         waitUntil: "domcontentloaded",
       });
+
+      const status = response ? response.status() : "No response";
+      console.log(`[LOG] Status: ${status} | URL: ${this.page.url()}`);
+      if (status === 403 || status === 502 || status === 404) {
+        console.log(
+          "Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.",
+        );
+        await this.page.pause();
+      }
+
       if (response && response.status() >= 400) return false;
+      if (response) {
+        this.responseHeaders = response.headers();
+      }
     } catch (e) {
+      console.log(`[LOG] Error: ${e.message}`);
       return false;
     }
     await this.clickAcceptCookieButton();

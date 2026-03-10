@@ -1,62 +1,13 @@
 import { BasePage } from "./BasePage.js";
 
-/**
- * @typedef {Object} SeoHreflang
- * @property {string} lang
- * @property {string} href
- *
- * @typedef {Object} SeoImage
- * @property {string} filename
- * @property {string} alt
- * @property {string} title
- * @property {number} naturalWidth
- * @property {number} naturalHeight
- *
- * @typedef {Object} SeoMeta
- * @property {string} title
- * @property {string} ogTitle
- * @property {string} ogImage
- * @property {string} ogUrl
- * @property {string} robots
- * @property {string} description
- * @property {string} canonical
- * @property {SeoHreflang[]} hreflangs
- *
- * @typedef {Object} SeoStructure
- * @property {number} listItemsCount
- * @property {number} tableRowsCount
- *
- * @typedef {Object} SeoTexts
- * @property {string[]} h1
- * @property {string[]} h2
- * @property {string[]} h3
- * @property {string[]} h4
- * @property {string[]} h5
- * @property {string[]} h6
- * @property {string[]} p
- * @property {string[]} a
- *
- * @typedef {Object} SeoObject
- * @property {string} htmlTitle
- * @property {SeoTexts} texts
- * @property {SeoStructure} structure
- * @property {any} schema
- * @property {SeoMeta} meta
- * @property {SeoImage[]} images
- */
-
 export class AnyPage extends BasePage {
-  /**
-   * Central repository of CSS selectors used by AnyPage functions. Updating a
-   * selector here affects all SEO/functional collectors.
-   */
   static SELECTORS = {
     canonical: 'link[rel="canonical"]',
     hreflangs: 'link[rel="alternate"][hreflang]',
-    img: 'img',
-    allTags: 'h1,h2,h3,h4,h5,h6,p,a',
-    listItems: 'li',
-    tableRows: 'tr',
+    img: "img",
+    allTags: "h1,h2,h3,h4,h5,h6,p,a",
+    listItems: "li",
+    tableRows: "tr",
     schemaScript: 'script[type="application/ld+json"]',
     metaTitle: 'meta[name="title"]',
     metaOgTitle: 'meta[property="og:title"]',
@@ -65,6 +16,7 @@ export class AnyPage extends BasePage {
     metaRobots: 'meta[name="robots"]',
     metaDescription: 'meta[name="description"]',
     metaOgDescription: 'meta[property="og:description"]',
+    acceptButton: "#ccc-notify-accept",
   };
 
   constructor(page) {
@@ -72,10 +24,6 @@ export class AnyPage extends BasePage {
     this.page = page;
   }
 
-  /**
-   * Ensure images have finished loading by awaiting pending `load` events.  
-   * @returns {Promise<void>}
-   */
   async forceLoadImages() {
     await this.page.evaluate(async (sel) => {
       const images = Array.from(document.querySelectorAll(sel));
@@ -94,10 +42,6 @@ export class AnyPage extends BasePage {
     }, AnyPage.SELECTORS.img);
   }
 
-  /**
-   * Pause animations on carousels to stabilise screenshots.
-   * @returns {Promise<void>}
-   */
   async freezeCarousels() {
     await this.page.addStyleTag({
       content: `
@@ -126,11 +70,6 @@ export class AnyPage extends BasePage {
       .catch(() => {});
   }
 
-  /**
-   * Take a full‑page screenshot.
-   * @param {string} snapshotPath
-   * @returns {Promise<void>}
-   */
   async doScreenshot(snapshotPath) {
     await this.page.screenshot({
       path: snapshotPath,
@@ -138,23 +77,30 @@ export class AnyPage extends BasePage {
     });
   }
 
-  /**
-   * Collects a large set of SEO‑related data from the DOM.  The structure is
-   * defined by {@link SeoObject}.
-   * @returns {Promise<SeoObject>}
-   */
+  getResponseHeaders() {
+    const headers = this.responseHeaders || {};
+    return {
+      contentType: headers["content-type"] || "**Missing**",
+      cacheControl: headers["cache-control"] || "**Missing**",
+      etag: headers["etag"] || undefined,
+      lastModified: headers["last-modified"] || undefined,
+    };
+  }
+
   async getSeoContent() {
-    return await this.page.evaluate((selectors) => {
+    const domData = await this.page.evaluate((selectors) => {
       const getAttr = (sel, attr) => {
         const val = document.querySelector(sel)?.getAttribute(attr);
         return val ? val : "**Missing**";
       };
 
       const collectHreflangs = () =>
-        Array.from(document.querySelectorAll(selectors.hreflangs)).map((link) => ({
-          lang: link.getAttribute("hreflang"),
-          href: link.getAttribute("href"),
-        }));
+        Array.from(document.querySelectorAll(selectors.hreflangs)).map(
+          (link) => ({
+            lang: link.getAttribute("hreflang"),
+            href: link.getAttribute("href"),
+          }),
+        );
 
       const collectTexts = () => {
         const nodes = Array.from(document.querySelectorAll(selectors.allTags));
@@ -169,24 +115,28 @@ export class AnyPage extends BasePage {
       };
 
       const collectSchema = () =>
-        Array.from(document.querySelectorAll(selectors.schemaScript)).map((s) => {
-          try {
-            return JSON.parse(s.innerText);
-          } catch {
-            return "Invalid JSON";
-          }
-        });
+        Array.from(document.querySelectorAll(selectors.schemaScript)).map(
+          (s) => {
+            try {
+              return JSON.parse(s.innerText);
+            } catch {
+              return "Invalid JSON";
+            }
+          },
+        );
 
       const collectImages = () => {
-        return Array.from(document.querySelectorAll(selectors.img)).map((img) => ({
-          filename:
-            (img.getAttribute("src") || "").split("/").pop().split("?")[0] ||
-            "**Missing**",
-          alt: img.getAttribute("alt") || "**Missing**",
-          title: img.getAttribute("title") || "**Missing**",
-          naturalWidth: img.naturalWidth,
-          naturalHeight: img.naturalHeight,
-        }));
+        return Array.from(document.querySelectorAll(selectors.img)).map(
+          (img) => ({
+            filename:
+              (img.getAttribute("src") || "").split("/").pop().split("?")[0] ||
+              "**Missing**",
+            alt: img.getAttribute("alt") || "**Missing**",
+            title: img.getAttribute("title") || "**Missing**",
+            naturalWidth: img.naturalWidth,
+            naturalHeight: img.naturalHeight,
+          }),
+        );
       };
 
       return {
@@ -213,12 +163,13 @@ export class AnyPage extends BasePage {
         images: collectImages(),
       };
     }, AnyPage.SELECTORS);
+
+    return {
+      ...domData,
+      headers: this.getResponseHeaders(),
+    };
   }
 
-  /**
-   * Gather basic functional data like links and forms.
-   * @returns {Promise<{links:string[],forms:Array}>}
-   */
   async getFunctionalData() {
     await this.page
       .waitForSelector("form", { state: "attached", timeout: 5000 })

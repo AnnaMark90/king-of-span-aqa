@@ -35,7 +35,7 @@ export const pathOnlySafe = (url) => {
 
 export const normalizeImages = (images) => {
   if (!images || !Array.isArray(images)) return [];
-
+  // "путь_к_файлу|текст_alt|текст_title"
   return images
     .map((img) => {
       let cleanSrc = "Missing Src";

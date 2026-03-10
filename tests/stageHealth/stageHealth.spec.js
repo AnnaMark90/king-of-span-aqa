@@ -1,13 +1,14 @@
+import fs from "fs";
+import path from "path";
 import { test, expect } from "@playwright/test";
-import { collectEnvData, checkLinksStatus } from "../../helpers/helpers.js";
+import { collectEnvData } from "../../helpers/pageHelpers.js";
+import { checkLinksStatus } from "../../helpers/linkHelpers.js";
 import { getSnapshotPaths } from "../../utils/utils.js";
 import { AnyPage } from "../../pages/AnyPage.js";
 import { TEST_PAGES } from "../../constants/constants.js";
-import fs from "fs";
-import path from "path";
 
 for (const page of TEST_PAGES) {
-  test.skip(`${page.pageKey} stage only Health Check`, () => {
+  test.describe(`URL: /${page.path} stage only Health Check`, () => {
     test.describe(`lang: ${page.lang}`, () => {
       let stageData;
       let diffSeoPath;
