@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       batch_name:
-        description: 'Batch Name (оставьте пустым для запуска всех тестов)'
+        description: ''
         required: false
         default: ''
 
