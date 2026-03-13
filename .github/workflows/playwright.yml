@@ -69,12 +69,15 @@ jobs:
           pattern: blob-report-*
           merge-multiple: true
           
-      - name: Merge Reports
-        run: npx playwright merge-reports --reporter html ./all-blob-reports
+      - name: Merge into Allure Results
+        run: npx playwright merge-reports --reporter allure-playwright ./all-blob-reports
         
-      - name: Upload Final
+      - name: Generate Allure Report
+        run: npx allure generate allure-results -o allure-report --clean
+        
+      - name: Upload Allure Report
         uses: actions/upload-artifact@v4
         with:
-          name: final-playwright-report
-          path: playwright-report
-          retention-days: 7
+          name: allure-html-report
+          path: allure-report
+          retention-days: 14
