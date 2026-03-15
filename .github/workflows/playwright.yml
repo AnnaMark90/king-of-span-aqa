@@ -26,7 +26,7 @@ jobs:
       - name: Install deps
         run: npm ci
       - name: Install Playwright
-        run: npx playwright install --with-deps chromium
+        run: npx playwright install --with-deps
 
       - name: Run default
         if: github.event.inputs.batch_name == '' || github.event.inputs.batch_name == null
