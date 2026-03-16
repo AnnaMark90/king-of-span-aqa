@@ -44,19 +44,6 @@ const rawPaths = fs
   .map((line) => line.trim())
   .filter((line) => line && !line.startsWith("#"));
 
-// export const TEST_PAGES = rawPaths.map((rawPath) => {
-//   const cleanPath = rawPath.replace(/^\//, "");
-//   const parts = cleanPath.split("/").filter(Boolean);
-
-//   return {
-//     lang: parts.length >= 2 ? `${parts[0]}-${parts[1]}` : "default",
-//     pageKey: parts.slice(2).join("/") || "home",
-//     path: cleanPath,
-//     prodUrl: `${PROD_BASE}/${cleanPath}`,
-//     stageUrl: `${STAGE_BASE}/${cleanPath}`,
-//   };
-// });
-
 export const TEST_PAGES = rawPaths.map((rawPath) => {
   const cleanPath = rawPath.replace(/^\/+|\/+$/g, "").trim();
   const parts = cleanPath.split("/").filter(Boolean);

@@ -2,7 +2,7 @@
 
 ## Стек технологий
 
-- **Язык:** TypeScript / Node.js (v20)
+- **Язык:** JavaScript / Node.js (v20)
 - **Фреймворк:** Playwright Test
 - **CI/CD:** GitHub Actions
 - **Визуальное тестирование:** `pixelmatch` + `pngjs` (для попиксельного сравнения)
@@ -12,10 +12,10 @@
 1. Убедитесь, что установлен Node.js версии 20. ( `node -v` )
 2. Склонируйте репозиторий и перейдите в ветку `aqa/parameterized`.
 3. Установите зависимости:
-   1. `npm ci`
-   2. `git clone [https://github.com/github4ta/king-of-spam.git](https://github.com/github4ta/king-of-spam.git)`
-   3. `cd king-of-spam`
-   4. `npx playwright install --with-deps chromium`
+   1. `git clone https://github.com/AnnaMark90/king-of-spam-aqa.git`
+   2. `cd king-of-spam-aqa`
+   3. `npm ci`
+   4. `npx playwright install --with-deps`
 
 ## Структура проекта
 
@@ -37,7 +37,7 @@
 
 ### Запуск тестов (Batch Testing)
 
-Механизм тестирования основан на чтении файлов `.txt` из директории `dataBatches/`. Каждый файл содержит список относительных URL-адресов и представляет собой отдельный набор данных (батч).
+Механизм тестирования основан на чтении файлов `.txt` из директории `dataBatches/`. Каждый файл содержит список относительных URL-адресов и представляет собой отдельный набор данных (батч). Это кастомный скрипт, парсит env.BATCH.
 
 #### Основная команда запуска
 
@@ -57,7 +57,7 @@
 1. **Собрать данные:** Выполнить `npm run get-urls https://www.kingspan.com/pl/pl/sitemap.xml pl_pl`.
    - Скрипт сам создаст файл `dataBatches/pl_pl.txt` с очищенными ссылками.
 2. **Запустить тесты:** Выполнить `npm run test --batch=pl_pl`.
-3. **Проверить отчет:** После завершения выполнить `npx playwright show-report`.
+3. **Проверить отчет:** После завершения выполнить `npx allure serve allure-results`.
 
 #### Приоритет выбора источника данных
 
