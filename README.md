@@ -1,4 +1,4 @@
-# Detailed description of the Project
+# Детальное описание проекта 
 
 ## Стек технологий
 
