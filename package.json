@@ -9,8 +9,8 @@
   },
   "scripts": {
     "test": "npx playwright test",
-    "test:smoke": "npx playwright test tests/smokeChecks.spec.js",
-    "get-urls": "npx playwright test tests/smoke/smokeChecks.spec.js"
+    "test:smoke": "npx playwright test tests/smoke/smokeChecks.spec.js",
+    "get-urls": "node scripts/fetchSitemap.js"
   },
   "keywords": [],
   "author": "",
