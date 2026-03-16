@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20
           cache: "npm"
       - name: Install deps
         run: npm ci
@@ -35,7 +35,7 @@ jobs:
       - name: Run batch
         if: github.event.inputs.batch_name != '' && github.event.inputs.batch_name != null
         env:
-          BATCH_NAME: ${{ github.event.inputs.batch_name }}
+          BATCH: ${{ github.event.inputs.batch_name }}
         run: npx playwright test --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }} --reporter=blob
 
       - name: Upload Blob
@@ -55,7 +55,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20
       - name: Install deps
         run: npm ci
       - name: Download blobs

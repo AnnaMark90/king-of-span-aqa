@@ -2,27 +2,30 @@
   "type": "module",
   "name": "king-of-spam",
   "version": "1.0.0",
-  "description": "",
+  "description": "AQA framework for visual regression and E2E testing",
   "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "test": "npx playwright test",
     "test:smoke": "npx playwright test tests/smokeChecks.spec.js",
-    "get-urls": "node scripts/fetchSitemap.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/github4ta/king-of-spam.git"
+    "get-urls": "npx playwright test tests/smoke/smokeChecks.spec.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/github4ta/king-of-spam/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnnaMark90/king-of-spam-aqa.git"
   },
-  "homepage": "https://github.com/github4ta/king-of-spam#readme",
+  "bugs": {
+    "url": "https://github.com/AnnaMark90/king-of-spam-aqa.git/issues"
+  },
+  "homepage": "https://github.com/AnnaMark90/king-of-spam-aqa#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
-    "@types/node": "^25.3.0",
+    "@types/node": "^20.0.0",
     "allure-commandline": "^2.38.0",
     "allure-playwright": "^3.6.0"
   },
