@@ -12,8 +12,8 @@
 1. Убедитесь, что установлен Node.js версии 20. ( `node -v` )
 2. Склонируйте репозиторий и перейдите в ветку `aqa/parameterized`.
 3. Установите зависимости:
-   1. `git clone https://github.com/AnnaMark90/king-of-spam-aqa.git`
-   2. `cd king-of-spam-aqa`
+   1. `git clone https://github.com/AnnaMark90/king-of-span-aqa.git`
+   2. `cd king-of-span-aqa`
    3. `npm ci`
    4. `npx playwright install --with-deps`
 

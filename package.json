@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "king-of-spam",
+  "name": "king-of-span",
   "version": "1.0.0",
   "description": "AQA framework for visual regression and E2E testing",
   "main": "index.js",
@@ -17,12 +17,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnnaMark90/king-of-spam-aqa.git"
+    "url": "https://github.com/AnnaMark90/king-of-span-aqa.git"
   },
   "bugs": {
-    "url": "https://github.com/AnnaMark90/king-of-spam-aqa.git/issues"
+    "url": "https://github.com/AnnaMark90/king-of-span-aqa.git/issues"
   },
-  "homepage": "https://github.com/AnnaMark90/king-of-spam-aqa#readme",
+  "homepage": "https://github.com/AnnaMark90/king-of-span-aqa#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^20.0.0",
