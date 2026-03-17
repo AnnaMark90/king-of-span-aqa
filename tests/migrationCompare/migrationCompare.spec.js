@@ -88,18 +88,6 @@ for (const page of TEST_PAGES) {
         }
       });
 
-      // test("visual compare", async ({}, testInfo) => {
-
-      //   await compareEnvsSnapshots({
-      //     prodPath: productionPath,
-      //     stagePath: stagingPath,
-      //     diffPath,
-      //     testInfo,
-      //   });
-      // });
-
-      // Замени свой тест на этот:
-
       test("visual compare", async ({}, testInfo) => {
         test.skip(
           !prodData || !stageData,
