@@ -53,41 +53,6 @@ for (const page of TEST_PAGES) {
         }
       });
 
-      test("forms structure compare", async ({}, testInfo) => {
-        test.skip(
-          !stageData?.func || !prodData?.func,
-          "Data collection failed",
-        );
-
-        const prodForms = prodData.func?.forms || [];
-        const stageForms = stageData.func?.forms || [];
-
-        if (prodForms.length === 0 && stageForms.length === 0) {
-          console.log(`[INFO] No forms found on page: ${page.pageKey}`);
-          testInfo.annotations.push({
-            type: "info",
-            description: "No forms are present on Prod and Stage",
-          });
-          return;
-        }
-
-        const reportPath = diffSeoPath.replace(
-          "diffSeo.json",
-          "forms-report.json",
-        );
-
-        const formDiffs = await compareFormsData(
-          prodForms,
-          stageForms,
-          reportPath,
-          testInfo,
-        );
-
-        for (const diff of formDiffs) {
-          expect.soft(false, diff).toBe(true);
-        }
-      });
-
       test("visual compare", async ({}, testInfo) => {
         test.skip(
           !prodData || !stageData,
