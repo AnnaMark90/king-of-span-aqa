@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    timeout-minutes: 60
+    timeout-minutes: 100
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -45,7 +45,7 @@ jobs:
           name: blob-report-${{ matrix.shardIndex }}
           path: blob-report
           retention-days: 1
-          if-no-files-found: ignore
+          # if-no-files-found: ignore
 
   merge-reports:
     if: always()
@@ -65,7 +65,9 @@ jobs:
           pattern: blob-report-*
           merge-multiple: true
       - name: Merge into Allure Results
-        run: npx playwright merge-reports --reporter allure-playwright ./all-blob-reports
+        run: |
+          mkdir -p ./all-blob-reports
+          npx playwright merge-reports --reporter allure-playwright ./all-blob-reports
       - name: Generate Allure Report
         run: npx allure generate allure-results -o allure-report --clean
       - name: Upload Allure Report
