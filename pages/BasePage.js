@@ -10,7 +10,6 @@ export class BasePage {
         timeout: 1500,
         state: "visible",
       });
-      //awaitpage.locator("#ccc-notify-accept").waitFor({timout: 1500})});
       if (button) {
         await button.click();
         await this.page.waitForTimeout(500);
