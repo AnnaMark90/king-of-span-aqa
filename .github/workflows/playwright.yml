@@ -1,5 +1,10 @@
 name: Playwright Tests
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 on:
   workflow_dispatch:
     inputs:
@@ -45,7 +50,6 @@ jobs:
           name: blob-report-${{ matrix.shardIndex }}
           path: blob-report
           retention-days: 1
-          # if-no-files-found: ignore
 
   merge-reports:
     if: always()
@@ -76,3 +80,17 @@ jobs:
           name: allure-html-report
           path: allure-report
           retention-days: 14
+      - name: Prepare lightweight report for GitHub Pages
+        if: always()
+        run: |
+          cp -r allure-report allure-pages
+          find allure-pages -name "*.webm" -type f -delete
+          find allure-pages -name "*.zip" -type f -delete
+      - name: Deploy to GitHub Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-pages
+          publish_branch: gh-pages
+          destination_dir: ${{ github.run_number }}
