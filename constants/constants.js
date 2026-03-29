@@ -5,7 +5,8 @@ export const PROD_BASE = "https://www.kingspan.com";
 export const STAGE_BASE = "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep";
 
 export const USER_AGENT =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36";
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36";
+
 export const getStatusText = (status) => {
   const codes = {
     200: "Successful",
