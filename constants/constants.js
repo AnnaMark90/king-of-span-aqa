@@ -25,10 +25,16 @@ export const getStatusText = (status) => {
   };
   return codes[status] || "Unknown Status";
 };
+
+console.log("Batch Name:", {
+  npm: process.env.npm_config_batch,
+  env: process.env.BATCH,
+});
+
 const batchName = (
   process.env.npm_config_batch ||
   process.env.BATCH ||
-  "excelRun"
+  "testRun"
 ).trim();
 
 const filePath = path.resolve(process.cwd(), `dataBatches/${batchName}.txt`);

@@ -50,7 +50,6 @@
 #### NPM Скрипты в package.json (команды для запуска тестов локально)
 
 - `npm run test` — запуск всех тестов по списку из (`testRun.txt` по умолчанию).
-- `npm run test --batch=имя_файла` — запуск всех тестов по списку из `dataBatches/имя_файла.txt`.
 - `npm run test:smoke --batch=имя_файла` — запуск только быстрых смоук-проверок по выбранному списку.
 - `npm run get-urls <URL_SITEMAP> <BATCH_NAME>` — автоматическое скачивание sitemap.xml, фильтрация лишних локалей и создание батча в `dataBatches/`. Наименование файла соответствует локали (регион и язык).
 - `npm run get-urls:excel` — автоматический парсинг Excel-таблицы (`testDataExcel/migrationTable.xlsx`) и создание батчей для всех вкладок сразу.

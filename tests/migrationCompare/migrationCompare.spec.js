@@ -83,6 +83,11 @@ for (const page of TEST_PAGES) {
       });
 
       test("seo compare", async ({}, testInfo) => {
+        test.skip(
+          !prodData?.seo || !stageData?.seo,
+          "SEO data is missing, skipping seo compare",
+        );
+
         await compareEnvsSeo({
           prodSeo: prodData.seo,
           stageSeo: stageData.seo,

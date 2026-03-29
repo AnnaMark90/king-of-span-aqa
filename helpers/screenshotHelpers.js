@@ -56,6 +56,7 @@ export async function takeSmartScreenshots(page, basePath) {
 
       await page.screenshot({
         path: chunkPath,
+        fullPage: true, // принудительно снимаем всю страницу для корректного clip
         clip: { x: 0, y: clipY, width: bodySize.width, height: clipHeight },
       });
       paths.push(chunkPath);
