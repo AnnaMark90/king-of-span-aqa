@@ -6,11 +6,7 @@
 /fr/fr/divisions/kingspaninsulation/kooltherm/
 /fr/fr/divisions/kingspaninsulation/optim-r/
 /fr/fr/divisions/kingspaninsulation/u-value-calculator-engagements-de-kingspan-direct-marketing/
-/fr/fr/divisions/kingspaninsulation/u-value-calculator-modalites-et-conditions-generales-dutilisation-du-site-internet/
-/fr/fr/divisions/kingspaninsulation/u-value-calculator-politique-controle-sur-les-cookies/
-/fr/fr/divisions/kingspaninsulation/u-value-calculator-responsable-du-traitement-des-donnees/
-/fr/fr/divisions/kingspanisolationtechnique/kooltherm-isolation-de-tuyaux/
-/fr/fr/divisions/kingspaninsulation/
+/fr/fr/divisions/kingspaninsulation/u-value-calculator-modalites-et-conditions-generales-dutilisation-du-site-internet
 /fr/fr/divisions/kingspanisolationtechnique/
 /fr/fr/formations-et-conseils/
 /fr/fr/campagnes/Condit0ons-Generales-de-Vente-de-Kingspan-Insulation/
@@ -27,12 +23,8 @@ fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissa
 /fr/fr/articles-de-connaissance/dpe-et-isolation-thermique-du-batiment/
 r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp/
 /fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pir-gr/
-/fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pur-2ps/
-r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop/
-/fr/fr/produits/protection-passive-contre-lincendie/coupe-feu/mortier-coupe-feu-compund-k-stop/
 /fr/fr/produits/protection-passive-contre-lincendie/protection-contre-la-penetration/bandes-de-tuyaux-k-stop/
 //fr/fr/produits/panneaux-isolants/panneaux-d-isolation-des-facades/
 fr/produits/protection-passive-contre-lincendie/protection-electrique/
 /fr/fr/campagnes/Parlez-nous-d-un-projet/
 /fr/fr/a-propos-de-nous/CentredeDurabilte/
-/fr/fr/a-propos-de-nous/Planet-Passionate/
