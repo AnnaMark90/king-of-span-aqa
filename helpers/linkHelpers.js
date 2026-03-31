@@ -1,5 +1,6 @@
 import { getStatusText, USER_AGENT } from "../constants/constants.js";
 
+// function for link validation, may be reuse for other link-related checks in the future
 export async function checkLinks(browser, url) {
   let context = null;
   let page = null;
@@ -21,7 +22,7 @@ export async function checkLinks(browser, url) {
 
     result.status = response ? response.status() : 0;
 
-    if (response?.status() === 404) {
+    if (response?.status() >= 400) {
       result.ok = false;
     } else {
       result.ok = true;

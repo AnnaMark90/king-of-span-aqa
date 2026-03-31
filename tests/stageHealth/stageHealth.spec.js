@@ -28,6 +28,7 @@ for (const page of TEST_PAGES) {
           url: page.stageUrl,
           PageObject: AnyPage,
           deviceConfig,
+          needsSeo: false,
         });
       });
       test("functionality of links", async ({ request, page }, testInfo) => {

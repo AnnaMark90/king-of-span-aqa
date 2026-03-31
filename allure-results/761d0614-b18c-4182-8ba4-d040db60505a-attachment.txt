@@ -1,9 +1,0 @@
-Opening page: https://www.kingspan.com/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-[LOG] Status: 404 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
-[LOG] Status: 404 | URL: https://www.kingspan.com/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
-[SKIP] Error data received for page: /r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-PROD ERROR https://www.kingspan.com/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop
-STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/protection-passive-contre-lincendie/coupe-feu/mastic-refractaire-k-stop

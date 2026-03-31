@@ -70,13 +70,6 @@ export class AnyPage extends BasePage {
       .catch(() => {});
   }
 
-  async doScreenshot(snapshotPath) {
-    await this.page.screenshot({
-      path: snapshotPath,
-      fullPage: true,
-    });
-  }
-
   getResponseHeaders() {
     const headers = this.responseHeaders || {};
     return {

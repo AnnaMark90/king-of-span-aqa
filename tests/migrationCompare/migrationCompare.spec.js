@@ -33,6 +33,7 @@ for (const page of TEST_PAGES) {
             PageObject: AnyPage,
             snapshotPath: productionPath,
             deviceConfig,
+            needsFunc: false,
           }),
           collectEnvData({
             browser,
@@ -40,6 +41,7 @@ for (const page of TEST_PAGES) {
             PageObject: AnyPage,
             snapshotPath: stagingPath,
             deviceConfig,
+            needsFunc: false,
           }),
         ]);
         if (!prodData?.func || !stageData?.func) {

@@ -1,2 +1,0 @@
-[CRITICAL] Couldn't collect data for: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
-[CRITICAL] Couldn't collect data for: https://www.kingspan.com/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp

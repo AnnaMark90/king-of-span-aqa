@@ -3,8 +3,8 @@ import { expect } from "@playwright/test";
 import path from "path";
 import {
   normalizeHreflangs,
-  normalizeImages,
   pathOnlySafe,
+  normalizeImages,
   normalizePath,
 } from "../utils/utils.js";
 
@@ -177,11 +177,8 @@ export async function compareEnvsSeo({
   addDiff(diff, "canonicalProdSelf", expectedProdPath, prodCanonicalPath);
   addDiff(diff, "canonicalStageSelf", expectedStagePath, stageCanonicalPath);
 
-  const formatImageStrings = (images = []) => {
-    return images.map((img) => `${img.filename} | alt: ${img.alt}`);
-  };
-  const prodImagesStr = formatImageStrings(prodSeo?.images || []);
-  const stageImagesStr = formatImageStrings(stageSeo?.images || []);
+  const prodImagesStr = normalizeImages(prodSeo?.images || []);
+  const stageImagesStr = normalizeImages(stageSeo?.images || []);
   addDiff(diff, "images_and_alts", prodImagesStr, stageImagesStr);
   compareImageDimensions(prodSeo?.images || [], stageSeo?.images || [], diff);
 

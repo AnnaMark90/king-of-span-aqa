@@ -1,17 +1,6 @@
 import fs from "fs";
 import path from "path";
 
-export const isEmpty = (v) => !v || (Array.isArray(v) && v.length === 0);
-
-export const pathOnly = (url) => {
-  if (!url || url === "Missing") return "/";
-  try {
-    return new URL(url).pathname;
-  } catch {
-    return "/";
-  }
-};
-
 export const normalizePath = (p) => {
   if (!p || p === "Missing" || p === "Empty") return p;
   let cleanPath = p.replace(/\/{2,}/g, "/");
@@ -35,23 +24,14 @@ export const pathOnlySafe = (url) => {
 
 export const normalizeImages = (images) => {
   if (!images || !Array.isArray(images)) return [];
-  // "путь_к_файлу|текст_alt|текст_title"
+
   return images
     .map((img) => {
-      let cleanSrc = "Missing Src";
+      const nameOrSrc = img.filename || img.src || "**Missing**";
+      const alt = img.alt || "**Missing**";
+      const title = img.title || "**Missing**";
 
-      if (img.src && img.src !== "Missing" && img.src !== "Empty") {
-        try {
-          const urlObj = new URL(img.src, "https://base.com");
-          cleanSrc = urlObj.pathname;
-        } catch (e) {
-          cleanSrc = img.src;
-        }
-      }
-
-      const alt = img.alt || "";
-      const title = img.title || "";
-      return `${cleanSrc}|${alt}|${title}`;
+      return `${nameOrSrc} | alt: ${alt} | title: ${title}`;
     })
     .sort();
 };

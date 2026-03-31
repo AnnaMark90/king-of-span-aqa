@@ -1,4 +1,0 @@
-Opening page: https://www.kingspan.com/fr/fr/campagnes/full-spectrum-of-insulation-solutions
-Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/full-spectrum-of-insulation-solutions
-[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/full-spectrum-of-insulation-solutions
-[LOG] Status: 200 | URL: https://www.kingspan.com/fr/fr/campagnes/full-spectrum-of-insulation-solutions/

@@ -34,6 +34,8 @@ export async function collectEnvData({
   PageObject,
   snapshotPath,
   deviceConfig = {},
+  needsSeo = true,
+  needsFunc = true,
 }) {
   const context = await browser.newContext({
     userAgent: USER_AGENT,
@@ -60,13 +62,26 @@ export async function collectEnvData({
     await pageObject.forceLoadImages();
 
     const [seo, func] = await Promise.all([
-      safeRun(pageObject.getSeoContent(), null, `getSeoContent ${url}`),
-      safeRun(pageObject.getFunctionalData(), null, `getFunctionalData ${url}`),
+      needsSeo
+        ? safeRun(pageObject.getSeoContent(), null, `getSeoContent ${url}`)
+        : Promise.resolve(null),
+      needsFunc
+        ? safeRun(
+            pageObject.getFunctionalData(),
+            null,
+            `getFunctionalData ${url}`,
+          )
+        : Promise.resolve(null),
     ]);
 
     let snapshotPaths = snapshotPath ? [snapshotPath] : null;
 
     if (snapshotPath) {
+      await safeRun(
+        pageObject.freezeCarousels(),
+        null,
+        `freezeCarousels ${url}`,
+      );
       await safeRun(
         preparePageForScreenshot(page),
         null,
