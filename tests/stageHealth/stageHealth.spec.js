@@ -1,8 +1,9 @@
-import fs from "fs";
-import path from "path";
 import { test, expect } from "@playwright/test";
 import { collectEnvData } from "../../helpers/pageHelpers.js";
-import { checkLinksStatus } from "../../helpers/linkHelpers.js";
+import {
+  checkLinksStatus,
+  handleLinkReport,
+} from "../../helpers/linkHelpers.js";
 import { getSnapshotPaths } from "../../utils/utils.js";
 import { AnyPage } from "../../pages/AnyPage.js";
 import { TEST_PAGES } from "../../constants/constants.js";
@@ -36,18 +37,8 @@ for (const page of TEST_PAGES) {
 
         const { links = [] } = stageData.func || {};
         const linkReport = await checkLinksStatus(request, links);
-        const reportPath = diffSeoPath.replace(
-          "diffSeo.json",
-          "links-report.json",
-        );
-        const dir = path.dirname(reportPath);
-        if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-        fs.writeFileSync(reportPath, JSON.stringify(linkReport, null, 2));
 
-        await testInfo.attach("links-report.json", {
-          body: JSON.stringify(linkReport, null, 2),
-          contentType: "application/json",
-        });
+        await handleLinkReport(linkReport, diffSeoPath, testInfo);
 
         for (const broken of linkReport.broken) {
           expect

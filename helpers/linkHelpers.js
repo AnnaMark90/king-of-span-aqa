@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { getStatusText, USER_AGENT } from "../constants/constants.js";
 
 // function for link validation, may be reuse for other link-related checks in the future
@@ -72,4 +74,16 @@ export async function checkLinksStatus(request, urls) {
     await new Promise((r) => setTimeout(r, 500));
   }
   return results;
+}
+
+export async function handleLinkReport(linkReport, diffSeoPath, testInfo) {
+  const reportPath = diffSeoPath.replace("diffSeo.json", "links-report.json");
+  const dir = path.dirname(reportPath);
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(reportPath, JSON.stringify(linkReport, null, 2));
+
+  await testInfo.attach("links-report.json", {
+    body: JSON.stringify(linkReport, null, 2),
+    contentType: "application/json",
+  });
 }
