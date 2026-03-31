@@ -1,0 +1,150 @@
+{
+  "metaTitle": {
+    "expected": "Página em Construção",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Página em Construção",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Bem-vindo a Kingspan Insulation Portugal",
+        "Contacte-nos"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kingspan Insulation Southern Europe",
+        "Estamos a melhorar o nosso site. Em breve estaremos em funcionamento com muitas novidades. Desculpe o incómodo.",
+        "Cassà de la Selva (Girona) / Tui (Pontevedra)",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "SOMOS FABRICANTES DE ESPUMA RÍGIDA DE POLIURETANO",
+        "Desde 1968, fabricamos espuma rígida de poliuretano para isolamento térmico industrial e para o sector da construção. Estamos presentes no mercado nacional e internacional e produzimos uma gama completa de produtos em densidades entre os 32 e os 300 kg/m3.",
+        "Actualmente dispomos de duas unidades produtivas: uma em Cassà de la Selva (Girona) e outra em Guillarey (Tui-Pontevedra) que nos permitem cobrir as necessidades do mercado de isolamentos térmicos em todo o sul da Europa.",
+        "Algumas das aplicações finais de nossos produtos de isolamento térmico são encontradas em: armazéns agrícolas e industriais, câmaras frigoríficas, carrocerias isotérmicas, paredes, coberturas e pavimentos de edifícios, condutas de ar condicionado, maquetes e protótipos, aplicações florais e hidroponia.",
+        "Para qualquer informação necessária pode escrever para:",
+        "info@kingspanaislamiento.es",
+        "Pode também contactar-nos através do telefone:",
+        "+351 221 104 266",
+        "Endereço:",
+        "Candal Park – Centro de Negócios e Empresas",
+        "Alameda da Empresa, 64, AL09",
+        "4400-335 Vila Nova de Gaia",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "info@kingspanaislamiento.es",
+        "CONTACTE-NOS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Bem-vindo a Kingspan Insulation Portugal",
+        "Contacte-nos"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kingspan Insulation Southern Europe",
+        "Estamos a melhorar o nosso site. Em breve estaremos em funcionamento com muitas novidades. Desculpe o incómodo.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "SOMOS FABRICANTES DE ESPUMA RÍGIDA DE POLIURETANO",
+        "Desde 1968, fabricamos espuma rígida de poliuretano para isolamento térmico industrial e para o sector da construção. Estamos presentes no mercado nacional e internacional e produzimos uma gama completa de produtos em densidades entre os 32 e os 300 kg/m3.",
+        "Actualmente dispomos de duas unidades produtivas: uma em Cassà de la Selva (Girona) e outra em Guillarey (Tui-Pontevedra) que nos permitem cobrir as necessidades do mercado de isolamentos térmicos em todo o sul da Europa.",
+        "Algumas das aplicações finais de nossos produtos de isolamento térmico são encontradas em: armazéns agrícolas e industriais, câmaras frigoríficas, carrocerias isotérmicas, paredes, coberturas e pavimentos de edifícios, condutas de ar condicionado, maquetes e protótipos, aplicações florais e hidroponia.",
+        "Para qualquer informação necessária pode escrever para:",
+        "info@kingspanaislamiento.es",
+        "Pode também contactar-nos através do telefone:",
+        "+351 221 104 266",
+        "Endereço:",
+        "Candal Park – Centro de Negócios e Empresas",
+        "Alameda da Empresa, 64, AL09",
+        "4400-335 Vila Nova de Gaia"
+      ],
+      "a": [
+        "info@kingspanaislamiento.es",
+        "CONTACTE-NOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 26,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/pagina-em-construcao/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/pagina-em-construcao"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/pagina-em-construcao",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/pagina-em-construcao",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Kingspan Isolamento Portugal",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: Kingspan Isolamento Portugal"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

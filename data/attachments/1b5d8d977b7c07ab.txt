@@ -1,0 +1,7 @@
+Opening page: https://www.kingspan.com/pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado
+[LOG] Status: 502 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[LOG] Status: 200 | URL: https://www.kingspan.com/pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado/
+[SKIP] Error data received for page: /pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/carbonoincorporado

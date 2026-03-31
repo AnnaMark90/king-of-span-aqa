@@ -1,0 +1,127 @@
+{
+  "metaTitle": {
+    "expected": "HUB SOSTENIBILIDADE ",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "HUB SOSTENIBILIDADE ",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Construir edifícios para um mundo melhor",
+        "Edifícios para um mundo melhor"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "HUB de Sustentabilidade",
+        "Os edifícios precisam de melhorar de várias formas. Através da inovação em materiais avançados e da digitalização, ajudamos a criar edifícios que respondem aos desafios de sustentabilidade do futuro.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Reduzir a pegada de carbono dos nossos produtos e edifícios, reforçar uma economia circular e sustentável e tornar a construção mais eficiente em termos de tempo e recursos são alguns dos objectivos para os quais estamos a trabalhar. Saiba mais sobre o nosso percurso de sustentabilidade abaixo.",
+        "Neste livro interativo, verá exemplos de arquitectura e design sustentáveis. Descubra como as nossas soluções inovadoras de isolamento e construção contribuem para a sustentabilidade dos edifícios do futuro.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "SOBRE NÓS",
+        "INICIAR A LEITURA",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Construir edifícios para um mundo melhor",
+        "Edifícios para um mundo melhor"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "HUB de Sustentabilidade",
+        "Os edifícios precisam de melhorar de várias formas. Através da inovação em materiais avançados e da digitalização, ajudamos a criar edifícios que respondem aos desafios de sustentabilidade do futuro.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Reduzir a pegada de carbono dos nossos produtos e edifícios, reforçar uma economia circular e sustentável e tornar a construção mais eficiente em termos de tempo e recursos são alguns dos objectivos para os quais estamos a trabalhar. Saiba mais sobre o nosso percurso de sustentabilidade abaixo.",
+        "Neste livro interativo, verá exemplos de arquitectura e design sustentáveis. Descubra como as nossas soluções inovadoras de isolamento e construção contribuem para a sustentabilidade dos edifícios do futuro."
+      ],
+      "a": [
+        "SOBRE NÓS",
+        "INICIAR A LEITURA",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 27,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/sobre-nos/hubsostenibilidade/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/sobre-nos/hubsostenibilidade",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: Edifícios para um mundo melhor",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: edifícios "
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

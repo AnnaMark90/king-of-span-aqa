@@ -1,0 +1,37 @@
+{
+  "successful": [
+    {
+      "url": "https://www.kingspan.com/es/es/sobre-nosotros/planetpassionate",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/eficienciaenergetica",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade",
+      "status": 502,
+      "statusText": "Bad Gateway"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos",
+      "status": 500,
+      "statusText": "Internal Server Error"
+    }
+  ]
+}

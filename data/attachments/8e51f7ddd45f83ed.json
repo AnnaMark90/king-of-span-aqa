@@ -1,0 +1,149 @@
+{
+  "metaTitle": {
+    "expected": "Isolamento Técnico ",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Isolamento Técnico ",
+    "actual": "**Missing**"
+  },
+  "description": {
+    "expected": "Isolamento Técnico \nA gama completa de soluções de isolamento para climatização e indústria. Coquilhas, aduelas, cotovelos, PIR-ALU® e placas de alta densidade.",
+    "actual": "Isolamento Técnico \r\nA gama completa de soluções de isolamento para climatização e indústria. Coquilhas, aduelas, cotovelos, PIR-ALU® e placas de alta densidade."
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Isolamento Técnico"
+      ],
+      "h2": [],
+      "h3": [
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Selecionado",
+        "Selecionado",
+        "Selecionado",
+        "filtro",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Ordenar por",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Painel PIR-ALU 35",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Painel PIR-ALU 45",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Placa PIR-ALU 40",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "TODOS",
+        "CONDUTAS PRÉ-ISOLADAS",
+        "TODOS",
+        "CONDUTAS PRÉ-ISOLADAS",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Painel PIR-ALU 35 Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Painel PIR-ALU 45 Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Placa PIR-ALU 40 Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Isolamento Técnico"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "TODOS",
+        "CONDUTAS PRÉ-ISOLADAS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 34,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-tecnico/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-tecnico"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-tecnico",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-tecnico",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR-ALU 35",
+      "cq5dam.web.1280.1280.png | alt: PIR-ALU 45",
+      "cq5dam.web.1280.1280.png | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

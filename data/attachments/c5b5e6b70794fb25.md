@@ -1,0 +1,163 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link:
+      - /url: /kingspan-dep/fr/fr
+    - button "Open quick search modal" [ref=e6] [cursor=pointer]:
+      - img
+    - button [ref=e8] [cursor=pointer]:
+      - img
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - region [ref=e13]:
+        - generic [ref=e15]:
+          - group [ref=e16]
+          - group [ref=e19]
+          - group [ref=e22]
+      - generic [ref=e26]:
+        - banner [ref=e27]: Créons ensemble des bâtiments durables pour un monde meilleur
+        - button "Que recherchez-vous ?" [ref=e29] [cursor=pointer]:
+          - img [ref=e30]
+          - text: Que recherchez-vous ?
+        - paragraph [ref=e34]:
+          - generic [ref=e35]: "Suggested:"
+          - link "Ecofeu," [ref=e36]:
+            - /url: /kingspan-dep/fr/fr/resultats-de-la-recherche?q=ecofeu
+          - link "QuadCore," [ref=e37]:
+            - /url: /kingspan-dep/fr/fr/resultats-de-la-recherche?q=quadcore
+          - link "Ecoplan" [ref=e38]:
+            - /url: /kingspan-dep/fr/fr/resultats-de-la-recherche?q=ecoplan
+      - button [ref=e40] [cursor=pointer]:
+        - img
+    - generic [ref=e41]:
+      - heading "Les groupes de produits" [level=4] [ref=e42]
+      - region [ref=e44]:
+        - generic [ref=e46]:
+          - group [ref=e47] [cursor=pointer]:
+            - generic [ref=e48]:
+              - heading "Désenfumage Naturel" [level=4] [ref=e50]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/desenfumage-naturel
+          - group [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - heading "Panneaux Sandwich Isolants" [level=4] [ref=e54]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/panneaux-sandwich-isolants
+          - group [ref=e55] [cursor=pointer]:
+            - generic [ref=e56]:
+              - heading "Eclairage Naturel" [level=4] [ref=e58]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/eclairage-naturel
+          - group [ref=e59] [cursor=pointer]:
+            - generic [ref=e60]:
+              - heading "Traitement de l'eau" [level=4] [ref=e62]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/traitement-de-leau
+          - group [ref=e63] [cursor=pointer]:
+            - generic [ref=e64]:
+              - heading "Ventilation Naturelle" [level=4] [ref=e66]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/ventilation-naturelle
+          - group [ref=e67] [cursor=pointer]:
+            - generic [ref=e68]:
+              - heading "Isolation CVC" [level=4] [ref=e70]
+              - generic:
+                - link "En savoir plus":
+                  - /url: /kingspan-dep/fr/fr/produits/isolation-cvc
+          - group [ref=e71] [cursor=pointer]:
+            - generic [ref=e72]:
+              - heading "Cuves de stockage" [level=4] [ref=e74]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/cuves-de-stockage
+          - group [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]:
+              - heading "Télémétrie" [level=4] [ref=e78]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/telemetrie
+          - group [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]:
+              - heading "Salle Blanche" [level=4] [ref=e82]
+              - generic:
+                - link "En savoir plus":
+                  - /url: https://www.kingspan.com/fr/fr/produits/salle-blanche
+          - group [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]:
+              - heading "Panneaux Isolants" [level=4] [ref=e86]
+              - generic:
+                - link "En savoir plus":
+                  - /url: /kingspan-dep/fr/fr/produits/panneaux-isolants
+        - button "Previous slide" [disabled]:
+          - img
+          - generic: Previous slide
+        - button "Next slide" [disabled]:
+          - img
+          - generic: Next slide
+        - tablist "Carousel slides" [ref=e87]:
+          - tab "Slide 1" [selected] [ref=e88] [cursor=pointer]
+          - tab "Slide 2" [ref=e89] [cursor=pointer]
+          - tab "Slide 3" [ref=e90] [cursor=pointer]
+          - tab "Slide 4" [ref=e91] [cursor=pointer]
+          - tab "Slide 5" [ref=e92] [cursor=pointer]
+          - tab "Slide 6" [ref=e93] [cursor=pointer]
+          - tab "Slide 7" [ref=e94] [cursor=pointer]
+          - tab "Slide 8" [ref=e95] [cursor=pointer]
+          - tab "Slide 9" [ref=e96] [cursor=pointer]
+          - tab "Slide 10" [ref=e97] [cursor=pointer]
+    - banner [ref=e98]:
+      - heading "Applications" [level=4] [ref=e99]
+      - generic [ref=e100]:
+        - link "Toiture" [ref=e101]:
+          - /url: /kingspan-dep/fr/fr/applications/toiture
+        - link "Façade" [ref=e102]:
+          - /url: /kingspan-dep/fr/fr/applications/facade
+        - link "Sol" [ref=e103]:
+          - /url: /kingspan-dep/fr/fr/applications/sol
+    - generic [ref=e106]:
+      - heading "Produits populaires" [level=4] [ref=e108]
+      - region [ref=e111]
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - heading "Better Buildings for a Better World" [level=2] [ref=e117]
+        - contentinfo [ref=e119]: Les architectes du monde entier utilisent les produits & solutions de Kingspan pour concevoir des bâtiments remarquables qui ont un véritable impact architectural & relèvent les grands défis auxquels l'environnement bâti est confronté aujourd'hui.
+        - link "découvrir bâtiments améliorés" [ref=e121] [cursor=pointer]:
+          - /url: https://viewer.ipaper.io/kingspan/kingspan-better-buildings-for-a-better-world-issue-2/
+      - img "Better Buildings for a Better World" [ref=e124]
+    - generic [ref=e126]:
+      - img "Explorer notre rapport interactif Planet Passionate" [ref=e129]
+      - generic [ref=e130]:
+        - heading "Notre programme Planet Passionate" [level=2] [ref=e131]
+        - contentinfo [ref=e133]: Découvrez notre programme et apprenez comment nous transformons nos activités et nos produits conformément à notre vision Planet Passionate.
+        - link "En savoir plus" [ref=e135] [cursor=pointer]:
+          - /url: /kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate
+  - contentinfo [ref=e136]:
+    - generic [ref=e137]:
+      - generic [ref=e139]:
+        - heading "Business Groups" [level=3] [ref=e141]:
+          - button "Business Groups" [ref=e142] [cursor=pointer]:
+            - text: Business Groups
+            - img
+        - heading "Products" [level=3] [ref=e144]:
+          - button "Products" [ref=e145] [cursor=pointer]:
+            - text: Products
+            - img
+        - heading "Knowledge & Inspiration" [level=3] [ref=e147]:
+          - button "Knowledge & Inspiration" [ref=e148] [cursor=pointer]:
+            - text: Knowledge & Inspiration
+            - img
+        - heading "Tools & Services" [level=3] [ref=e150]:
+          - button "Tools & Services" [ref=e151] [cursor=pointer]:
+            - text: Tools & Services
+            - img
+      - button "Change country" [ref=e154] [cursor=pointer]:
+        - img
+        - text: Change country
+```

@@ -1,0 +1,147 @@
+{
+  "htmlTitle": {
+    "expected": "null",
+    "actual": "Kooltherm K8"
+  },
+  "metaTitle": {
+    "expected": "Kooltherm K8",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kooltherm K8",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Placa PIR 7C",
+        "Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Placa PIR 7C Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kooltherm K8",
+        "Descargas"
+      ],
+      "h2": [
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "PROPRIEDADES TÉRMICAS",
+        "Kooltherm K5",
+        "Placa PIR 7C",
+        "Kooltherm K15",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "AISLAMIENTO TÉRMICO",
+        "O painel da câmara Kooltherm® K8 consiste num núcleo rígido e de alto desempenho de isolamento de resina modificada termostável.",
+        "Vantagens",
+        "Conductividade térmica (λD) de 0,021 W/(m·K).",
+        "Ideal para nova construção e renovação.",
+        "Leve, fácil de manusear e instalar.",
+        "Isolamento de alta qualidade para ETICS.",
+        "Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+        "Isolamento de alta qualidade para fachadas ventiladas."
+      ],
+      "a": [
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Por correio eletrónico",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 12
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k8/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k8"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k8",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k8",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "**Missing** | alt: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: PIR 7C",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Kooltherm K8",
+      "image | alt: Kooltherm K8",
+      "image | alt: Isolamento de alta qualidade para ETICS.",
+      "image | alt: Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+      "image | alt: Isolamento de alta qualidade para fachadas ventiladas."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 5
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

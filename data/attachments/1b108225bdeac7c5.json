@@ -1,0 +1,130 @@
+{
+  "metaTitle": {
+    "expected": "Circularidade",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Circularidade",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Contribuímos para a circularidade na construção",
+        "A economia circular na Kingspan"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Circularidade",
+        "O sector da construção consome 42 mil milhões de toneladas de materiais por ano e é responsável por 50% de todos os resíduos produzidos. Acreditamos que a transição para uma economia circular é uma oportunidade para alterar esta situação.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Para abordar a circularidade na construção, um fabricante precisa de uma abordagem de todo o ciclo de vida do produto e de colaboração para permitir uma mudança sistémica no sector. Graças ao nosso novo quadro de circularidade de produtos LIFECycle, estamos a desenvolver roteiros holísticos para os nossos produtos, desde a concepção para desmontagem até à reciclagem em fim de vida. Abaixo pode ver como as nossas iniciativas e inovações contribuem para melhorar a circularidade dos nossos produtos.",
+        "No nosso relatório Planet Passionate, explicamos em pormenor a nossa estrutura de circularidade de produtos LIFECycle e todas as iniciativas e projectos-piloto que estamos a realizar para impulsionar a economia circular na Kingspan.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "HUB SOSTENIBILIDADE",
+        "LER O RELATÓRIO",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Contribuímos para a circularidade na construção",
+        "A economia circular na Kingspan"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Circularidade",
+        "O sector da construção consome 42 mil milhões de toneladas de materiais por ano e é responsável por 50% de todos os resíduos produzidos. Acreditamos que a transição para uma economia circular é uma oportunidade para alterar esta situação.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Para abordar a circularidade na construção, um fabricante precisa de uma abordagem de todo o ciclo de vida do produto e de colaboração para permitir uma mudança sistémica no sector. Graças ao nosso novo quadro de circularidade de produtos LIFECycle, estamos a desenvolver roteiros holísticos para os nossos produtos, desde a concepção para desmontagem até à reciclagem em fim de vida. Abaixo pode ver como as nossas iniciativas e inovações contribuem para melhorar a circularidade dos nossos produtos.",
+        "No nosso relatório Planet Passionate, explicamos em pormenor a nossa estrutura de circularidade de produtos LIFECycle e todas as iniciativas e projectos-piloto que estamos a realizar para impulsionar a economia circular na Kingspan."
+      ],
+      "a": [
+        "Sobre nós",
+        "HUB SOSTENIBILIDADE",
+        "LER O RELATÓRIO",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/sobre-nos/hubsostenibilidade/circularidade/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/circularidade"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/sobre-nos/hubsostenibilidade/circularidade",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade/circularidade",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: LIFECycle Product ",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: LIFECycle Product "
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

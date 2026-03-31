@@ -1,0 +1,197 @@
+{
+  "htmlTitle": {
+    "expected": "Leading with Passion | Kingspan FR",
+    "actual": "Leading with Passion"
+  },
+  "metaTitle": {
+    "expected": "Leading with Passion",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Leading with Passion",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Agir avec passion"
+      ],
+      "h2": [
+        "Domaines d'action prioritaires",
+        "Produits Phares"
+      ],
+      "h3": [
+        "Planet Passionate",
+        "Innovation",
+        "Circularité",
+        "Énergie solaire et énergies renouvelables",
+        "De meilleurs bâtiments",
+        "Parrainage sportif",
+        "Concours MICROHOME"
+      ],
+      "h4": [
+        "Animés par la passion de nos collaborateurs"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "C'est une quête intentionnelle et énergique de l'excellence dans tout ce que nous faisons. Nous vivons selon ce principe, nous l'exploitons et il nous pousse à aller de l'avant.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "La crise climatique s'accélère, mais le monde ne change pas assez vite. Faire avancer les choses est une responsabilité partagée. Grâce à notre ambitieux programme Planet Passionate, nous voulons jouer notre rôle dans la décarbonisation de l'environnement bâti à l'échelle mondiale et contribuer à la lutte contre le changement climatique, à la mise en place d'une économie circulaire et à la protection du monde naturel.",
+        "Partout dans le monde, nos collaborateurs passionnés sont les moteurs d'un véritable changement. Depuis plusieurs dizaines d'années, nous contribuons à faire progresser notre secteur grâce à l'innovation et à des actions significatives. De mieux construire. Avec dévouement, avec engagement, mais surtout en agissant toujours avec passion.",
+        "PLANET PASSIONATE",
+        "Notre ambitieux programme Planet Passionate nous pousse à repenser l’industrie : des solutions performantes, conçues pour préserver la planète sans compromis.",
+        "INNOVATION",
+        "Nous remettons en question les conventions, repoussons les limites et progressons chaque jour. Ensemble, nous innovons pour être à la pointe du progrès.",
+        "CAMPAGNE",
+        "Nous adoptons les principes de la circularité, dans le but de minimiser les déchets et d'optimiser l'utilisation des ressources.",
+        "Nous souhaitons proposer des produits offrant des performances thermiques élevées et contribuant activement au fonctionnement des bâtiments.",
+        "BETTER BUILDINGS",
+        "Partout dans le monde, des architectes utilisent les produits et solutions Kingspan pour concevoir de remarquables bâtiments.",
+        "kingspan-france:categorie/campagne/parrainage",
+        "Nous nous associons à des partenaires qui reflètent notre identité et les valeurs que nous défendons en tant que marque.",
+        "kingspan-france:categorie/campagne/partenariat",
+        "MICROHOME met l'accent sur l'idée qu'un aménagement micro-habitation judicieux ne commence pas par l'excès, mais par l'intention.",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Agir avec passion"
+      ],
+      "h2": [],
+      "h3": [
+        "Planet Passionate",
+        "Innovation",
+        "Circularité",
+        "De meilleurs bâtiments",
+        "Parrainage sportif",
+        "Concours MICROHOME",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Animés par la passion de nos collaborateurs",
+        "Domaines d'action prioritaires",
+        "Produits Phares",
+        "Énergie solaire et énergies renouvelables",
+        "Solutions biosourcées",
+        "Réduction de l'empreinte carbone"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "C'est une quête intentionnelle et énergique de l'excellence dans tout ce que nous faisons. Nous vivons selon ce principe, nous l'exploitons et il nous pousse à aller de l'avant.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "La crise climatique s'accélère, mais le monde ne change pas assez vite. Faire avancer les choses est une responsabilité partagée. Grâce à notre ambitieux programme Planet Passionate, nous voulons jouer notre rôle dans la décarbonisation de l'environnement bâti à l'échelle mondiale et contribuer à la lutte contre le changement climatique, à la mise en place d'une économie circulaire et à la protection du monde naturel.",
+        "Partout dans le monde, nos collaborateurs passionnés sont les moteurs d'un véritable changement. Depuis plusieurs dizaines d'années, nous contribuons à faire progresser notre secteur grâce à l'innovation et à des actions significatives. De mieux construire. Avec dévouement, avec engagement, mais surtout en agissant toujours avec passion.",
+        "Notre ambitieux programme Planet Passionate nous pousse à repenser l’industrie : des solutions performantes, conçues pour préserver la planète sans compromis.",
+        "Nous remettons en question les conventions, repoussons les limites et progressons chaque jour. Ensemble, nous innovons pour être à la pointe du progrès.",
+        "Nous adoptons les principes de la circularité, dans le but de minimiser les déchets et d'optimiser l'utilisation des ressources.",
+        "Nous souhaitons proposer des produits offrant des performances thermiques élevées et contribuant activement au fonctionnement des bâtiments.",
+        "Nous souhaitons proposer une gamme complète de produits et élargissons notre offre d'isolation afin d'y inclure des produits alternatifs biosourcés.",
+        "Nous développons à l'élaboration de versions à faible empreinte carbone (LEC) des produits existants de notre gamme.",
+        "Partout dans le monde, des architectes utilisent les produits et solutions Kingspan pour concevoir de remarquables bâtiments.",
+        "Nous nous associons à des partenaires qui reflètent notre identité et les valeurs que nous défendons en tant que marque.",
+        "MICROHOME met l'accent sur l'idée qu'un aménagement micro-habitation judicieux ne commence pas par l'excès, mais par l'intention."
+      ],
+      "a": [
+        "ACCUEIL",
+        "CAMPAGNES",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 47,
+    "actual": 12
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/campagnes/leading-with-passion/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/leading-with-passion"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/campagnes/leading-with-passion",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/campagnes/leading-with-passion",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: people in boats on water",
+      "cq5dam.web.1280.1280.png | alt: two girls talking",
+      "cq5dam.web.1280.1280.jpeg | alt: Blue material",
+      "cq5dam.web.1280.1280.png | alt: Nous souhaitons proposer des produits offrant des performances thermiques élevées et contribuant activement au fonctionnement des bâtiments.",
+      "cq5dam.web.1280.1280.jpeg | alt: better buildings magazine cover",
+      "cq5dam.web.1280.1280.jpeg | alt: GGE team",
+      "cq5dam.web.1280.1280.png | alt: microhome ",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Notre ambitieux programme Planet Passionate nous pousse à repenser l’industrie : des solutions performantes, conçues pour préserver la planète sans compromis.",
+      "image | alt: Nous remettons en question les conventions, repoussons les limites et progressons chaque jour. Ensemble, nous innovons pour être à la pointe du progrès.",
+      "image | alt: Nous adoptons les principes de la circularité, dans le but de minimiser les déchets et d'optimiser l'utilisation des ressources.",
+      "image | alt: man on roof",
+      "image | alt: man with materials",
+      "image | alt: people walking in high vis",
+      "image | alt: C22.9789 BB Website Imagery_v3",
+      "image | alt: Nous nous associons à des partenaires qui reflètent notre identité et les valeurs que nous défendons en tant que marque.",
+      "image | alt: MICROHOME met l'accent sur l'idée qu'un aménagement micro-habitation judicieux ne commence pas par l'excès, mais par l'intention."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 11,
+    "actual": 10
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "htmlTitle": {
+    "expected": "null",
+    "actual": "Therma TT47 SP"
+  },
+  "metaTitle": {
+    "expected": "Therma TT47 SP",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Therma TT47 SP",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Therma TT47 SP",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa isolante de espuma rígida de poliisocianurato Therma TT47 SP, com espessura variável, fornece uma alternativa prática à utilização de betonilhas para realização de pendentes.",
+        "Vantagens",
+        "Isolamento e drenagem numa só placa.",
+        "Menor espessura do isolamento devido ao baixo coeficiente de condutividade térmica da espuma de poliisocianurato.",
+        "Fornece uma alternativa prática à utilização de betonilhas ou inclinações estruturais.",
+        "Placas de grande rigidez e pouco peso.",
+        "Facilidade de manipulação e montagem."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 14
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/therma-tt47/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/therma-tt47"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/therma-tt47",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/therma-tt47",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: Therma TT47"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 4,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

@@ -1,0 +1,9 @@
+Opening page: https://www.kingspan.com/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+[LOG] Status: 404 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[LOG] Status: 404 | URL: https://www.kingspan.com/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[SKIP] Error data received for page: /r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+PROD ERROR https://www.kingspan.com/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/r/produits/panneaux-isolants/panneaux-isolants-de-toitures/therma-tr29-sp

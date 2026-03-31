@@ -1,0 +1,138 @@
+{
+  "metaTitle": {
+    "expected": "Placa PIR AF",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PIR AF",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PIR AF"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento de espuma rígida de poliisocianurato PIR AF destaca-se pela sua boa resistência térmica, que permite o uso de espessuras menores de painel isolante, assim como a sua rigidez e leveza que facilitam o manuseamento e implementação. O poder isolante da placa PIR AF assegura um bom conforto térmico uma vez instalado. O PIR AF é utilizado como isolamento térmico para fachadas ventiladas e destaca-se pelo seu bom desempenho mecânico e bom comportamento de reacção ao fogo.",
+        "Vantagens",
+        "Baixo coeficiente de condutibilidade térmica.",
+        "Alta resistência à compressão.",
+        "Facilidade de manuseamento",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "DESCARREGAR IMAGEM",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PIR AF",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "CERTIFICADO ACERMI",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "O revestimento de alumínio estampado em ambos os lados da placa de isolamento de espuma rígida de poliisocianurato PIR AF dá à placa uma boa estabilidade dimensional e funciona como uma barreira de vapor.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes, com λd tão baixo como 0,023W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Fácil de manipular e instalar.",
+        "Encaixe macho-fêmea nos quatro lados reduzindo risco de pontes térmicas.",
+        "Boa reação ao fogo: Classe C-s2, d0",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto)."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 34,
+    "actual": 15
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-af/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-af"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-af",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-af",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR AF",
+      "cq5dam.web.1280.1280.png | alt: PIR AF",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: PIR AF"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 6,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

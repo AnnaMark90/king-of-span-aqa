@@ -1,0 +1,134 @@
+{
+  "htmlTitle": {
+    "expected": "null",
+    "actual": "Kingspan Optim-R"
+  },
+  "metaTitle": {
+    "expected": "Kingspan Optim-R",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kingspan Optim-R",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [
+        "Produtos Recomendados"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Placa PIR-AK 500",
+        "Placa de espuma rígida PIR de alta densidade.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Placa PIR-AK 500 Placa de espuma rígida PIR de alta densidade.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kingspan Optim-R"
+      ],
+      "h2": [
+        "Navigation",
+        "Placa PIR-AK 500",
+        "Kooltherm K3"
+      ],
+      "h3": [
+        "Placa PIR-AK 500",
+        "Kooltherm K3",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Product Highlights",
+        "Placa de espuma rígida PIR de alta densidade.",
+        "Isolamento de alta qualidade para pisos."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/optim-r/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/optim-r"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/optim-r",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/optim-r",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR-AK 500",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: OPTIM - R ",
+      "image | alt: Placa de espuma rígida PIR de alta densidade.",
+      "image | alt: Isolamento de alta qualidade para pisos."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 4
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

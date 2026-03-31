@@ -1,0 +1,242 @@
+{
+  "htmlTitle": {
+    "expected": "Kingspan Insulation | Kingspan FR",
+    "actual": "Kingspan Insulation"
+  },
+  "metaTitle": {
+    "expected": "Kingspan Insulation",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kingspan Insulation",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Kingspan Insulation"
+      ],
+      "h2": [
+        "Isolation haute performance",
+        "Découvrez nos produits",
+        "Produits Kooltherm",
+        "Panneaux d'isolation des façades",
+        "Panneaux d'isolation des sols",
+        "Panneaux d'isolation des plafonds",
+        "Produits Kooltherm",
+        "Panneaux d'isolation des façades",
+        "Panneaux d'isolation des sols",
+        "Panneaux d'isolation des plafonds",
+        "Produits Kooltherm",
+        "Panneaux d'isolation des façades",
+        "Panneaux d'isolation des sols",
+        "Panneaux d'isolation des plafonds",
+        "Plus de Kingspan Insulation",
+        "Actualités",
+        "Contactez-nous"
+      ],
+      "h3": [
+        "Nous fournissons à nos clients du secteur de la construction des produits isolants en mousse rigide accompagnés de tous les éventuels conseils nécessaires",
+        "Nos valeurs fondamentales",
+        "Nous sommes Planet Passionate",
+        "Nous partageons nos connaissances"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Nous utilisons des cookies sur notre site internet www.kingspan.com. Certains de ces cookies sont essentiels tandis que d'autres nous aident à améliorer notre site internet et à personnaliser votre expérience d'utilisation du site. Veuillez noter que si vous n'acceptez pas les cookies fonctionnels et analytiques, certaines parties de notre site peuvent ne pas fonctionner. Pour plus d'informations sur les cookies que nous utilisons, veuillez consulter notre page Politique et Contrôle sur les cookies. Les pages Politique et Contrôle sur les cookies et Politique de confidentialité du site Internet ont été mis à jour le 1er février 2022.",
+        "Qui sommes-nous ?",
+        "Nous concevons et fabriquons des panneaux d'isolation de qualité supérieure. Nous nous concentrons sur l'innovation qui fait la différence pour vous : nous proposons des produits plus fins, plus légers et plus performants avec notre gamme Kooltherm.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Nous portons une attention particulière à l’innovation, à la durabilité, à la sécurité et nous laissons beaucoup de place à la conception et à l’inspiration pour contribuer à la construction de bâtiments résidentiels et de bureaux d’avenir.",
+        "SERVICE",
+        "Nous sommes confrontés à un défi majeur : l'espace s'épuise et il faut encore plus de bâtiments. Nous abordons ce sujet ici.",
+        "SOLUTIONS DURABLES",
+        "10 ans. 4 domaines stratégiques principaux : Energie, Carbone, Circularité, Eau. Découvrez notre programme décennal Planet Passionate.",
+        "SERVICE",
+        "Des experts dévoués et à votre écoute donnent des conseils techniques; de plus nous organisons des formations et des webinaires dans le cadre de notre programme",
+        "Diagnostic de performance énergétique (DPE) et isolation thermique du bâtiment",
+        "Comment améliorer le DPE avec nos panneaux d’isolation pour ITE",
+        "Nous participons à la Journée du gros pull",
+        "Enfilez un gros pull et baissez le chauffage à la maison ou au bureau d'un degré.",
+        "Restez connecté",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "www.kingspan.com",
+        "notre page Politique et Contrôle sur les cookies",
+        "ACCUEIL",
+        "LEARN MORE",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kingspan Insulation",
+        "Isolation haute performance"
+      ],
+      "h2": [],
+      "h3": [
+        "Nos valeurs fondamentales",
+        "Nous sommes Planet Passionate",
+        "Nous partageons nos connaissances",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Découvrez nos produits",
+        "Produits Kooltherm",
+        "Panneaux d'isolation des façades",
+        "Panneaux d'isolation des sols",
+        "Panneaux d'isolation des plafonds",
+        "Plus de Kingspan Insulation",
+        "Actualités",
+        "Contactez-nous"
+      ],
+      "h5": [],
+      "h6": [
+        "Restez connecté"
+      ],
+      "p": [
+        "Qui sommes-nous ?",
+        "Nous concevons et fabriquons des panneaux d'isolation de qualité supérieure. Nous nous concentrons sur l'innovation qui fait la différence pour vous : nous proposons des produits plus fins, plus légers et plus performants avec notre gamme Kooltherm.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Nous portons une attention particulière à l’innovation, à la durabilité, à la sécurité et nous laissons beaucoup de place à la conception et à l’inspiration pour contribuer à la construction de bâtiments résidentiels et de bureaux d’avenir.",
+        "Nous sommes confrontés à un défi majeur : l'espace s'épuise et il faut encore plus de bâtiments. Nous abordons ce sujet ici.",
+        "10 ans. 4 domaines stratégiques principaux : Energie, Carbone, Circularité, Eau. Découvrez notre programme décennal Planet Passionate.",
+        "Des experts dévoués et à votre écoute donnent des conseils techniques; de plus nous organisons des formations et des webinaires dans le cadre de notre programme",
+        "Diagnostic de performance énergétique (DPE) et isolation thermique du bâtiment",
+        "Comment améliorer le DPE avec nos panneaux d’isolation pour ITE",
+        "Nous participons à la Journée du gros pull",
+        "Enfilez un gros pull et baissez le chauffage à la maison ou au bureau d'un degré."
+      ],
+      "a": [
+        "ACCUEIL",
+        "DIVISIONS",
+        "LEARN MORE",
+        "LEARN MORE",
+        "LEARN MORE",
+        "LEARN MORE",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 44,
+    "actual": 13
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/divisions/kingspaninsulation/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspaninsulation"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/divisions/kingspaninsulation",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/divisions/kingspaninsulation",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Isolation haute performance",
+      "cq5dam.web.1280.1280.png | alt: Nos valeurs fondamentales",
+      "cq5dam.web.1280.1280.jpeg | alt: Nous sommes Planet Passionate",
+      "cq5dam.web.1280.1280.jpeg | alt: Nous partageons nos connaissances",
+      "cq5dam.thumbnail.48.48.png | alt: Diagnostic de performance énergétique (DPE) et isolation thermique du bâtiment",
+      "cq5dam.web.1280.1280.jpeg | alt: Diagnostic de performance énergétique (DPE) et isolation thermique du bâtiment",
+      "cq5dam.thumbnail.48.48.png | alt: Nous participons à la Journée du gros pull",
+      "cq5dam.web.1280.1280.jpeg | alt: Nous participons à la Journée du gros pull",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Isolation haute performance",
+      "image | alt: Brandvalues general image 4/3 ratio",
+      "image | alt: Ocean image",
+      "image | alt: Brand values Expertise",
+      "image | alt: **Missing**",
+      "image | alt: Thick Sweater Day - header"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 7
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "fr-BE|/kingspan-dep/be/fr/divisions/kingspaninsulation",
+      "fr-FR|/kingspan-dep/fr/fr/divisions/kingspaninsulation",
+      "nl-BE|/kingspan-dep/be/nl/kingspan-divisies/kingspaninsulation",
+      "nl-NL|/kingspan-dep/nl/nl/kingspan-divisies/kingspaninsulation",
+      "en-US|/kingspan-dep/us/en/business-groups/kingspan-insulation",
+      "en-CA|/kingspan-dep/ca/en/business-groups/kingspan-insulation",
+      "en-AU|/kingspan-dep/au/en/business-groups/kingspan-insulation",
+      "en-NZ|/kingspan-dep/nz/en/business-groups/kingspan-insulation",
+      "en-GB|/kingspan-dep/gb/en/business-groups/kingspan-insulation",
+      "en-IE|/kingspan-dep/ie/en/business-groups-in-ireland/kingspan-insulation-boards",
+      "fi-FI|/kingspan-dep/fi/fi/liiketoimintayksikot/kingspaninsulation",
+      "cs-CZ|/kingspan-dep/cz/cs/obchodni-skupiny/KingspanIzolace",
+      "de-DE|/kingspan-dep/de/de/geschaftsbereiche/kingspan-insulation",
+      "pl-PL|/kingspan-dep/pl/pl/kingspan-w-polsce/kingspanizolacje",
+      "en-SG|/kingspan-dep/sg/en/business-groups/kingspan-insulation",
+      "en-VN|/kingspan-dep/vn/en/business-groups/kingspan-insulation",
+      "en-AE|/kingspan-dep/ae/en/business-groups/kingspan-insulation",
+      "en-QA|/kingspan-dep/qa/en/business-groups/kingspan-insulation",
+      "en-SA|/kingspan-dep/sa/en/business-groups/kingspan-insulation",
+      "da-DK|/kingspan-dep/dk/da/forretningsgruppe/kingspan-insulation",
+      "et-EE|/kingspan-dep/ee/et/ettevotted/kingspan-insulation",
+      "lt-LT|/kingspan-dep/lt/lt/verslo-grupes/kingspan-insulation",
+      "lv-LV|/kingspan-dep/lv/lv/biznesa-grupas/kingspan-insulation",
+      "nn-NO|/kingspan-dep/no/nn/forretningsomrader/kingspan-insulation",
+      "sv-SE|/kingspan-dep/se/sv/affarsenheter/kingspan-insulation",
+      "es-ES|/kingspan-dep/es/es/sedes/kingspan-insulation"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

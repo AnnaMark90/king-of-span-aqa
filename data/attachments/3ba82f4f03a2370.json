@@ -1,0 +1,160 @@
+{
+  "metaTitle": {
+    "expected": "Sobre nos",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Sobre nos",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "CERTIFICAÇÕES"
+      ],
+      "h2": [
+        "PRODUTOS POR APLICAÇÃO",
+        "COBERTURAS",
+        "PAREDES",
+        "PAVIMENTOS",
+        "COBERTURAS",
+        "PAREDES",
+        "PAVIMENTOS",
+        "COBERTURAS",
+        "PAREDES",
+        "PAVIMENTOS",
+        "Para mais informações, contactar"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kingspan Insulation S.A.U. é uma empresa dedicada ao fabrico de espumas rígidas de poliuretano e poliisocianurato para aplicações de isolamento térmico no sector industrial e da construção.",
+        "Kingspan Insulation S.A.U. está presente nos principais mercados nacionais e internacionais desde 1968, e graças à sua ampla experiência no campo das espumas rígidas de poliuretano (PUR) e poliisocianurato (PIR), oferece uma gama completa de produtos em densidades de 32 e 450 kg/m3, obtendo bons isolantes térmicos com altas propriedades mecânicas, leveza e alta rigidez.",
+        "Para além dos isolamentos em espuma de PUR e PIR, oferecemos isolamentos térmicos de alto rendimento como os painéis de vácuo (Optim-R) ou os painéis de espuma fenólica, assim como isolamentos acústicos (Troldtekt), entre outros, para cobrir as necessidades mais exigentes do mercado dos isolamentos.",
+        "Kingspan Insulation S.A.U. é líder de mercado no sector dos isolamentos com soluções de alto rendimento térmico.",
+        "Oferecemos aos nossos clientes aconselhamento e uma vasta gama de soluções de isolamento de espuma rígida termoendurecível de alta qualidade.",
+        "Atualmente, dispomos de dois centros de produção: um em Cassà de la Selva (Girona) e outro em Guillarey (Tui - Pontevedra) que nos permitem cobrir as necessidades do mercado de isolamento em todo o sul da Europa.",
+        "Para além destas duas fábricas, temos um escritório em Portugal que nos permite responder às necessidades do mercado português de uma forma direta e eficiente e estamos a construir um novo centro de produção em França, especificamente em Riom, para responder à elevada procura do mercado de isolamento na zona francesa.",
+        "Algumas das aplicações finais dos nossos produtos como isolantes térmicos são: tectos falsos de edifícios agrícolas, telhados de edifícios industriais, câmaras frigoríficas, carroçarias de camiões isotérmicos, painéis de parede e teto de edifícios, pavimentos térmicos, condutas de ar condicionado, modelos e protótipos, aplicações florais e hidroponia.",
+        "Apostamos na inovação, sustentabilidade, segurança e no fornecimento de soluções que dão mais espaço ao design e à inspiração e contribuem para a construção das casas e edifícios do futuro.",
+        "Dispomos de marcação CE para produtos de isolamento térmico para edifícios (EN 13165) e para produtos de isolamento térmico para equipamentos em edifícios e instalações industriais (EN 14308).",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "SABER MAIS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "CERTIFICAÇÕES"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "PRODUTOS POR APLICAÇÃO",
+        "COBERTURAS",
+        "PAREDES",
+        "PAVIMENTOS",
+        "COBERTURAS",
+        "PAREDES",
+        "PAVIMENTOS",
+        "Para mais informações, contactar"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kingspan Insulation S.A.U. é uma empresa dedicada ao fabrico de espumas rígidas de poliuretano e poliisocianurato para aplicações de isolamento térmico no sector industrial e da construção.",
+        "Kingspan Insulation S.A.U. está presente nos principais mercados nacionais e internacionais desde 1968, e graças à sua ampla experiência no campo das espumas rígidas de poliuretano (PUR) e poliisocianurato (PIR), oferece uma gama completa de produtos em densidades de 32 e 450 kg/m3, obtendo bons isolantes térmicos com altas propriedades mecânicas, leveza e alta rigidez.",
+        "Para além dos isolamentos em espuma de PUR e PIR, oferecemos isolamentos térmicos de alto rendimento como os painéis de vácuo (Optim-R) ou os painéis de espuma fenólica, assim como isolamentos acústicos (Troldtekt), entre outros, para cobrir as necessidades mais exigentes do mercado dos isolamentos.",
+        "Kingspan Insulation S.A.U. é líder de mercado no sector dos isolamentos com soluções de alto rendimento térmico.",
+        "Oferecemos aos nossos clientes aconselhamento e uma vasta gama de soluções de isolamento de espuma rígida termoendurecível de alta qualidade.",
+        "Atualmente, dispomos de dois centros de produção: um em Cassà de la Selva (Girona) e outro em Guillarey (Tui - Pontevedra) que nos permitem cobrir as necessidades do mercado de isolamento em todo o sul da Europa.",
+        "Para além destas duas fábricas, temos um escritório em Portugal que nos permite responder às necessidades do mercado português de uma forma direta e eficiente e estamos a construir um novo centro de produção em França, especificamente em Riom, para responder à elevada procura do mercado de isolamento na zona francesa.",
+        "Algumas das aplicações finais dos nossos produtos como isolantes térmicos são: tectos falsos de edifícios agrícolas, telhados de edifícios industriais, câmaras frigoríficas, carroçarias de camiões isotérmicos, painéis de parede e teto de edifícios, pavimentos térmicos, condutas de ar condicionado, modelos e protótipos, aplicações florais e hidroponia.",
+        "Apostamos na inovação, sustentabilidade, segurança e no fornecimento de soluções que dão mais espaço ao design e à inspiração e contribuem para a construção das casas e edifícios do futuro.",
+        "Dispomos de marcação CE para produtos de isolamento térmico para edifícios (EN 13165) e para produtos de isolamento térmico para equipamentos em edifícios e instalações industriais (EN 14308)."
+      ],
+      "a": [
+        "SABER MAIS",
+        "SABER MAIS",
+        "SABER MAIS",
+        "SABER MAIS",
+        "SABER MAIS",
+        "SABER MAIS",
+        "Por correio eletrónico",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 26,
+    "actual": 10
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/grupos-de-negocios/sobrenosostros/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/grupos-de-negocios/sobrenosostros"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/grupos-de-negocios/sobrenosostros",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/grupos-de-negocios/sobrenosostros",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: QUALIDADE",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: qualidade"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

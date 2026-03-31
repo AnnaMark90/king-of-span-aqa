@@ -1,0 +1,169 @@
+{
+  "metaTitle": {
+    "expected": "Placa PUR AL",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PUR AL",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PUR AL"
+      ],
+      "h2": [
+        "Produtos Recomendados"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "O poder isolante da placa PUR AL assegura um bom conforto térmico. O seu acabamento em alumínio protege a placa de atmosferas agressivas e facilita a lavagem sob pressão para uma boa higiene nas instalações agrícolas. A sua rigidez permite comprimentos até 10m. minimizando as juntas durante a montagem. É fácil de instalar, graças aos sistemas de ajuste de perfis em PVC e ranhuras das placas. O seu acabamento em alumínio-kraft garante um longa vida útil de instalação.",
+        "Vantagens",
+        "Baixa condutividade térmica de, no máximo 0,027 W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "O complexo multicamadas de alumínio protege o placa da atmosfera agressiva comum nas explorações agropecuárias.",
+        "Disponível em comprimentos personalizados.",
+        "Fácil de manipular e instalar.",
+        "Possibilidade de ranhura longitudinal para utilização de perfil de PVC em forma de \"H\".",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Placa PIR GR",
+        "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Placa PUR PS",
+        "Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Placa PUR 2 PS",
+        "Placa de espuma PIR revestida com um revestimento reforçado de poliéster.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "DESCARREGAR IMAGEM",
+        "Placa PIR GR Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Placa PUR PS Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Placa PUR 2 PS Placa de espuma PIR revestida com um revestimento reforçado de poliéster.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PUR AL",
+        "Descargas"
+      ],
+      "h2": [
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "Placa PIR GR",
+        "Placa PUR PS",
+        "Placa PUR 2 PS",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento de espuma de poliisocianurato PUR AL tem boa resistência térmica, permitindo a utilização de placas de menor espessura. Placas com elevada rigidez, leves e com um complexo multicamadas de alumínio-kraft em mabas as faces.",
+        "Vantagens",
+        "Baixa condutividade térmica de, no máximo 0,027 W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "O complexo multicamadas de alumínio protege o placa da atmosfera agressiva comum nas explorações agropecuárias.",
+        "Disponível em comprimentos personalizados.",
+        "Fácil de manipular e instalar.",
+        "Possibilidade de ranhura longitudinal para utilização de perfil de PVC em forma de \"H\".",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Placa de espuma PIR revestida com um revestimento reforçado de poliéster."
+      ],
+      "a": [
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 39,
+    "actual": 17
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-al/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-al"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-al",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-al",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "original | alt: PUR AL ",
+      "original | alt: PUR AL ",
+      "plus-icon-fat.fc912760.svg | alt: See more bulletpoints",
+      "cq5dam.web.1280.1280.png | alt: PIR GR",
+      "original | alt: PUR PS",
+      "cq5dam.web.1280.1280.png | alt: PUR 2PS",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "image | alt: PUR AL ",
+      "image | alt: Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+      "image | alt: Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+      "image | alt: Placa de espuma PIR revestida com um revestimento reforçado de poliéster."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 10,
+    "actual": 4
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

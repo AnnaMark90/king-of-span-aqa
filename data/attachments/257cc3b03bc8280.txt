@@ -1,0 +1,4 @@
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous
+Opening page: https://www.kingspan.com/fr/fr/a-propos-de-nous
+[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous
+[LOG] Status: 200 | URL: https://www.kingspan.com/fr/fr/a-propos-de-nous/

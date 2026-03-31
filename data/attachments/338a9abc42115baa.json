@@ -1,0 +1,173 @@
+{
+  "metaTitle": {
+    "expected": "Placa PIR AK",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PIR AK",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PIR AK"
+      ],
+      "h2": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "Placa de espuma rígida de poliisocianurato (PIR) revestida em ambos os lados com um complexo de alumínio-kraft multicamada. O seu poder isolante assegura um bom conforto térmico uma vez instalado. Também se destaca pelo seu desempenho mecânico, permitindo a sua aplicação como isolante térmico em pisos de câmaras frigoríficas com altas exigências de carga ou em isolamento térmico em coberturas planas de edifícios sob a membrana de impermeabilização e protecção pesada.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes, com λd de 0,022W/mK.",
+        "Vasta gama de espessuras disponíveis, bem como diferentes dimensões.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manusear e de trabalhar no local da obra.",
+        "Certificação ACERMI disponível.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Placa PIR CM-BL",
+        "Placa de espuma PIR revestida com complexo de kraft-alumínio multicamadas.",
+        "Placa PIR 5C",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PIR BV",
+        "Placa de espuma rígida PIR BV revestida de ambos os lados.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "DESCARREGAR IMAGEM",
+        "Placa PIR CM-BL Placa de espuma PIR revestida com complexo de kraft-alumínio multicamadas.",
+        "Placa PIR 5C Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PIR BV Placa de espuma rígida PIR BV revestida de ambos os lados.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PIR AK",
+        "Descargas"
+      ],
+      "h2": [
+        "Informação técnica",
+        "Placa PIR CM-BL",
+        "Placa PIR 5C",
+        "Placa PIR BV"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "CERTIFICADO ACERMI",
+        "Placa PIR CM-BL",
+        "Placa PIR 5C",
+        "Placa PIR BV",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento rígido de espuma de poliisocianurato PIR AK destaca-se pela sua boa resistência térmica, que permite a utilização de espessuras menores de painel isolante. Sua rigidez e leveza facilitam o seu manuseamento e instalação.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes, com λd de 0,022W/mK.",
+        "Vasta gama de espessuras disponíveis, bem como diferentes dimensões.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manusear e de trabalhar no local da obra.",
+        "Certificação ACERMI disponível.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Placa de espuma PIR revestida com complexo de kraft-alumínio multicamadas.",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa de espuma rígida PIR BV revestida de ambos os lados."
+      ],
+      "a": [
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Por correio eletrónico",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 15
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "plus-icon-fat.fc912760.svg | alt: See more bulletpoints",
+      "cq5dam.web.1280.1280.png | alt: PIR CM-BL",
+      "cq5dam.web.1280.1280.png | alt: PIR 5C",
+      "cq5dam.web.1280.1280.png | alt: PIR BV",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: PIR AK",
+      "image | alt: Placa de espuma PIR revestida com complexo de kraft-alumínio multicamadas.",
+      "image | alt: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada. ",
+      "image | alt: Placa de espuma rígida PIR BV revestida de ambos os lados."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 10,
+    "actual": 5
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

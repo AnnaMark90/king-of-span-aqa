@@ -1,0 +1,47 @@
+{
+  "successful": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pir-gr",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-al",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-2-ps",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pur-ps",
+      "status": 502,
+      "statusText": "Bad Gateway"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

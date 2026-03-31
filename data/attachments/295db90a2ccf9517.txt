@@ -1,0 +1,4 @@
+Opening page: https://www.kingspan.com/fr/fr/produits/protection-passive-contre-lincendie/protection-contre-la-penetration/bandes-de-tuyaux-k-stop
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/produits/protection-passive-contre-lincendie/protection-contre-la-penetration/bandes-de-tuyaux-k-stop
+[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/produits/protection-passive-contre-lincendie/protection-contre-la-penetration/bandes-de-tuyaux-k-stop
+[LOG] Status: 200 | URL: https://www.kingspan.com/fr/fr/produits/protection-passive-contre-lincendie/protection-contre-la-penetration/bandes-de-tuyaux-k-stop/

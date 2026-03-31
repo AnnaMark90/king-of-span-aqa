@@ -1,0 +1,142 @@
+{
+  "metaTitle": {
+    "expected": "Placa PIR 7C",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PIR 7C",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PIR 7C"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "O poder isolante da placa PIR 7C combinado com a capacidade reflectora da camada exterior de alumínio garante um bom conforto térmico uma vez instalada. O multicamadas de alumínio e o papel kraft está em ambas as faces da placa. A placa PIR 7C também se destaca pelo seu bom desempenho mecânico e boa estabilidade dimensional. A placa PIR 7C é um isolante térmico com múltiplas aplicações, embora a sua principal aplicação seja como isolante térmico de paredes duplas.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes, com λd tão baixo como 0,023W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manipular e instalar.",
+        "Dimensões adequadas para aplicação no local.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "DESCARREGAR IMAGEM",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PIR 7C",
+        "Descargas"
+      ],
+      "h2": [
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "CERTIFICADO ACERMI",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento de espuma rígida de poliisocianurato PIR 7C destaca-se pela sua boa resistência térmica, que permite a utilização de espessuras menores de placa isolante. A sua rigidez e leveza facilitam o manuseamento e instalação.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes, com λd tão baixo como 0,023W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manipular e instalar.",
+        "Dimensões adequadas para aplicação no local.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto)."
+      ],
+      "a": [
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 15
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-7c/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-7c"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-7c",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-7c",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR 7C",
+      "cq5dam.web.1280.1280.png | alt: PIR 7C",
+      "plus-icon-fat.fc912760.svg | alt: See more bulletpoints",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: PIR 7C"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

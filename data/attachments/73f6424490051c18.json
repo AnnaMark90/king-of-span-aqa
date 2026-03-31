@@ -1,0 +1,224 @@
+{
+  "htmlTitle": {
+    "expected": "Kooltherm | Kingspan FR",
+    "actual": "Kooltherm"
+  },
+  "metaTitle": {
+    "expected": "Kooltherm  ",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kooltherm  ",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Haute performance thermique avec une faible épaisseur."
+      ],
+      "h2": [
+        "Application",
+        "Les avantages de Kooltherm",
+        "Produits Kooltherm",
+        "Contactez-nous"
+      ],
+      "h3": [
+        "Traitement"
+      ],
+      "h4": [
+        "Haute performance technique",
+        "Esthétisme optimisée",
+        "Les bonnes caractéristiques au feu"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kooltherm",
+        "Ces panneaux isolants en mousse résolique ont une très longue durée de vie, permettent d'économiser de l'énergie et offrent des constructions plus fines. Ils permettent ainsi d'économiser sur les coûts totaux de construction.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Les panneaux isolants Kooltherm se distinguent des autres matériaux d'isolation par ses très bonnes propriétés d'isolation. Avec une valeur lambda de 0,022 W/(m∙K), ils sont parmi les meilleurs du marché.",
+        "Des structures plus légères signifient des économies sur les coûts globaux de construction. Après tout, vous avez besoin de moins de matériaux de construction. De plus, il vous donne plus d'espace. C'est gagnant-gagnant, non ?",
+        "La mousse résolique Kooltherm est un matériau isolant avec un bon comportement au feu. En effet, la mousse résolique se carbonise à proximité immédiate du feu. Ce phénomène permet de protéger le reste de l’isolant.",
+        "L'isolation Kooltherm peut être utilisée pour presque toutes les applications, notamment :",
+        "Tant en rénovation qu'en construction neuve.",
+        "Léger, facile et rapide à traiter.",
+        "Vue Rapide",
+        "Kooltherm K5 FR Panneau ETICS",
+        "Isolation thermique résolique pour façades sans lame d’air (ETICS)",
+        "Vue Rapide",
+        "Kooltherm K15 FR Panneau Façade Ventilée",
+        "Isolant thermique pour façades ventilées, vêtures et vêtages",
+        "Vue Rapide",
+        "Kooltherm K20 FR Panneau Elément Béton",
+        "Isolation thermique en mousse résolique pour éléments préfabriqués en béton",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "KINGSPAN INSULATION",
+        "Kooltherm K5 FR Panneau ETICS Isolation thermique résolique pour façades sans lame d’air (ETICS)",
+        "Kooltherm K15 FR Panneau Façade Ventilée Isolant thermique pour façades ventilées, vêtures et vêtages",
+        "Kooltherm K20 FR Panneau Elément Béton Isolation thermique en mousse résolique pour éléments préfabriqués en béton",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Haute performance thermique avec une faible épaisseur.",
+        "Application"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Haute performance technique",
+        "Esthétisme optimisée",
+        "Les bonnes caractéristiques au feu",
+        "Les avantages de Kooltherm",
+        "Traitement",
+        "Plus d'espace",
+        "Noyau sans fibre",
+        "Durabilité",
+        "Produits Kooltherm",
+        "Contactez-nous"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kooltherm",
+        "Ces panneaux isolants en mousse résolique ont une très longue durée de vie, permettent d'économiser de l'énergie et offrent des constructions plus fines. Ils permettent ainsi d'économiser sur les coûts totaux de construction.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Les panneaux isolants Kooltherm se distinguent des autres matériaux d'isolation par ses très bonnes propriétés d'isolation. Avec une valeur lambda de 0,022 W/(m∙K), ils sont parmi les meilleurs du marché.",
+        "Des structures plus légères signifient des économies sur les coûts globaux de construction. Après tout, vous avez besoin de moins de matériaux de construction. De plus, il vous donne plus d'espace. C'est gagnant-gagnant, non ?",
+        "La mousse résolique Kooltherm est un matériau isolant avec un bon comportement au feu. En effet, la mousse résolique se carbonise à proximité immédiate du feu. Ce phénomène permet de protéger le reste de l’isolant.",
+        "L'isolation Kooltherm peut être utilisée pour presque toutes les applications, notamment :",
+        "Tant en rénovation qu'en construction neuve.",
+        "Léger, facile et rapide à traiter.",
+        "Une solution thermique haute performante en mousse rigide pour des constructions fines et donc plus d'espace.",
+        "L'absence de fibres limite l'irritation de la peau et des yeux.",
+        "Kooltherm fait partie de notre initiative de durabilité Planet Passionate."
+      ],
+      "a": [
+        "Accueil",
+        "KINGSPAN INSULATION",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 52,
+    "actual": 16
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/divisions/kingspaninsulation/kooltherm/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspaninsulation/kooltherm"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/divisions/kingspaninsulation/kooltherm",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/divisions/kingspaninsulation/kooltherm",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Application",
+      "cq5dam.web.1280.1280.png | alt: Léger, facile et rapide à traiter.",
+      "cq5dam.web.1280.1280.png | alt: Kooltherm K5 FR corner ",
+      "cq5dam.web.1280.1280.png | alt: Kooltherm K15 corner",
+      "**Missing** | alt: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: Kooltherm K20 coin",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "image | alt: les produits Kooltherm en application",
+      "image | alt: Léger, facile et rapide à traiter",
+      "image | alt: Une solution thermique haute performante en mousse rigide pour des constructions fines",
+      "image | alt: Noyau sans fibre",
+      "image | alt: Kooltherm fait partie de notre initiative de durabilité Planet Passionate."
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 5
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "fr-BE|/kingspan-dep/be/fr/divisions/kingspaninsulation/kooltherm",
+      "fr-FR|/kingspan-dep/fr/fr/divisions/kingspaninsulation/kooltherm",
+      "nl-BE|/kingspan-dep/be/nl/kingspan-divisies/kingspaninsulation/kooltherm",
+      "nl-NL|/kingspan-dep/nl/nl/kingspan-divisies/kingspaninsulation/kooltherm",
+      "en-AE|/kingspan-dep/ae/en/business-groups/kingspan-insulation/Kooltherm",
+      "de-DE|/kingspan-dep/de/de/geschaftsbereiche/kingspan-insulation/kooltherm",
+      "en-GB|/kingspan-dep/gb/en/business-groups/kingspan-insulation/kooltherm",
+      "en-IE|/kingspan-dep/ie/en/business-groups-in-ireland/kingspan-insulation-boards/kooltherm",
+      "fi-FI|/kingspan-dep/fi/fi/liiketoimintayksikot/kingspaninsulation/kooltherm",
+      "cs-CZ|/kingspan-dep/cz/cs/obchodni-skupiny/KingspanIzolace/kooltherm",
+      "pl-PL|/kingspan-dep/pl/pl/kingspan-w-polsce/kingspanizolacje/kooltherm",
+      "en-US|/kingspan-dep/us/en/business-groups/kingspan-insulation/kooltherm.html",
+      "en-AU|/kingspan-dep/au/en/business-groups/kingspan-insulation/Kooltherm",
+      "en-QA|/kingspan-dep/qa/en/business-groups/kingspan-insulation/Kooltherm",
+      "en-SA|/kingspan-dep/sa/en/business-groups/kingspan-insulation/Kooltherm",
+      "da-DK|/kingspan-dep/dk/da/forretningsgruppe/kingspan-insulation/kooltherm",
+      "et-EE|/kingspan-dep/ee/et/ettevotted/kingspan-insulation/kooltherm",
+      "lt-LT|/kingspan-dep/lt/lt/verslo-grupes/kingspan-insulation/kooltherm",
+      "lv-LV|/kingspan-dep/lv/lv/biznesa-grupas/kingspan-insulation/kooltherm",
+      "sv-SE|/kingspan-dep/se/sv/affarsenheter/kingspan-insulation/kooltherm",
+      "nn-NO|/kingspan-dep/no/nn/forretningsomrader/kingspan-insulation/kooltherm",
+      "de-AT|/kingspan-dep/at/de/geschaftsbereiche/kingspan-insulation/kooltherm",
+      "de-CH|/kingspan-dep/ch/de/geschaftsbereiche/kingspan-insulation/kooltherm",
+      "es-ES|/kingspan-dep/es/es/sedes/kingspan-insulation/kooltherm"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

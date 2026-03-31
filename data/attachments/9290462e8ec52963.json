@@ -1,0 +1,208 @@
+{
+  "htmlTitle": {
+    "expected": "Nous partageons nos connaissances | Kingspan FR",
+    "actual": "Nous partageons nos connaissances"
+  },
+  "metaTitle": {
+    "expected": "Nous partageons nos connaissances",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Nous partageons nos connaissances",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Nous partageons nos connaissances"
+      ],
+      "h2": [
+        "Nos valeurs fondamentales",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective"
+      ],
+      "h3": [],
+      "h4": [
+        "Collège Kingspan",
+        "Expertise en matière de sécurité incendie"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "\"Nous mettons notre expertise et nos connaissances à votre service\"",
+        "Nous n'utilisons pas seulement nos connaissances pour la qualité de nos produits et services. Nous mettons également notre expertise à la disposition de tous, autour de nombreuses questions et sujets techniques. Des experts dévoués et à votre écoute donnent des conseils techniques; de plus nous organisons des formations et des webinaires dans le cadre de notre programme de formation Kingspan College. Nous considérons que toute connaissance partagée est multipliée.",
+        "Pour tous ceux qui appliquent, utilisent ou vendent des produits Kingspan, Kingspan propose des formations au bureau, sur chantier, chez nous ou en ligne. Nos experts vous forment, vous et votre équipe.",
+        "Découvrir plus",
+        "Chez Kingspan, nous investissons beaucoup dans les tests et essais et nous partageons ces connaissances et données avec ceux qui le souhaitent. Nos produits sont soumis à des tests approfondis et certifiés.",
+        "Découvrir plus",
+        "Restez connecté",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "KINGSPAN INSULATION - NOTRE HISTOIRE",
+        "Découvrir plus",
+        "Découvrir plus",
+        "EN SAVOIR PLUS",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Nous partageons nos connaissances"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Collège Kingspan",
+        "Expertise en matière de sécurité incendie",
+        "Nos valeurs fondamentales",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective"
+      ],
+      "h5": [],
+      "h6": [
+        "Restez connecté"
+      ],
+      "p": [
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "\"Nous mettons notre expertise et nos connaissances à votre service\"",
+        "Nous n'utilisons pas seulement nos connaissances pour la qualité de nos produits et services. Nous mettons également notre expertise à la disposition de tous, autour de nombreuses questions et sujets techniques. Des experts dévoués et à votre écoute donnent des conseils techniques; de plus nous organisons des formations et des webinaires dans le cadre de notre programme de formation Kingspan College. Nous considérons que toute connaissance partagée est multipliée.",
+        "Pour tous ceux qui appliquent, utilisent ou vendent des produits Kingspan, Kingspan propose des formations au bureau, sur chantier, chez nous ou en ligne. Nos experts vous forment, vous et votre équipe.",
+        "Découvrir plus",
+        "Chez Kingspan, nous investissons beaucoup dans les tests et essais et nous partageons ces connaissances et données avec ceux qui le souhaitent. Nos produits sont soumis à des tests approfondis et certifiés.",
+        "Découvrir plus"
+      ],
+      "a": [
+        "Accueil",
+        "KINGSPAN INSULATION - NOTRE HISTOIRE",
+        "Découvrir plus",
+        "Découvrir plus",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 45,
+    "actual": 14
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogImage": {
+    "expected": "/content/dam/kingspan/kil/campaigns/kice/kingspan-insulation-brandvalues-expertise-image-kice.jpg",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "kingspan-insulation-brandvalues-expertise-image-kice-7.jpeg | alt: Kingspan College",
+      "kingspan-insulation-brandvalues-expertise-image-kice-1.jpeg | alt: Expertise en matière de sécurité incendie",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Kingspan College",
+      "image | alt: Expertise en matière de sécurité incendie"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 6,
+    "actual": 3
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "nl-NL|/kingspan-dep/nl/nl/campagnes/kingspan-insulation-ons-verhaal/we-delen-onze-kennis",
+      "nl-BE|/kingspan-dep/be/nl/campagnes/kingspan-insulation-ons-verhaal/we-delen-onze-kennis",
+      "fr-BE|/kingspan-dep/be/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances",
+      "fr-FR|/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-partageons-nos-connaissances",
+      "de-DE|/kingspan-dep/de/de/kampagnen/kingspan-insulation-unsere-geschichte/wir-geben-unser-wissen-weiter",
+      "da-DK|/kingspan-dep/dk/da/kampagne/vores-historie/ekspertise",
+      "fi-FI|/kingspan-dep/fi/fi/kampanjat/kingspan-insulation-tarinamme/Asiantuntemus",
+      "sv-SE|/kingspan-dep/se/sv/kampanjer/kingspan-insulation-var-historia/expertis",
+      "nn-NO|/kingspan-dep/no/nn/kampanjer/var-historie/ekspertise",
+      "lt-LT|/kingspan-dep/lt/lt/kampanijos/kingspan-insulation-musu-istorija/zinios",
+      "et-EE|/kingspan-dep/ee/et/kampaaniad/meie-lugu/kompetentsus",
+      "lv-LV|/kingspan-dep/lv/lv/kampanas/musu-stasts/kompetence"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

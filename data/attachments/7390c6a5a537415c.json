@@ -1,0 +1,47 @@
+{
+  "successful": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k8",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/poliuretanos-pir-af",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k15",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes",
+      "status": "FAILED",
+      "statusText": "apiRequestContext.get: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - → GET https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes\u001b[22m\n\u001b[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: identity\u001b[22m\n\u001b[2m  - ← 200 OK\u001b[22m\n\u001b[2m    - content-type: text/html; charset=utf-8\u001b[22m\n\u001b[2m    - transfer-encoding: chunked\u001b[22m\n\u001b[2m    - connection: keep-alive\u001b[22m\n\u001b[2m    - date: Mon, 30 Mar 2026 12:05:05 GMT\u001b[22m\n\u001b[2m    - x-powered-by: Next.js\u001b[22m\n\u001b[2m    - cache-control: private, no-cache, no-store, max-age=0, must-revalidate\u001b[22m\n\u001b[2m    - content-security-policy: frame-ancestors 'self' https://app.storyblok.com\u001b[22m\n\u001b[2m    - vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\u001b[22m\n\u001b[2m    - link: </_next/static/media/KingspanBrownTT_Italic-s.p.979696f9.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/KingspanBrownTT_Light-s.p.1807a2d9.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/KingspanBrownTT_LightItalic-s.p.d783c4fb.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/KingspanBrownTT_Regular-s.p.6df690df.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/KingspanBrownTT_Thin-s.p.baa8fd9a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/KingspanBrownTT_ThinItalic-s.p.186d0eea.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/6ea06df6138b4a49.css>; rel=preload; as=\"style\", </_next/static/chunks/1d9e01b0556f7967.css>; rel=preload; as=\"style\"\u001b[22m\n\u001b[2m    - x-cache: Miss from cloudfront\u001b[22m\n\u001b[2m    - via: 1.1 e03c3b2e76c2e46cbc607e6b6a7c780a.cloudfront.net (CloudFront)\u001b[22m\n\u001b[2m    - x-amz-cf-pop: LAX53-P6\u001b[22m\n\u001b[2m    - x-amz-cf-id: IsPW_iteTdPBS0RLKCuej5o08XRdUwXIahQI4BwF-USevauGVwz3NQ==\u001b[22m\n"
+    }
+  ]
+}

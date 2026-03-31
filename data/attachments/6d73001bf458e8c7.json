@@ -1,0 +1,171 @@
+{
+  "metaTitle": {
+    "expected": "Kingspan Insulation",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kingspan Insulation",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Kingspan Insulation",
+        "Contacte-nos",
+        "Isolamento Térmico",
+        "Isolamento Técnico"
+      ],
+      "h2": [
+        "KINGSPAN INSULATION",
+        "Kingspan Insulation",
+        "Descubra as nossas soluções",
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉCNICO"
+      ],
+      "h3": [
+        "Isolamento Térmico",
+        "Isolamento Técnico"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [
+        "Sede Central",
+        "Delegação da Galiza"
+      ],
+      "p": [
+        "Como parte do Grupo Kingspan, somos líderes na fabricação de produtos de isolamento térmico rígido de alta qualidade e elevado desempenho para os sectores industrial e da construção. Concentramo-nos na inovação para fornecer materiais mais leves e de elevado desempenho térmico.",
+        "Kingspan Isulation S.A.U",
+        "C. de Serinyà, 9 (Pol Ind El Trust)",
+        "17244 Cassà de la Selva- Girona",
+        "T: +34 972 460 472",
+        "E: info@kingspanaislamiento.es",
+        "C. Albelos, 2 (Zona Ind Guillarei)",
+        "36720 Tui- Pontevedra",
+        "T: +34 986 60 14 22",
+        "Produtos com elevadas propriedades mecânicas, baixo peso, boa rigidez e boas propriedades térmicas.",
+        "Gama completa de soluções de isolamento para ar condicionado e indústria.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "FORMULÁRIO DE CONTATO",
+        "Isolamento Térmico",
+        "Isolamento Técnico",
+        "SABER MAIS",
+        "SABER MAIS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kingspan Insulation",
+        "Contacte-nos",
+        "Isolamento Térmico",
+        "Isolamento Técnico"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Descubra as nossas soluções",
+        "Precisa de mais informações?"
+      ],
+      "h5": [],
+      "h6": [
+        "Sede Central",
+        "Delegação da Galiza"
+      ],
+      "p": [
+        "Como parte do Grupo Kingspan, somos líderes na fabricação de produtos de isolamento térmico rígido de alta qualidade e elevado desempenho para os sectores industrial e da construção. Concentramo-nos na inovação para fornecer materiais mais leves e de elevado desempenho térmico.",
+        "Kingspan Isulation S.A.U",
+        "C. de Serinyà, 9 (Pol Ind El Trust)",
+        "17244 Cassà de la Selva- Girona",
+        "T: +34 972 460 472",
+        "E: info@kingspanaislamiento.es",
+        "C. Albelos, 2 (Zona Ind Guillarei)",
+        "36720 Tui- Pontevedra",
+        "T: +34 986 60 14 22",
+        "Produtos com elevadas propriedades mecânicas, baixo peso, boa rigidez e boas propriedades térmicas.",
+        "Gama completa de soluções de isolamento para ar condicionado e indústria."
+      ],
+      "a": [
+        "FORMULÁRIO DE CONTATO",
+        "Isolamento Térmico",
+        "Isolamento Técnico",
+        "SABER MAIS",
+        "SABER MAIS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 26,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/contacto-kingspan/kingspan-insulation/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/contacto-kingspan/kingspan-insulation"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/contacto-kingspan/kingspan-insulation",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/contacto-kingspan/kingspan-insulation",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Kingspan Insulation",
+      "original | alt: Isolamento Térmico",
+      "cq5dam.web.1280.1280.jpeg | alt: Isolamento Técnico",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: Sede central da Kingspan Insulation na Espanha",
+      "image | alt: Isolamento Térmico",
+      "image | alt: Isolamento Técnico"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 4
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

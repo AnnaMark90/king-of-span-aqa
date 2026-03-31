@@ -1,0 +1,254 @@
+{
+  "htmlTitle": {
+    "expected": "À propos de nous | Kingspan FR",
+    "actual": "À propos de nous"
+  },
+  "metaTitle": {
+    "expected": "À propos de nous",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "À propos de nous",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Nous encourageons le développement durable, l'innovation et la performance."
+      ],
+      "h2": [
+        "PLANET PASSIONATE",
+        "Découvrez notre programme Planet Passionate",
+        "En savoir plus sur nos activités en France",
+        "SOLUTIONS DURABLES",
+        "Des bâtiments durables pour un monde meilleur",
+        "Actualites"
+      ],
+      "h3": [
+        "Panneaux Sandwich Isolants",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Isolation Techniques",
+        "Kingspan Water & Energy"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Kingspan France",
+        "Découvrez comment concevoir de meilleurs bâtiments pour un monde meilleur grâce aux solutions avancées en matière d’isolation et d’enveloppe du bâtiment de Kingspan, synonymes de performances accrues.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Kingspan est l’acteur mondial de premier plan dans le domaine des solutions avancées d’isolation et d’enveloppe du bâtiment. Nous avons pour mission d’accélérer l’avènement d’un avenir à zéro émission nette, en plaçant le bien-être des personnes et de la planète au cœur de notre action. Faites défiler la page pour en savoir plus sur nos activités, notre vision de la durabilité et notre stratégie d’innovation en Irlande. Visitez le site Web du groupe Kingspan pour en apprendre davantage sur notre activité mondiale.",
+        "1965",
+        "Année",
+        "Créé en Irlande",
+        "80+",
+        "Pays",
+        "Mondial",
+        "22,000",
+        "Employées",
+        "Mondial",
+        "212+",
+        "Sites de Production",
+        "Mondial",
+        "Découvrez notre programme et apprenez comment nous transformons nos activités et nos produits conformément à notre vision Planet Passionate.",
+        "Découvrez comment nos produits et solutions permettent de construire des bâtiments circulaires et décarbonisés, plus efficaces thermiquement, offrant un meilleur bien être à ses occupants grâce aux ressources naturelles.",
+        "Comprendre la nouvelle norme EN 17037",
+        "Nos 4 recommandations clés énoncées dans la nouvelle norme européenne d'éclairage naturel: EN 17037.",
+        "La grêle a fait des dégâts récemment",
+        "Kingspan Light + Air s'occupe de la remise en état de vos installations de lanterneaux endommagés",
+        "Rester à Jour",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "groupe Kingspan",
+        "EN SAVOIR PLUS",
+        "LISEZ NOTRE DERNIER RAPPORT",
+        "Panneaux Sandwich Isolants",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Isolation Techniques",
+        "Kingspan Water & Energy",
+        "EN SAVOIR PLUS",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Nous encourageons le développement durable, l'innovation et la performance."
+      ],
+      "h2": [
+        "Navigation",
+        "Découvrez notre programme Planet Passionate",
+        "Des bâtiments durables pour un monde meilleur"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "En savoir plus sur nos activités en France"
+      ],
+      "h5": [],
+      "h6": [
+        "Rester à Jour"
+      ],
+      "p": [
+        "Kingspan France",
+        "Découvrez comment concevoir de meilleurs bâtiments pour un monde meilleur grâce aux solutions avancées en matière d’isolation et d’enveloppe du bâtiment de Kingspan, synonymes de performances accrues.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Kingspan est l’acteur mondial de premier plan dans le domaine des solutions avancées d’isolation et d’enveloppe du bâtiment. Nous avons pour mission d’accélérer l’avènement d’un avenir à zéro émission nette, en plaçant le bien-être des personnes et de la planète au cœur de notre action. Faites défiler la page pour en savoir plus sur nos activités, notre vision de la durabilité et notre stratégie d’innovation en Irlande. Visitez le site Web du groupe Kingspan pour en apprendre davantage sur notre activité mondiale.",
+        "Année",
+        "Créé en Irlande",
+        "Pays",
+        "Mondial",
+        "Employées",
+        "Mondial",
+        "Sites de Production",
+        "Mondial",
+        "Découvrez notre programme et apprenez comment nous transformons nos activités et nos produits conformément à notre vision Planet Passionate.",
+        "Découvrez comment nos produits et solutions permettent de construire des bâtiments circulaires et décarbonisés, plus efficaces thermiquement, offrant un meilleur bien être à ses occupants grâce aux ressources naturelles."
+      ],
+      "a": [
+        "ACCUEIL",
+        "groupe Kingspan",
+        "EN SAVOIR PLUS",
+        "LISEZ NOTRE DERNIER RAPPORT",
+        "Panneaux Sandwich Isolants",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Isolation Techniques",
+        "Kingspan Water & Energy",
+        "EN SAVOIR PLUS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 44,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/a-propos-de-nous/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/a-propos-de-nous",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/a-propos-de-nous",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Planet Passionate report",
+      "cq5dam.web.1280.1280.jpeg | alt: better buildings issue 2",
+      "cq5dam.web.1280.1280.jpeg | alt: Comprendre la nouvelle norme EN 17037",
+      "cq5dam.web.1280.1280.jpeg | alt: La grêle a fait des dégâts récemment",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Planet Passionate report",
+      "image | alt: better buildings issue 2"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 8,
+    "actual": 2
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/about-us",
+      "de-AT|/kingspan-dep/at/de/uber-uns",
+      "nl-BE|/kingspan-dep/be/nl/over-ons",
+      "fr-BE|/kingspan-dep/be/fr/a-propos-de-kingspan",
+      "bs-BA|/kingspan-dep/ba/bs/o-nama",
+      "en-CA|/kingspan-dep/ca/en/about-us",
+      "es-CO|/kingspan-dep/co/es/sobre-nosotros",
+      "hr-HR|/kingspan-dep/hr/hr/o-nama",
+      "cs-CZ|/kingspan-dep/cz/cs/o-nas",
+      "da-DK|/kingspan-dep/dk/da/om-os",
+      "en-EG|/kingspan-dep/eg/en/about-us",
+      "et-EE|/kingspan-dep/ee/et/meist",
+      "fi-FI|/kingspan-dep/fi/fi/meista",
+      "fr-FR|/kingspan-dep/fr/fr/a-propos-de-nous",
+      "de-DE|/kingspan-dep/de/de/uber-uns",
+      "hu-HU|/kingspan-dep/hu/hu/rolunk",
+      "en-IE|/kingspan-dep/ie/en/about-kingspan",
+      "en-KZ|/kingspan-dep/kz/en/about-us",
+      "lv-LV|/kingspan-dep/lv/lv/par-mums",
+      "lt-LT|/kingspan-dep/lt/lt/apie-mus",
+      "es-MX|/kingspan-dep/mx/es/sobre-nosotros",
+      "nl-NL|/kingspan-dep/nl/nl/over-ons",
+      "en-NZ|/kingspan-dep/nz/en/about-us",
+      "nn-NO|/kingspan-dep/no/nn/om-oss",
+      "pl-PL|/kingspan-dep/pl/pl/o-nas",
+      "en-QA|/kingspan-dep/qa/en/about-us",
+      "ro-RO|/kingspan-dep/ro/ro/despre-noi",
+      "en-SA|/kingspan-dep/sa/en/about-us",
+      "sr-RS|/kingspan-dep/rs/sr/o-nama",
+      "en-SG|/kingspan-dep/sg/en/about-us",
+      "sk-SK|/kingspan-dep/sk/sk/o-nas",
+      "sl-SI|/kingspan-dep/si/sl/o-nas",
+      "en-ZA|/kingspan-dep/za/en/about-us",
+      "sv-SE|/kingspan-dep/se/sv/om-oss",
+      "de-CH|/kingspan-dep/ch/de/uber-uns",
+      "en-TR|/kingspan-dep/tr/en/about-us",
+      "en-AE|/kingspan-dep/ae/en/about-us",
+      "en-GB|/kingspan-dep/gb/en/about-us",
+      "uk-UA|/kingspan-dep/ua/uk/pro-nas",
+      "en-US|/kingspan-dep/us/en/about-us",
+      "en-VN|/kingspan-dep/vn/en/about-us",
+      "it-IT|/kingspan-dep/it/it/chi-siamo",
+      "en-MA|/kingspan-dep/ma/en/about-us",
+      "fr-CH|/kingspan-dep/ch/fr/a-propos-de-nous"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

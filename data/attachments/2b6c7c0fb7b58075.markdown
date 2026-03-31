@@ -1,0 +1,209 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link:
+      - /url: /kingspan-dep/pt/pt
+    - navigation "Main" [ref=e5]:
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - button "Products & Systems" [ref=e9]
+        - listitem [ref=e10]:
+          - button "Applications" [ref=e11]
+        - listitem [ref=e12]:
+          - button "Services" [ref=e13]
+        - listitem [ref=e14]:
+          - button "Knowledge & Inspiration" [ref=e15]
+        - listitem [ref=e16]:
+          - button "Tools" [ref=e17]
+        - listitem [ref=e18]:
+          - button "Contact Us" [ref=e19]
+    - button "Open quick search modal" [ref=e21]:
+      - img [ref=e22]
+    - button "Portugal" [ref=e26]:
+      - img [ref=e27]
+      - text: Portugal
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - generic:
+        - generic:
+          - region:
+            - generic:
+              - generic:
+                - group
+      - generic [ref=e33]:
+        - banner [ref=e34]: Construir Edifícios para um Mundo Melhor
+        - button "O que procura?" [ref=e36]:
+          - img [ref=e37]
+          - text: O que procura?
+        - paragraph [ref=e40]:
+          - generic [ref=e41]: "Sugestão:"
+      - button [ref=e43]:
+        - img [ref=e44]
+    - banner [ref=e47]:
+      - heading "Aplicações" [level=4] [ref=e48]
+      - generic [ref=e49]:
+        - link "Coberturas" [ref=e50] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas
+        - link "Paredes" [ref=e51] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes
+        - link "Pavimentos" [ref=e52] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos
+        - link "Tectos Falsos" [ref=e53] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+    - generic [ref=e56]:
+      - heading "Produtos em Destaque" [level=4] [ref=e58]
+      - region [ref=e61]:
+        - generic [ref=e63]:
+          - group [ref=e64]:
+            - article [ref=e65]:
+              - img "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces." [ref=e66]
+              - generic [ref=e67]:
+                - heading "Placa PIR GR" [level=3] [ref=e68]
+                - paragraph [ref=e69]: Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.
+              - link:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pir-gr
+          - group [ref=e70]:
+            - article [ref=e71]:
+              - img "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada." [ref=e72]
+              - generic [ref=e73]:
+                - heading "Placa PIR F ALK" [level=3] [ref=e74]
+                - paragraph [ref=e75]: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.
+              - link:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-f-alk
+          - group [ref=e76]:
+            - article [ref=e77]:
+              - img "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft." [ref=e78]
+              - generic [ref=e79]:
+                - heading "Placa PIR AK" [level=3] [ref=e80]
+                - paragraph [ref=e81]: Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.
+              - link:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak
+          - group [ref=e82]:
+            - article [ref=e83]:
+              - img "Painel de espuma rígida PIR revestido com folha de alumínio estampada." [ref=e84]
+              - generic [ref=e85]:
+                - heading "Painel PIR-ALU 35" [level=3] [ref=e86]
+                - paragraph [ref=e87]: Painel de espuma rígida PIR revestido com folha de alumínio estampada.
+              - link:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas/preisoladas-pir-alu-35
+        - generic [ref=e88]:
+          - button "Previous slide" [disabled] [ref=e89]:
+            - img [ref=e90]
+            - text: Previous slide
+          - button "Next slide" [disabled] [ref=e93]:
+            - img [ref=e94]
+            - text: Next slide
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - heading "Planet Passionate" [level=1] [ref=e100]
+        - generic [ref=e101]: A nossa estratégia global de sustentabilidade
+        - contentinfo [ref=e103]: "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados."
+        - link "Saber mais" [ref=e105] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/sobre-nos/planetpassionate
+      - img "Planet Passionate 2025" [ref=e108]
+    - generic [ref=e110]:
+      - generic [ref=e111]: Voltar ao início
+      - button [ref=e112]:
+        - img [ref=e113]
+  - contentinfo [ref=e116]:
+    - generic [ref=e117]:
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - term [ref=e121]: Business Groups
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+        - generic [ref=e122]:
+          - term [ref=e123]: Products
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+        - generic [ref=e124]:
+          - term [ref=e125]: Knowledge & Inspiration
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+        - generic [ref=e126]:
+          - term [ref=e127]: Tools & Services
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+          - definition:
+            - link:
+              - /url: "#"
+      - generic [ref=e129]:
+        - heading "Business Groups" [level=3] [ref=e131]:
+          - button "Business Groups" [ref=e132]:
+            - text: Business Groups
+            - img [ref=e133]
+        - heading "Products" [level=3] [ref=e138]:
+          - button "Products" [ref=e139]:
+            - text: Products
+            - img [ref=e140]
+        - heading "Knowledge & Inspiration" [level=3] [ref=e145]:
+          - button "Knowledge & Inspiration" [ref=e146]:
+            - text: Knowledge & Inspiration
+            - img [ref=e147]
+        - heading "Tools & Services" [level=3] [ref=e152]:
+          - button "Tools & Services" [ref=e153]:
+            - text: Tools & Services
+            - img [ref=e154]
+      - button "Change country" [ref=e160]:
+        - img [ref=e161]
+        - text: Change country
+    - generic [ref=e166]:
+      - link "Cookie Settings" [ref=e167] [cursor=pointer]:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+      - link:
+        - /url: /#
+```

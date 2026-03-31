@@ -1,0 +1,177 @@
+{
+  "metaTitle": {
+    "expected": "Aplicações",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Aplicações",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Aplicações"
+      ],
+      "h2": [],
+      "h3": [
+        "Aplicações (4)",
+        "Grupo de produtos",
+        "Marca"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "(4) Selecionado",
+        "Selecionado",
+        "Selecionado",
+        "filtro",
+        "Aplicações",
+        "Coberturas (19), Paredes (4), Pavimentos (3)",
+        "Grupo de produtos",
+        "Marca",
+        "Ordenar por",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Apollo",
+        "Ventilador estático de comportas para extração natural de fumo e calor",
+        "Placa PIR AK",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Placa PIR F ALK",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PUR PS",
+        "Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Coltlite",
+        "Ventilador estático de lamelas para extração natural de fumo e calor",
+        "ECO",
+        "Ventilador estático de lamelas para extração natural de fumo e calor",
+        "Firelight 3",
+        "Ventilador estático de comporta para extração natural de fumo e calor",
+        "Firelight Duo",
+        "Ventilador estático de comportas para extração natural de fumo e calor",
+        "Placa PIR 5C",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Está a ver 9/29",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "TODOS",
+        "PAVIMENTOS",
+        "PAREDES",
+        "COBERTURAS",
+        "TECTOS FALSOS",
+        "TODOS",
+        "PAVIMENTOS",
+        "PAREDES",
+        "COBERTURAS",
+        "TECTOS FALSOS",
+        "AplicaçõesCoberturas (19), Paredes (4), Pavimentos (3)",
+        "Grupo de produtos",
+        "Marca",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Apollo",
+        "Placa PIR AK",
+        "Placa PIR F ALK",
+        "Placa PUR PS",
+        "Coltlite",
+        "ECO",
+        "Firelight 3",
+        "Firelight Duo",
+        "Placa PIR 5C",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Aplicações"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/aplicacoes/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aplicacoes"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/aplicacoes",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/aplicacoes",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: Apollo",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "original | alt: PIR F ALK",
+      "original | alt: PUR PS",
+      "cq5dam.web.1280.1280.png | alt: coltlite",
+      "cq5dam.web.1280.1280.png | alt: eco",
+      "cq5dam.web.1280.1280.png | alt: firelight",
+      "cq5dam.web.1280.1280.png | alt: firelight duo",
+      "cq5dam.web.1280.1280.png | alt: PIR 5C",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 13,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

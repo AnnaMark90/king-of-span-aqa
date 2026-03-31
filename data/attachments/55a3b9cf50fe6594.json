@@ -1,0 +1,176 @@
+{
+  "htmlTitle": {
+    "expected": "null",
+    "actual": "Kooltherm K3"
+  },
+  "metaTitle": {
+    "expected": "Kooltherm K3",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kooltherm K3",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [
+        "Produtos Recomendados"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Placa PIR-AK 500",
+        "Placa de espuma rígida PIR de alta densidade.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Placa PIR-AK 500 Placa de espuma rígida PIR de alta densidade.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kooltherm K3",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica",
+        "Placa PIR-AK 500",
+        "Kingspan Optim-R"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "PROPRIEDADES TÉRMICAS",
+        "Placa PIR-AK 500",
+        "Kingspan Optim-R",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "O painel piso Kooltherm® K3 é composto por um núcleo rígido e de alto desempenho de isolamento de resina modificada termoestável.",
+        "Vantagens",
+        "Conductividad térmica (λD) de 0,021 W/(m·K).",
+        "Selo ambiental EPD.",
+        "Adequado para sistemas de aquecimento por piso radiante.",
+        "Placa de espuma rígida PIR de alta densidade."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 12
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/kooltherm-k3/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/kooltherm-k3"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/kooltherm-k3",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/kooltherm-k3",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR-AK 500",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Kooltherm K3",
+      "image | alt: Kooltherm K3",
+      "image | alt: Kooltherm K3",
+      "image | alt: Kooltherm K3",
+      "image | alt: Placa de espuma rígida PIR de alta densidade.",
+      "image | alt: **Missing**"
+    ]
+  },
+  "imageDimensions": {
+    "expected": "All images should match Prod pixel dimensions",
+    "actual": [
+      {
+        "index": 1,
+        "filename": "image",
+        "expected": "90x55px",
+        "actual": "1280x1280px"
+      },
+      {
+        "index": 3,
+        "filename": "image",
+        "expected": "0x0px",
+        "actual": "128x128px"
+      },
+      {
+        "index": 4,
+        "filename": "image",
+        "expected": "0x0px",
+        "actual": "128x128px"
+      },
+      {
+        "index": 5,
+        "filename": "image",
+        "expected": "17x18px",
+        "actual": "300x300px"
+      },
+      {
+        "index": 6,
+        "filename": "image",
+        "expected": "17x18px",
+        "actual": "300x300px"
+      }
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "htmlTitle": {
+    "expected": "Applications | Kingspan FR",
+    "actual": "Applications"
+  },
+  "metaTitle": {
+    "expected": "Applications",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Applications",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Applications"
+      ],
+      "h2": [],
+      "h3": [
+        "Groupe de produit",
+        "Marque"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Sélectionné",
+        "Sélectionné",
+        "filtre",
+        "Groupe de produit",
+        "Marque",
+        "Classer par",
+        "Présenté",
+        "A à Z",
+        "Z à A",
+        "Ecobac 160 PN",
+        "Exutoire de fumées ponctuel à système de commande pneumatique",
+        "Ecobac 160 TC",
+        "Lanterneau de désenfumage destiné aux couvertures sèches",
+        "Ecobac Aération",
+        "Ecobac Aération est un lanterneau ponctuel permettant un apport d’air",
+        "Ecofeu 110 SCE",
+        "Lanterneau de désenfumage pour cage d'escalier",
+        "Ecofeu 160 EL",
+        "Le lanterneau de désenfumage Ecofeu 160 EL peut être relié à un CMSI",
+        "Ecofeu 160 PN",
+        "Cette trappe de désenfumage dispose d'une large gamme dimensionnelle",
+        "Ecofeu 160 TC",
+        "Exutoire de fumées économique et performant",
+        "Ecofeu DV 110",
+        "Trappe de désenfumage adaptée aux bâtiments de grand volume",
+        "Ecofeu DV Ultra HPA +",
+        "Exutoire de fumées à double vantail, certifié CE, avec commande pneumatique",
+        "Vous regardez 9/114",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "TOUT",
+        "SOLS",
+        "TOITURE",
+        "FAÇADE",
+        "TOUT",
+        "SOLS",
+        "TOITURE",
+        "FAÇADE",
+        "Groupe de produit",
+        "Marque",
+        "Présenté",
+        "A à Z",
+        "Z à A",
+        "Ecobac 160 PN",
+        "Ecobac 160 TC",
+        "Ecobac Aération",
+        "Ecofeu 110 SCE",
+        "Ecofeu 160 EL",
+        "Ecofeu 160 PN",
+        "Ecofeu 160 TC",
+        "Ecofeu DV 110",
+        "Valeur aéraulique Ecofeu DV Ultra HPA +",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Applications"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "ACCUEIL",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 53,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/applications/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/applications"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/applications",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/applications",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecobac-160-pn-desenfumage-naturel-hpa-toiture-seche-rendu-3d-",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecobac-160-tc-desenfumage-naturel-hpa-toiture-seche-rendu-3d",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecobac-aeration-image-rendu-3d-fr",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-110-sce-product-render-open-en-ie",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-160-el-rendu-3d",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-160-pn-desenfumage-hpa-rendu-3d",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-160-tc-desenfumage-hpa-rendu-3d",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-dv110-hpa-product-render-open",
+      "cq5dam.web.1280.1280.png | alt: kingspan-ecofeu-dv-ultra-hpa-rendu-3d-fr-fr",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 13,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/applications",
+      "fr-BE|/kingspan-dep/be/fr/applications",
+      "nl-BE|/kingspan-dep/be/nl/toepassingen",
+      "en-CA|/kingspan-dep/ca/en/applications",
+      "de-DE|/kingspan-dep/de/de/anwendungen",
+      "fr-FR|/kingspan-dep/fr/fr/applications",
+      "en-GB|/kingspan-dep/gb/en/applications",
+      "en-IE|/kingspan-dep/ie/en/applications",
+      "nl-NL|/kingspan-dep/nl/nl/toepassingen",
+      "en-NZ|/kingspan-dep/nz/en/applications",
+      "en-US|/kingspan-dep/us/en/applications",
+      "en-AE|/kingspan-dep/ae/en/applications",
+      "en-SG|/kingspan-dep/sg/en/applications",
+      "en-VN|/kingspan-dep/vn/en/applications",
+      "ro-RO|/kingspan-dep/ro/ro/aplicatii",
+      "pl-PL|/kingspan-dep/pl/pl/zastosowanie",
+      "fi-FI|/kingspan-dep/fi/fi/kayttokohteet",
+      "cs-CZ|/kingspan-dep/cz/cs/aplikace",
+      "de-AT|/kingspan-dep/at/de/anwendungen",
+      "en-QA|/kingspan-dep/qa/en/applications",
+      "en-KZ|/kingspan-dep/kz/en/applications",
+      "en-ZA|/kingspan-dep/za/en/applications",
+      "en-SA|/kingspan-dep/sa/en/applications",
+      "en-EG|/kingspan-dep/eg/en/applications",
+      "en-TR|/kingspan-dep/tr/en/applications",
+      "hr-HR|/kingspan-dep/hr/hr/aplikacija",
+      "da-DK|/kingspan-dep/dk/da/applikationer",
+      "et-EE|/kingspan-dep/ee/et/rakendus",
+      "nn-NO|/kingspan-dep/no/nn/applikasjoner",
+      "sv-SE|/kingspan-dep/se/sv/applikationer",
+      "de-CH|/kingspan-dep/ch/de/anwendungen",
+      "lt-LT|/kingspan-dep/lt/lt/naudojimo-sritys",
+      "es-MX|/kingspan-dep/mx/es/aplicaciones",
+      "sr-RS|/kingspan-dep/rs/sr/aplikacije",
+      "lv-LV|/kingspan-dep/lv/lv/pieteikums",
+      "sk-SK|/kingspan-dep/sk/sk/aplikacie",
+      "es-CO|/kingspan-dep/co/es/aplicaciones",
+      "hu-HU|/kingspan-dep/hu/hu/felhasznalas",
+      "en-MA|/kingspan-dep/ma/en/applications",
+      "fr-CH|/kingspan-dep/ch/fr/applications",
+      "bg-BG|/kingspan-dep/bg/bg/prilojenie",
+      "el-GR|/kingspan-dep/gr/el/efarmogi"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

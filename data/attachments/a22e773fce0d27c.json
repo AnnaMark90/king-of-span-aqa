@@ -1,0 +1,114 @@
+{
+  "metaTitle": {
+    "expected": "404 erro",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "404 erro",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ERRO 404 – PÁGINA NÃO ENCONTRADA",
+        "Lamentamos, mas a página que procura não está disponível ou foi eliminada:",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "IR À PÁGINA DE INÍCIO:",
+        "CONTACTE-NOS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "ERRO 404 – PÁGINA NÃO ENCONTRADA"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Lamentamos, mas a página que procura não está disponível ou foi eliminada:"
+      ],
+      "a": [
+        "IR À PÁGINA DE INÍCIO:",
+        "CONTACTE-NOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 26,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "noindex,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/404/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/404"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/404",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/404",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 4,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

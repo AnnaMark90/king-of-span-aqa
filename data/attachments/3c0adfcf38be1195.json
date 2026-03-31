@@ -1,0 +1,194 @@
+{
+  "metaTitle": {
+    "expected": "Thermataper TT47 SP",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Thermataper TT47 SP",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Thermataper TT47 SP"
+      ],
+      "h2": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "Panel de espuma rígida de poliisocianurato (PIR) revestido por ambas caras con velo de vidrio mineralizado, com espessura variável. Isolamento térmico e drenagem numa só placa o que a torna uma alternativa prática à utilização de betonilhas e betão leve na realização de pendentes.",
+        "Vantagens",
+        "Isolamento e drenagem numa só placa.",
+        "Menor espessura do isolamento devido ao baixo coeficiente de condutividade térmica da espuma de poliisocianurato.",
+        "Fornece uma alternativa prática à utilização de betonilhas ou inclinações estruturais.",
+        "Placas de grande rigidez e pouco peso.",
+        "Facilidade de manipulação e montagem.",
+        "Vista rápida",
+        "Placa PIR 5C",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Vista rápida",
+        "Placa PIR AD",
+        "Placa de espuma rígida PIR revestida com véu de fibra de vidro mineralizado",
+        "Vista rápida",
+        "Placa PIR AK",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Vista rápida",
+        "Placa PIR BV",
+        "Placa de espuma rígida PIR BV revestida de ambos os lados.",
+        "Vista rápida",
+        "Placa PIR CP-BL",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamadas.",
+        "Vista rápida",
+        "Placa PIR F ALK",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Placa PIR 5C Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PIR AD Placa de espuma rígida PIR revestida com véu de fibra de vidro mineralizado",
+        "Placa PIR AK Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Placa PIR BV Placa de espuma rígida PIR BV revestida de ambos os lados.",
+        "Placa PIR CP-BL Placa de espuma rígida PIR revestida com complexo de alumínio multicamadas.",
+        "Placa PIR F ALK Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Thermataper TT47 SP",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "Placa PIR 5C",
+        "Placa PIR AD",
+        "Placa PIR AK",
+        "Placa PIR BV",
+        "Placa PIR CP-BL",
+        "Placa PIR F ALK",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa isolante de espuma rígida de poliisocianurato Thermataper TT47 SP, com espessura variável, fornece uma alternativa prática à utilização de betonilhas para realização de pendentes.",
+        "Vantagens",
+        "Isolamento e drenagem numa só placa.",
+        "Menor espessura do isolamento devido ao baixo coeficiente de condutividade térmica da espuma de poliisocianurato.",
+        "Fornece uma alternativa prática à utilização de betonilhas ou inclinações estruturais.",
+        "Placas de grande rigidez e pouco peso.",
+        "Facilidade de manipulação e montagem.",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa de espuma rígida PIR revestida com véu de fibra de vidro mineralizado",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Placa de espuma rígida PIR BV revestida de ambos os lados.",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamadas.",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Por correio eletrónico",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 36,
+    "actual": 14
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/thermataper-tt47/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/thermataper-tt47"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/thermataper-tt47",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/thermataper-tt47",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "original | alt: Thermataper TT47 SP",
+      "cq5dam.web.1280.1280.png | alt: PIR 5C",
+      "original | alt: PIR AD",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "**Missing** | alt: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: PIR BV",
+      "cq5dam.web.1280.1280.png | alt: PIR CP-BL",
+      "original | alt: PIR F ALK",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: Thermataper TT47 SP",
+      "image | alt: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada. ",
+      "image | alt: Placa de espuma rígida PIR revestida com véu de fibra de vidro mineralizado",
+      "image | alt: Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft. ",
+      "image | alt: Placa de espuma rígida PIR BV revestida de ambos os lados.",
+      "image | alt: Placa de espuma rígida PIR revestida com complexo de alumínio multicamadas.",
+      "image | alt: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada. "
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 14,
+    "actual": 8
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

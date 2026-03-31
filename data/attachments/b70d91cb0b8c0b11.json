@@ -1,0 +1,47 @@
+{
+  "successful": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/campanhas/full-spectrum-of-insulation-solutions",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/thermataper-tt47",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/kooltherm-k10",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

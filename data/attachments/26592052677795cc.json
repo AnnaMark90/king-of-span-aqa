@@ -1,0 +1,136 @@
+{
+  "metaTitle": {
+    "expected": "Therma TF70 SP",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Therma TF70 SP",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Therma TF70 SP"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "O poder isolante da placa garante um bom conforto térmico uma vez instalado. Destaca-se também o seu bom desempenho mecânico, permitindo a sua aplicação como isolante térmico para diferentes tipos de pisos radiantes: água quente ou condução eléctrica. A impressão em um dos lados de um sistema de grelha pontilhada facilita o desenho e a aplicação das condutas no painel. O revestimento de alumínio multicamadas está em ambos os lados da placa.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico para pavimentos mais eficientes, com λd máximo de 0,023W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manipular e instalar.",
+        "Encaixe macho-fêmea nos quatro lados reduzindo o risco de pontes térmicas.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "DESCARREGAR IMAGEM",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Therma TF70 SP",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "CERTIFICADO ACERMI",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "A placa de isolamento de espuma rígida de poliisocianurato Therma TF70 SP destaca-se pela sua boa resistência térmica, que permite a utilização de espessuras menores da placa isolante. Sua rigidez e leveza facilitam o seu manuseamento e instalação.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico para pavimentos mais eficientes, com λd máximo de 0,023W/mK.",
+        "Baixa absorção de água de no máximo 1% graças à sua estrutura celular fechada.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 175kPa.",
+        "Fácil de manipular e instalar.",
+        "Encaixe macho-fêmea nos quatro lados reduzindo o risco de pontes térmicas."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 36,
+    "actual": 14
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: THERMA TF70 SP "
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 6,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

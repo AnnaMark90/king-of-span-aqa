@@ -1,0 +1,9 @@
+Opening page: https://www.kingspan.com/fr/produits/protection-passive-contre-lincendie/protection-electrique
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/produits/protection-passive-contre-lincendie/protection-electrique
+[LOG] Status: 404 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/produits/protection-passive-contre-lincendie/protection-electrique
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[LOG] Status: 404 | URL: https://www.kingspan.com/fr/produits/protection-passive-contre-lincendie/protection-electrique/
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[SKIP] Error data received for page: /fr/produits/protection-passive-contre-lincendie/protection-electrique
+PROD ERROR https://www.kingspan.com/fr/produits/protection-passive-contre-lincendie/protection-electrique
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/produits/protection-passive-contre-lincendie/protection-electrique

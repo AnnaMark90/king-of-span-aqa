@@ -1,0 +1,195 @@
+{
+  "htmlTitle": {
+    "expected": "Planet Passionate | Kingspan FR",
+    "actual": "Planet Passionate"
+  },
+  "metaTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Notre programme Planet Passionate"
+      ],
+      "h2": [
+        "Rapport Planet Passionate 2025"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Planet Passionate",
+        "Quatre domaines stratégiques principaux : Énergie, Carbone, Circularité, Eau.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Dans le cadre de Planet Passionate, nous sommes déterminés à réduire nos émissions de carbone (CO2e) de fabrication à un niveau aussi proche de zéro que possible sur le plan technique, ainsi qu’à réduire l’intensité de carbone dans notre chaîne d’approvisionnement primaire. Pour en savoir plus sur nos objectifs, nos partenariats et nos engagements mondiaux, visitez la page Planet Passionate sur le site du groupe Kingspan ou suivez notre progression sur les réseaux sociaux.",
+        "Dans le rapport 2025, nous présentons les progrès réalisés à ce jour, avec des réductions notables des émissions scopes 1, 2 et 3, ainsi que des avancées en énergie renouvelable, matériaux recyclés et gestion de l’eau vers nos objectifs 2030.",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "À PROPOS DE NOUS",
+        "page Planet Passionate",
+        "LISEZ NOTRE DERNIER RAPPORT",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Notre programme Planet Passionate"
+      ],
+      "h2": [
+        "Rapport Planet Passionate 2025"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Planet Passionate",
+        "Quatre domaines stratégiques principaux : Énergie, Carbone, Circularité, Eau.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Dans le cadre de Planet Passionate, nous sommes déterminés à réduire nos émissions de carbone (CO2e) de fabrication à un niveau aussi proche de zéro que possible sur le plan technique, ainsi qu’à réduire l’intensité de carbone dans notre chaîne d’approvisionnement primaire. Pour en savoir plus sur nos objectifs, nos partenariats et nos engagements mondiaux, visitez la page Planet Passionate sur le site du groupe Kingspan ou suivez notre progression sur les réseaux sociaux.",
+        "Dans le rapport 2025, nous présentons les progrès réalisés à ce jour, avec des réductions notables des émissions scopes 1, 2 et 3, ainsi que des avancées en énergie renouvelable, matériaux recyclés et gestion de l’eau vers nos objectifs 2030."
+      ],
+      "a": [
+        "ACCUEIL",
+        "À PROPOS DE NOUS",
+        "page Planet Passionate",
+        "LISEZ NOTRE DERNIER RAPPORT",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 45,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/a-propos-de-nous/Planet-Passionate/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/a-propos-de-nous/Planet-Passionate",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Planet Passionate Report 25",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Planet Passionate Report 25"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/about-us/Planet-Passionate",
+      "de-AT|/kingspan-dep/at/de/uber-uns/Planet-Passionate",
+      "nl-BE|/kingspan-dep/be/nl/over-ons/Planet-Passionate",
+      "fr-BE|/kingspan-dep/be/fr/a-propos-de-kingspan/Planet-Passionate",
+      "en-CA|/kingspan-dep/ca/en/about-us/Planet-passionate",
+      "en-IE|/kingspan-dep/ie/en/about-kingspan/planet-passionate-sustainability-programme",
+      "hu-HU|/kingspan-dep/hu/hu/rolunk/Planet-Passionate",
+      "cs-CZ|/kingspan-dep/cz/cs/o-nas/Planet-Passionate",
+      "en-EG|/kingspan-dep/eg/en/about-us/Planet-passionate",
+      "fi-FI|/kingspan-dep/fi/fi/meista/planet-passionate",
+      "fr-FR|/kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate",
+      "nl-NL|/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+      "de-DE|/kingspan-dep/de/de/uber-uns/Planet-Passionate",
+      "en-GB|/kingspan-dep/gb/en/about-us/planet-passionate",
+      "en-NZ|/kingspan-dep/nz/en/about-us/Planet-Passionate",
+      "en-US|/kingspan-dep/us/en/about-us/Planet-Passionate",
+      "en-SG|/kingspan-dep/sg/en/about-us/planet-passionate",
+      "en-AE|/kingspan-dep/ae/en/about-us/Planet-passionate",
+      "en-VN|/kingspan-dep/vn/en/about-us/planet-passionate",
+      "ro-RO|/kingspan-dep/ro/ro/despre-noi/Planet-Passionate",
+      "pl-PL|/kingspan-dep/pl/pl/o-nas/Planet-Passionate",
+      "en-ZA|/kingspan-dep/za/en/about-us/Planet-passionate",
+      "en-TR|/kingspan-dep/tr/en/about-us/Planet-passionate",
+      "en-SA|/kingspan-dep/sa/en/about-us/Planet-passionate",
+      "en-QA|/kingspan-dep/qa/en/about-us/Planet-passionate",
+      "en-KZ|/kingspan-dep/kz/en/about-us/Planet-passionate",
+      "es-MX|/kingspan-dep/mx/es/sobre-nosotros/Planet-Passionate",
+      "uk-UA|/kingspan-dep/ua/uk/pro-nas/planet-passionate",
+      "it-IT|/kingspan-dep/it/it/chi-siamo/planet-passionate",
+      "en-MA|/kingspan-dep/ma/en/about-us/Planet-passionate",
+      "fr-CH|/kingspan-dep/ch/fr/a-propos-de-nous/planet-passionate",
+      "sl-SI|/kingspan-dep/si/sl/o-nas/planet-passionate",
+      "de-CH|/kingspan-dep/ch/de/uber-uns/planet-passionate",
+      "hr-HR|/kingspan-dep/hr/hr/o-nama/planeta-pasioniranih",
+      "es-ES|/kingspan-dep/es/es/sobre-nosotros/planetpassionate",
+      "pt-PT|/kingspan-dep/pt/pt/sobre-nos/planetpassionate",
+      "sr-RS|/kingspan-dep/rs/sr/o-nama/planeta-pasioniranih",
+      "sk-SK|/kingspan-dep/sk/sk/o-nas/planet-passionate",
+      "sv-SE|/kingspan-dep/se/sv/om-oss/planet-passionate",
+      "nn-NO|/kingspan-dep/no/nn/om-oss/planet-passionate",
+      "da-DK|/kingspan-dep/dk/da/om-os/planet-passionate",
+      "lv-LV|/kingspan-dep/lv/lv/par-mums/planet-passionate",
+      "et-EE|/kingspan-dep/ee/et/meist/planet-passionate",
+      "lt-LT|/kingspan-dep/lt/lt/apie-mus/planet-passionate"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

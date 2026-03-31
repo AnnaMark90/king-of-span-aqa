@@ -1,0 +1,37 @@
+{
+  "successful": [
+    {
+      "url": "https://jqu.share.hsforms.com/2r_3sC-zXTvS7mYlvVeihDA",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://www.youtube.com/c/KingspanLightAir/videos",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/kingspanlightair_awardwinning-kingspanlightandair-daylighting-activity-7232041325796208641-NIhp",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/contacto-kingspan/kingspan-light-air",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

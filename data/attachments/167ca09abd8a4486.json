@@ -1,0 +1,37 @@
+{
+  "successful": [
+    {
+      "url": "http://www.kingspan.com/",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://author-kingspan-prod.adobecqms.net/content/kingspan-dep/ie/en/data-controllers.html",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aviso-de-consentimento-de-marketing-directo",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "http://www.kingspan.com/pt-pt/politica-de-privacidade-do-website/",
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

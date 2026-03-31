@@ -1,0 +1,63 @@
+[safeRun] takeSmartScreenshots https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspaninsulation/u-value-calculator-politique-controle-sur-les-cookies page.screenshot: Cannot take screenshot larger than 32767 pixels on any dimension
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    at takeSmartScreenshots (C:\Users\User\Desktop\king-of-spam\helpers\screenshotHelpers.js:46:16)
+    at safeRun (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:5:12)
+    at collectEnvData (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:58:23)
+    at C:\Users\User\Desktop\king-of-spam\tests\migrationCompare\migrationCompare.spec.js:29:33 {
+  name: 'Error',
+  Symbol(step): {
+    location: {
+      file: 'C:\\Users\\User\\Desktop\\king-of-spam\\helpers\\screenshotHelpers.js',
+      line: 46,
+      column: 16,
+      function: 'takeSmartScreenshots'
+    },
+    category: 'pw:api',
+    title: 'Screenshot',
+    apiName: 'page.screenshot',
+    params: {
+      path: 'C:\\Users\\User\\Desktop\\king-of-spam\\snapshots\\fr-fr\\iPhone14\\divisions\\kingspaninsulation\\u-value-calculator-politique-controle-sur-les-cookies-staging.png',
+      fullPage: true,
+      mask: undefined,
+      timeout: 15000,
+      type: 'png'
+    },
+    group: undefined,
+    stepId: 'pw:api@72',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@72',
+      _title: 'Screenshot',
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1774830092668,
+    error: {
+      message: 'Error: page.screenshot: Cannot take screenshot larger than 32767 pixels on any dimension\n' +
+        'Call log:\n' +
+        '\x1B[2m  - taking page screenshot\x1B[22m\n' +
+        '\x1B[2m  - waiting for fonts to load...\x1B[22m\n' +
+        '\x1B[2m  - fonts loaded\x1B[22m\n',
+      stack: 'Error: page.screenshot: Cannot take screenshot larger than 32767 pixels on any dimension\n' +
+        'Call log:\n' +
+        '\x1B[2m  - taking page screenshot\x1B[22m\n' +
+        '\x1B[2m  - waiting for fonts to load...\x1B[22m\n' +
+        '\x1B[2m  - fonts loaded\x1B[22m\n' +
+        '\n' +
+        '    at takeSmartScreenshots (C:\\Users\\User\\Desktop\\king-of-spam\\helpers\\screenshotHelpers.js:46:16)\n' +
+        '    at safeRun (C:\\Users\\User\\Desktop\\king-of-spam\\helpers\\pageHelpers.js:5:12)\n' +
+        '    at collectEnvData (C:\\Users\\User\\Desktop\\king-of-spam\\helpers\\pageHelpers.js:58:23)\n' +
+        '    at C:\\Users\\User\\Desktop\\king-of-spam\\tests\\migrationCompare\\migrationCompare.spec.js:29:33',
+      cause: undefined
+    }
+  }
+}

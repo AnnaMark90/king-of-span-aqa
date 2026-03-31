@@ -1,0 +1,6 @@
+Opening page: https://www.kingspan.com/pt/pt/sobre-nos
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos
+[LOG] Status: 200 | URL: https://www.kingspan.com/pt/pt/sobre-nos/
+[LOG] Status: 500 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos
+[SKIP] Error data received for page: /pt/pt/sobre-nos
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos

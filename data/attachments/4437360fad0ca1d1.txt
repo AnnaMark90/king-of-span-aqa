@@ -1,0 +1,4 @@
+Opening page: https://www.kingspan.com/fr/fr/divisions/kingspanisolationtechnique/kooltherm-isolation-de-tuyaux
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspanisolationtechnique/kooltherm-isolation-de-tuyaux
+[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspanisolationtechnique/kooltherm-isolation-de-tuyaux
+[LOG] Status: 200 | URL: https://www.kingspan.com/fr/fr/divisions/kingspanisolationtechnique/kooltherm-isolation-de-tuyaux/

@@ -1,0 +1,174 @@
+{
+  "htmlTitle": {
+    "expected": "Des connaissances actuelles et actualisées avec le Kingspan College | Kingspan FR",
+    "actual": "Des connaissances actuelles et actualisées avec le Kingspan College"
+  },
+  "metaTitle": {
+    "expected": "Des connaissances actuelles et actualisées avec le Kingspan College ",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Des connaissances actuelles et actualisées avec le Kingspan College ",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Des connaissances actuelles et actualisées avec le Kingspan College"
+      ],
+      "h2": [
+        "Contactez-nous"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [
+        "Une équipe expérimentée d'experts",
+        "Offre diversifiée",
+        "Nous partageons nos connaissances"
+      ],
+      "h6": [],
+      "p": [
+        "Pour tous ceux qui appliquent, utilisent ou vendent des produits Kingspan, le Kingspan College est là pour maintenir vos connaissances à jour ! Nous vous formons, vous et votre équipe. Au bureau, sur chantier, chez nous ou en ligne. Le Kingspan College dispense des formations pratiques sur l'utilisation des matériaux d'isolation Kingspan Insulation dans diverses applications.",
+        "Une équipe expérimentée de formateurs connaissant le secteur de l'isolation, les techniques de mise en œuvre, les règles et réglementations et toutes les dernières évolutions est prête à vous aider. Questions spécifiques et détails précis, tout est abordé. Et particulièrement pour les écoles et les formations (en construction), il existe des sessions sur différents sujets, sur place ou dans l'un de nos sites.",
+        "Qu’il s’agisse de construction peu énergivore, de sécurité incendie, d'isolation en pratique et de durabilité, l'offre de Kingspan College est extrêmement diversifiée et repose sur nos nombreuses années d'expérience. Vous n'avez pas besoin de tout savoir ; nous vous fournissons les bonnes connaissances au bon moment.",
+        "Nous n'utilisons pas seulement nos connaissances pour nos produits et services. Nous mettons également notre expertise à la disposition de tous pour toutes les questions concernant l’enveloppe du bâtiment. Le Kingspan College l’illustre parfaitement et montre que le partage des connaissances est l'une des valeurs fondamentales de Kingspan.",
+        "Lire la suite sur cette valeur fondamentale",
+        "Restez connecté",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "Lire la suite sur cette valeur fondamentale",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Des connaissances actuelles et actualisées avec le Kingspan College"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Contactez-nous"
+      ],
+      "h5": [
+        "Une équipe expérimentée d'experts",
+        "Offre diversifiée",
+        "Nous partageons nos connaissances"
+      ],
+      "h6": [
+        "Restez connecté"
+      ],
+      "p": [
+        "Pour tous ceux qui appliquent, utilisent ou vendent des produits Kingspan, le Kingspan College est là pour maintenir vos connaissances à jour ! Nous vous formons, vous et votre équipe. Au bureau, sur chantier, chez nous ou en ligne. Le Kingspan College dispense des formations pratiques sur l'utilisation des matériaux d'isolation Kingspan Insulation dans diverses applications.",
+        "Une équipe expérimentée de formateurs connaissant le secteur de l'isolation, les techniques de mise en œuvre, les règles et réglementations et toutes les dernières évolutions est prête à vous aider. Questions spécifiques et détails précis, tout est abordé. Et particulièrement pour les écoles et les formations (en construction), il existe des sessions sur différents sujets, sur place ou dans l'un de nos sites.",
+        "Qu’il s’agisse de construction peu énergivore, de sécurité incendie, d'isolation en pratique et de durabilité, l'offre de Kingspan College est extrêmement diversifiée et repose sur nos nombreuses années d'expérience. Vous n'avez pas besoin de tout savoir ; nous vous fournissons les bonnes connaissances au bon moment.",
+        "Nous n'utilisons pas seulement nos connaissances pour nos produits et services. Nous mettons également notre expertise à la disposition de tous pour toutes les questions concernant l’enveloppe du bâtiment. Le Kingspan College l’illustre parfaitement et montre que le partage des connaissances est l'une des valeurs fondamentales de Kingspan.",
+        "Lire la suite sur cette valeur fondamentale"
+      ],
+      "a": [
+        "Accueil",
+        "ARTICLES DE CONNAISSANCE",
+        "Lire la suite sur cette valeur fondamentale",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 44,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogImage": {
+    "expected": "/content/dam/kingspan/kil/campaigns/kice/kingspan-insulation-brandvalues-expertise-image-kice-7.jpg",
+    "actual": "https://xamyxyg7fn.filerobot.com/kingspan/kil/campaigns/kice/kingspan-insulation-brandvalues-expertise-image-kice-7.jpg?vh=083949"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "kingspan-insulation-brandvalues-expertise-image-kice-7.jpeg | alt: Kingspan College",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Kingspan College"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "nl-NL|/kingspan-dep/nl/nl/kennisartikelen/kingspan-college-voor-up-to-date-kennis",
+      "nl-BE|/kingspan-dep/be/nl/kennisartikelen/kingspan-college-voor-up-to-date-kennis",
+      "fr-BE|/kingspan-dep/be/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college",
+      "fr-FR|/kingspan-dep/fr/fr/articles-de-connaissance/des-connaissances-actuelles-et-actualisees-avec-le-kingspan-college",
+      "de-DE|/kingspan-dep/de/de/informationen/kingspan-college-fur-stets-aktuelles-wissen-auf-dem-neuesten-stand",
+      "da-DK|/kingspan-dep/dk/da/vidensartikler/kingspan-college",
+      "fi-FI|/kingspan-dep/fi/fi/artikkelit/kingspan-college",
+      "lt-LT|/kingspan-dep/lt/lt/ziniu-baze/kingspan-college",
+      "nn-NO|/kingspan-dep/no/nn/opplaeingsartikler/kingspan-college",
+      "sv-SE|/kingspan-dep/se/sv/kunskapsartiklar/kingspan-college",
+      "et-EE|/kingspan-dep/ee/et/teadmiste-artiklid/kingspan-college",
+      "lv-LV|/kingspan-dep/lv/lv/zinasanu-raksti/kingspan-college"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

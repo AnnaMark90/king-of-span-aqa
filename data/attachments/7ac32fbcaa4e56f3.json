@@ -1,0 +1,136 @@
+{
+  "htmlTitle": {
+    "expected": "Panneau PIR GR | Kingspan FR",
+    "actual": "Panneau PIR GR"
+  },
+  "metaTitle": {
+    "expected": "Panneau PIR GR",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Panneau PIR GR",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Panneau PIR GR"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "PANNEAUX ISOLANTS",
+        "PANNEAUX ISOLANTS",
+        "Le pouvoir isolant du panneau PIR GR assure un bon confort thermique. Sa finition en aluminium protège le panneau des atmosphères agressives et facilite le lavage à pression, obtenant une bonne hygiène dans les fermes. Il admet des longueurs allant jusqu’à 10 m minimisant les joints lors de son assemblage. Il offre une mise en service facile et agile, grâce à son système simple: profilés en PVC et rainurage optionnel du panneau. Son système de solin garantit une longue durée de vie.",
+        "Avantages",
+        "Très faible conductivité thermique: λd 0,023 W/mk.",
+        "Faible absorption d'eau, de maximum 1%, grâce à sa structure à cellules fermées.",
+        "Le revêtement en aluminium protège le panneau de l'atmosphère agressive, courante dans les bâtiments d'élevage.",
+        "Disponible en différentes longueurs sur demande.",
+        "Facile à manipuler et à installer.",
+        "Réaction au feu: C-s2, d0",
+        "Possibilité de rainurage longitudinal pour l'utilisation d'un profilé PVC en forme de \"H\".",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "PANNEAUX D'ISOLATION POUR FAUX PLAFONDS",
+        "TÉLÉCHARGER L'IMAGE",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "ACCUEIL",
+        "PANNEAUX D'ISOLATION POUR FAUX PLAFONDS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 55,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pir-gr/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pir-gr"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pir-gr",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/produits/panneaux-isolants/panneaux-isolants-pour-faux-plafonds/pir-gr",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: Panneau PIR GR",
+      "cq5dam.web.1280.1280.png | alt: Panneau PIR GR",
+      "plus-icon-fat.fc912760.svg | alt: See more bulletpoints",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

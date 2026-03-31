@@ -1,0 +1,240 @@
+{
+  "htmlTitle": {
+    "expected": "Nous sommes totalement transparents | Kingspan FR",
+    "actual": "Nous sommes totalement transparents"
+  },
+  "metaTitle": {
+    "expected": "Nous sommes totalement transparents",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Nous sommes totalement transparents",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Nous sommes totalement transparents"
+      ],
+      "h2": [
+        "Nos valeurs fondamentales",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective"
+      ],
+      "h3": [],
+      "h4": [
+        "Que faisons-nous de nos déchets ?",
+        "Rapports essais au feu",
+        "Rapport annuel de Planet Passionate",
+        "Chaque produit a sa propre application",
+        "De quoi sont faits nos produits ?"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Nous utilisons des cookies sur notre site internet www.kingspan.com. Certains de ces cookies sont essentiels tandis que d'autres nous aident à améliorer notre site internet et à personnaliser votre expérience d'utilisation du site. Veuillez noter que si vous n'acceptez pas les cookies fonctionnels et analytiques, certaines parties de notre site peuvent ne pas fonctionner. Pour plus d'informations sur les cookies que nous utilisons, veuillez consulter notre page Politique et Contrôle sur les cookies. Les pages Politique et Contrôle sur les cookies et Politique de confidentialité du site Internet ont été mis à jour le 1er février 2022.",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "\"Nous souhaitons que tout le monde puisse bénéficier de nos connaissances, de nos leçons et de nos erreurs.\"",
+        "Nous sommes totalement transparents . Nous souhaitons montrer qui nous sommes et ce que nous faisons, afin que chacun puisse bénéficier de nos connaissances, de nos leçons et de nos erreurs. Qu’il s’agisse de tests au feu, de la gestion des déchets ou de notre travail dans le respect de la circularité. Notre ouverture aux autres permet d'établir de meilleurs partenariats bénéfiques à tous.",
+        "Pouvons-nous réduire les déchets et où les éviter ? Dans cette démarche de circularité nous avons défini les procédures Kingspan LIFECycle. Et dans ces “cadres”, nous mettons en place nos processus d'usine. Aux Pays-Bas nous allons même jusqu'à collecter les matériaux résiduels de nos produits sur le chantier, pour les transformer en nouveaux produits ou en combustible pour de nouvelles énergies.",
+        "Découvrir plus",
+        "Chez Kingspan, nous avons une longue expérience des tests à grande échelle. Nos matériaux doivent être sûrs dans toutes les applications et des essais au feu approfondis sont effectués selon les règlementations en vigueur. Nous sommes heureux de partager ces connaissances et ces documents peuvent être demandés à notre service technique.",
+        "Découvrir plus",
+        "Parce que nous sommes totalement transparents, nous partageons également les résultats de notre stratégie globale de développement durable Planet Passionate. Avec ce programme sur 10 ans, nous voulons avoir un impact sur les enjeux mondiaux tels que le changement climatique, la circularité et la protection de notre nature. En 2022, nous avons progressé dans la réalisation de plusieurs de nos objectifs et achevé une série de projets passionnants. Découvrez ces points forts et bien plus encore dans notre rapport Planet Passionate 2022.",
+        "Découvrir plus",
+        "Que ce soit pour les sols, les toits ou les murs, nous avons une solution spécifique et adaptée pour chaque partie d'un bâtiment ou d'une maison. Chaque produit a sa propre application. Un produit, une application.",
+        "Découvrir plus",
+        "Nous pensons qu'il est important que vous sachiez avec quels matériaux vous travaillez. Car ce n'est qu'à ce moment-là que vous pourrez prendre la meilleure décision pour choisir le bon produit pour chaque projet.",
+        "Découvrir plus",
+        "Restez connecté",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "www.kingspan.com",
+        "notre page Politique et Contrôle sur les cookies",
+        "ACCUEIL",
+        "KINGSPAN INSULATION - NOTRE HISTOIRE",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "EN SAVOIR PLUS",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Nous sommes totalement transparents"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Que faisons-nous de nos déchets ?",
+        "Rapports essais au feu",
+        "Rapport annuel de Planet Passionate",
+        "Chaque produit a sa propre application",
+        "De quoi sont faits nos produits ?",
+        "Nos valeurs fondamentales",
+        "Notre histoire",
+        "Notre engagement total",
+        "Nous sommes totalement transparents",
+        "Nous partageons nos connaissances",
+        "Nous offrons une nouvelle perspective"
+      ],
+      "h5": [],
+      "h6": [
+        "Restez connecté"
+      ],
+      "p": [
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "\"Nous souhaitons que tout le monde puisse bénéficier de nos connaissances, de nos leçons et de nos erreurs.\"",
+        "Nous sommes totalement transparents . Nous souhaitons montrer qui nous sommes et ce que nous faisons, afin que chacun puisse bénéficier de nos connaissances, de nos leçons et de nos erreurs. Qu’il s’agisse de tests au feu, de la gestion des déchets ou de notre travail dans le respect de la circularité. Notre ouverture aux autres permet d'établir de meilleurs partenariats bénéfiques à tous.",
+        "Pouvons-nous réduire les déchets et où les éviter ? Dans cette démarche de circularité nous avons défini les procédures Kingspan LIFECycle. Et dans ces “cadres”, nous mettons en place nos processus d'usine. Aux Pays-Bas nous allons même jusqu'à collecter les matériaux résiduels de nos produits sur le chantier, pour les transformer en nouveaux produits ou en combustible pour de nouvelles énergies.",
+        "Découvrir plus",
+        "Chez Kingspan, nous avons une longue expérience des tests à grande échelle. Nos matériaux doivent être sûrs dans toutes les applications et des essais au feu approfondis sont effectués selon les règlementations en vigueur. Nous sommes heureux de partager ces connaissances et ces documents peuvent être demandés à notre service technique.",
+        "Découvrir plus",
+        "Parce que nous sommes totalement transparents, nous partageons également les résultats de notre stratégie globale de développement durable Planet Passionate. Avec ce programme sur 10 ans, nous voulons avoir un impact sur les enjeux mondiaux tels que le changement climatique, la circularité et la protection de notre nature. En 2022, nous avons progressé dans la réalisation de plusieurs de nos objectifs et achevé une série de projets passionnants. Découvrez ces points forts et bien plus encore dans notre rapport Planet Passionate 2022.",
+        "Découvrir plus",
+        "Que ce soit pour les sols, les toits ou les murs, nous avons une solution spécifique et adaptée pour chaque partie d'un bâtiment ou d'une maison. Chaque produit a sa propre application. Un produit, une application.",
+        "Découvrir plus",
+        "Nous pensons qu'il est important que vous sachiez avec quels matériaux vous travaillez. Car ce n'est qu'à ce moment-là que vous pourrez prendre la meilleure décision pour choisir le bon produit pour chaque projet.",
+        "Découvrir plus"
+      ],
+      "a": [
+        "ACCUEIL",
+        "KINGSPAN INSULATION - NOTRE HISTOIRE",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "Découvrir plus",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "EN SAVOIR PLUS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 45,
+    "actual": 14
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogImage": {
+    "expected": "/content/dam/kingspan/kil/campaigns/kice/kingspan-insulation-brandvalues-transparancy-image-kice-1.jpg",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "kingspan-insulation-brandvalues-transparancy-image-kice-4.jpeg | alt: Que faisons-nous de nos déchets ?",
+      "kingspan-insulation-brandvalues-expertise-image-kice-1.jpeg | alt: Rapports essais au feu",
+      "kingspan-insulation-brandvalues-transparancy-image-kice-10.jpeg | alt: Rapport annuel de Planet Passionate",
+      "kingspan-insulation-forum-groningen-case-study-nld-4.jpeg | alt: Chaque produit a sa propre application",
+      "kingspan-insulation-brandvalues-transparancy-image-kice-9.jpeg | alt: La composition de nos produits",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Que faisons-nous de nos déchets ?",
+      "image | alt: Rapports essais au feu",
+      "image | alt: Rapport annuel de Planet Passionate",
+      "image | alt: Chaque produit a sa propre application",
+      "image | alt: La composition de nos produits"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 9,
+    "actual": 6
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "nl-NL|/kingspan-dep/nl/nl/campagnes/kingspan-insulation-ons-verhaal/wij-zijn-compleet-transparant",
+      "nl-BE|/kingspan-dep/be/nl/campagnes/kingspan-insulation-ons-verhaal/wij-zijn-compleet-transparant",
+      "fr-BE|/kingspan-dep/be/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents",
+      "fr-FR|/kingspan-dep/fr/fr/campagnes/kingspan-insulation-notre-histoire/nous-sommes-totalement-transparents",
+      "de-DE|/kingspan-dep/de/de/kampagnen/kingspan-insulation-unsere-geschichte/wir-sind-volkommen-transparent",
+      "da-DK|/kingspan-dep/dk/da/kampagne/vores-historie/gennemsigtighed",
+      "fi-FI|/kingspan-dep/fi/fi/kampanjat/kingspan-insulation-tarinamme/lapinakyvyys",
+      "nn-NO|/kingspan-dep/no/nn/kampanjer/var-historie/apenhet",
+      "sv-SE|/kingspan-dep/se/sv/kampanjer/kingspan-insulation-var-historia/transparens",
+      "lt-LT|/kingspan-dep/lt/lt/kampanijos/kingspan-insulation-musu-istorija/skaidrumas",
+      "et-EE|/kingspan-dep/ee/et/kampaaniad/meie-lugu/labipaistvus",
+      "lv-LV|/kingspan-dep/lv/lv/kampanas/musu-stasts/parredzamiba"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

@@ -1,0 +1,4 @@
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+Opening page: https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+[LOG] Status: 200 | URL: https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/

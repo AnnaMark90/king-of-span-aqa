@@ -1,0 +1,150 @@
+{
+  "metaTitle": {
+    "expected": "Placa PIR CP-BL",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PIR CP-BL",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PIR CP-BL"
+      ],
+      "h2": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "O poder isolante da placa PIR CP-BL assegura um bom conforto térmico uma vez instalado. Destaca-se pelo seu bom desempenho mecânico e boa estabilidade dimensional. A placa PIR CP-BL foi concebida para ser aplicada como isolante térmico em coberturas inclinadas de chalés de montanha em altitudes inferiores a 900m, onde as condições de instalação podem ser difíceis. O revestimento de alumínio multicamadas está em ambos os lados da placa.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes para cuberturas inclinadas, com λd tão baixo como 0,022W/mK.",
+        "Baixa absorção de água, no máximo 1% graças à sua estrutura celular fechada.",
+        "Vasta gama de espessuras disponíveis.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 200kPa.",
+        "Fácil de manipular e instalar.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto).",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PIR CP-BL",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "CERTIFICADO ACERMI",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados",
+        "Precisa de mais informações?"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento de espuma rígida de poliisocianurato PIR CP-BL destaca-se pela sua boa resistência térmica, que permite a utilização de espessuras menores de placa isolante. A sua rigidez e leveza facilitam o manuseamento e instalação.",
+        "Vantagens",
+        "Entre os produtos de isolamento térmico mais eficientes para cuberturas inclinadas, com λd tão baixo como 0,022W/mK.",
+        "Baixa absorção de água, no máximo 1% graças à sua estrutura celular fechada.",
+        "Vasta gama de espessuras disponíveis.",
+        "Placas rígidas com um valor de resistência à compressão mínimo de 200kPa.",
+        "Fácil de manipular e instalar.",
+        "Produto com uma quantidade mínima de matéria-prima reciclada, em peso, de 6%. (De acordo com EPD do produto)."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "Por correio eletrónico",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 15
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-cp-bl/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-cp-bl"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-cp-bl",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-cp-bl",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR CP-BL",
+      "plus-icon-fat.fc912760.svg | alt: See more bulletpoints",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: PIR CP-BL"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 9,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

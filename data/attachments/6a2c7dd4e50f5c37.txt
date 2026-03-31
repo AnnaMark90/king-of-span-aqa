@@ -1,0 +1,10 @@
+[CRITICAL] Couldn't collect data for: https://www.kingspan.com/ee/et/meist/planet-passionate
+[CRITICAL] Couldn't collect data for: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/ee/et/meist/planet-passionate
+[safeRun] closeContext after https://www.kingspan.com/ee/et/meist/planet-passionate browserContext.close: Target page, context or browser has been closed
+    at safeRun (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:5:12)
+    at collectEnvData (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:66:5)
+    at C:\Users\User\Desktop\king-of-spam\tests\migrationCompare\migrationCompare.spec.js:29:33
+[safeRun] closeContext after https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/ee/et/meist/planet-passionate browserContext.close: Target page, context or browser has been closed
+    at safeRun (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:5:12)
+    at collectEnvData (C:\Users\User\Desktop\king-of-spam\helpers\pageHelpers.js:66:5)
+    at C:\Users\User\Desktop\king-of-spam\tests\migrationCompare\migrationCompare.spec.js:29:33

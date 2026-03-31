@@ -1,0 +1,177 @@
+{
+  "metaTitle": {
+    "expected": "Isolamento Térmico",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Isolamento Térmico",
+    "actual": "**Missing**"
+  },
+  "description": {
+    "expected": "Isolamento Térmico\nPlacas de isolamento fabricadas a partir de um processo de laminação em contínuo entre recobrimento flexível.",
+    "actual": "Isolamento Térmico\r\nPlacas de isolamento fabricadas a partir de um processo de laminação em contínuo entre recobrimento flexível."
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Isolamento Térmico"
+      ],
+      "h2": [],
+      "h3": [
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Selecionado",
+        "Selecionado",
+        "Selecionado",
+        "filtro",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Ordenar por",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Placa PIR AK",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Placa PIR F ALK",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PUR PS",
+        "Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Kingspan Optim-R",
+        "Kooltherm K10",
+        "Kooltherm K15",
+        "Kooltherm K3",
+        "Kooltherm K5",
+        "Kooltherm K8",
+        "Está a ver 9/30",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "TODOS",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "TODOS",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Placa PIR AK Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Placa PIR F ALK Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PUR PS Placa de espuma rígida PIR revestida com alumínio e poliéster reforçado.",
+        "Kingspan Optim-R",
+        "Kooltherm K10",
+        "Kooltherm K15",
+        "Kooltherm K3",
+        "Kooltherm K5",
+        "Kooltherm K8",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Isolamento Térmico"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "TODOS",
+        "PLACAS DE ISOLAMENTO PARA COBERTURAS",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "PLACAS DE ISOLAMENTO PARA PAVIMENTOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "original | alt: PIR F ALK",
+      "original | alt: PUR PS",
+      "**Missing** | alt: Kingspan Optim-R",
+      "**Missing** | alt: Kooltherm K10",
+      "**Missing** | alt: Kooltherm K15",
+      "**Missing** | alt: Kooltherm K3",
+      "**Missing** | alt: Kooltherm K5",
+      "**Missing** | alt: Kooltherm K8",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 13,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

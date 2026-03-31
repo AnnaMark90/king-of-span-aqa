@@ -1,0 +1,37 @@
+{
+  "successful": [
+    {
+      "url": "https://viewer.ipaper.io/kingspan/c2510682-planet-passionate-report-2025/c2510682-planet-passionate-report-2025/?page=1",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://group.kingspan.com/commitments/planet-passionate",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

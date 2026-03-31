@@ -1,0 +1,1 @@
+[CRITICAL] Couldn't collect data for: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aplicacoes/paredes

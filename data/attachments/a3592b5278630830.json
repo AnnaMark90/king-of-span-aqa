@@ -1,0 +1,159 @@
+{
+  "htmlTitle": {
+    "expected": "More Space Magazine | Kingspan FR",
+    "actual": "More Space Magazine"
+  },
+  "metaTitle": {
+    "expected": "More Space Magazine",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "More Space Magazine",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Pourquoi une isolation mince est rentable"
+      ],
+      "h2": [
+        "La 4ème édition de notre magazine More Space est publiée",
+        "Contactez-nous"
+      ],
+      "h3": [
+        "Et désormais disponible en France !"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "More Space Magazine",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Le climat change et les réglementations évoluent en conséquence. Cela demande à l’industrie du bâtiment d’innover sans cesse. Kingspan Insulation est heureux d'y contribuer et explique, dans son magazine More Space, pourquoi une isolation performante est efficace. Ce magazine contient divers articles qui décrivent comment l’utilisation de nos produits d'isolation offre de réelles solutions ; le but étant de vous inspirer et de vous montrer qu'une isolation mince et performante est rentable. Une isolation mince et performante permet d’optimiser les coûts tout en permettant d’atteindre les objectifs réglementaires sans pour autant limiter les possibilités de conceptions architecturales.",
+        "Souhaitez-vous recevoir un exemplaire ? Commandez-le ici.",
+        "Restez connecté",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "ACCUEIL",
+        "JE VEUX UN EXEMPLAIRE",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Pourquoi une isolation mince est rentable",
+        "La 4ème édition de notre magazine More Space est publiée"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Contactez-nous"
+      ],
+      "h5": [],
+      "h6": [
+        "Restez connecté"
+      ],
+      "p": [
+        "More Space Magazine",
+        "Découvrez-en plus",
+        "Faites défiler pour en savoir plus",
+        "Le climat change et les réglementations évoluent en conséquence. Cela demande à l’industrie du bâtiment d’innover sans cesse. Kingspan Insulation est heureux d'y contribuer et explique, dans son magazine More Space, pourquoi une isolation performante est efficace. Ce magazine contient divers articles qui décrivent comment l’utilisation de nos produits d'isolation offre de réelles solutions ; le but étant de vous inspirer et de vous montrer qu'une isolation mince et performante est rentable. Une isolation mince et performante permet d’optimiser les coûts tout en permettant d’atteindre les objectifs réglementaires sans pour autant limiter les possibilités de conceptions architecturales.",
+        "Souhaitez-vous recevoir un exemplaire ? Commandez-le ici."
+      ],
+      "a": [
+        "Accueil",
+        "CAMPAGNES",
+        "JE VEUX UN EXEMPLAIRE",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 44,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/campagnes/more-space-magazine/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/campagnes/more-space-magazine"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/campagnes/more-space-magazine",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/campagnes/more-space-magazine",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: More Space Magazine",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: More Space Magazine"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "nl-BE|/kingspan-dep/be/nl/campagnes/more-space-magazine",
+      "nl-NL|/kingspan-dep/nl/nl/campagnes/more-space-magazine",
+      "fr-BE|/kingspan-dep/be/fr/campagnes/more-space-magazine",
+      "fr-FR|/kingspan-dep/fr/fr/campagnes/more-space-magazine"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

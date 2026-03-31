@@ -1,0 +1,194 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /kingspan-dep/pt/pt
+      - button "Open quick search modal" [ref=e8] [cursor=pointer]:
+        - img
+      - button [ref=e10] [cursor=pointer]:
+        - img
+      - button [ref=e12]:
+        - img [ref=e14] [cursor=pointer]
+    - main [ref=e16]:
+      - generic [ref=e17]:
+        - region [ref=e20]:
+          - group [ref=e23]
+        - generic [ref=e29]:
+          - banner [ref=e30]: Construir Edifícios para um Mundo Melhor
+          - button "O que procura?" [ref=e32] [cursor=pointer]:
+            - img [ref=e33]
+            - text: O que procura?
+          - paragraph [ref=e36]:
+            - generic [ref=e37]: "Sugestão:"
+        - button [ref=e39] [cursor=pointer]:
+          - img
+      - banner [ref=e40]:
+        - heading "Aplicações" [level=4] [ref=e41]
+        - generic [ref=e42]:
+          - link "Coberturas" [ref=e43] [cursor=pointer]:
+            - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas
+          - link "Paredes" [ref=e44] [cursor=pointer]:
+            - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes
+          - link "Pavimentos" [ref=e45] [cursor=pointer]:
+            - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos
+          - link "Tectos Falsos" [ref=e46] [cursor=pointer]:
+            - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+      - generic [ref=e49]:
+        - heading "Produtos em Destaque" [level=4] [ref=e51]
+        - region [ref=e54]:
+          - generic [ref=e56]:
+            - group [ref=e57]:
+              - article [ref=e58]:
+                - generic [ref=e59]:
+                  - img "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces." [ref=e60]
+                  - button "Open product quickview modal" [ref=e61] [cursor=pointer]:
+                    - img
+                  - heading "Placa PIR GR" [level=2] [ref=e62]
+                - generic [ref=e63]:
+                  - heading "Placa PIR GR" [level=3] [ref=e64]
+                  - paragraph [ref=e65]: Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.
+                - link [ref=e66] [cursor=pointer]:
+                  - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pir-gr
+            - group [ref=e67]:
+              - article [ref=e68]:
+                - generic [ref=e69]:
+                  - img "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada." [ref=e70]
+                  - button "Open product quickview modal" [ref=e71] [cursor=pointer]:
+                    - img
+                  - heading "Placa PIR F ALK" [level=2] [ref=e72]
+                - generic [ref=e73]:
+                  - heading "Placa PIR F ALK" [level=3] [ref=e74]
+                  - paragraph [ref=e75]: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.
+                - link [ref=e76] [cursor=pointer]:
+                  - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-f-alk
+            - group [ref=e77]:
+              - article [ref=e78]:
+                - generic [ref=e79]:
+                  - img "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft." [ref=e80]
+                  - button "Open product quickview modal" [ref=e81] [cursor=pointer]:
+                    - img
+                  - heading "Placa PIR AK" [level=2] [ref=e82]
+                - generic [ref=e83]:
+                  - heading "Placa PIR AK" [level=3] [ref=e84]
+                  - paragraph [ref=e85]: Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.
+                - link [ref=e86] [cursor=pointer]:
+                  - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak
+            - group [ref=e87]:
+              - article [ref=e88]:
+                - generic [ref=e89]:
+                  - img "Painel de espuma rígida PIR revestido com folha de alumínio estampada." [ref=e90]
+                  - button "Open product quickview modal" [ref=e91] [cursor=pointer]:
+                    - img
+                  - heading "Painel PIR-ALU 35" [level=2] [ref=e92]
+                - generic [ref=e93]:
+                  - heading "Painel PIR-ALU 35" [level=3] [ref=e94]
+                  - paragraph [ref=e95]: Painel de espuma rígida PIR revestido com folha de alumínio estampada.
+                - link [ref=e96] [cursor=pointer]:
+                  - /url: /kingspan-dep/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas/preisoladas-pir-alu-35
+          - generic [ref=e100]:
+            - button "Previous slide" [disabled]:
+              - img
+              - generic: Previous slide
+            - button "Next slide" [ref=e101] [cursor=pointer]:
+              - img
+              - generic [ref=e102]: Next slide
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - heading "Planet Passionate" [level=1] [ref=e106]
+          - generic [ref=e107]: A nossa estratégia global de sustentabilidade
+          - contentinfo [ref=e109]: "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados."
+          - link "Saber mais" [ref=e111] [cursor=pointer]:
+            - /url: /kingspan-dep/pt/pt/sobre-nos/planetpassionate
+        - img "Planet Passionate 2025" [ref=e114]
+      - generic:
+        - generic:
+          - generic: Voltar ao início
+          - button:
+            - img
+    - contentinfo [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - term [ref=e120]: Business Groups
+            - definition [ref=e121]:
+              - link:
+                - /url: "#"
+            - definition [ref=e122]:
+              - link:
+                - /url: "#"
+          - generic [ref=e123]:
+            - term [ref=e124]: Products
+            - definition [ref=e125]:
+              - link:
+                - /url: "#"
+            - definition [ref=e126]:
+              - link:
+                - /url: "#"
+            - definition [ref=e127]:
+              - link:
+                - /url: "#"
+            - definition [ref=e128]:
+              - link:
+                - /url: "#"
+          - generic [ref=e129]:
+            - term [ref=e130]: Knowledge & Inspiration
+            - definition [ref=e131]:
+              - link:
+                - /url: "#"
+            - definition [ref=e132]:
+              - link:
+                - /url: "#"
+            - definition [ref=e133]:
+              - link:
+                - /url: "#"
+            - definition [ref=e134]:
+              - link:
+                - /url: "#"
+            - definition [ref=e135]:
+              - link:
+                - /url: "#"
+          - generic [ref=e136]:
+            - term [ref=e137]: Tools & Services
+            - definition [ref=e138]:
+              - link:
+                - /url: "#"
+            - definition [ref=e139]:
+              - link:
+                - /url: "#"
+            - definition [ref=e140]:
+              - link:
+                - /url: "#"
+            - definition [ref=e141]:
+              - link:
+                - /url: "#"
+            - definition [ref=e142]:
+              - link:
+                - /url: "#"
+            - definition [ref=e143]:
+              - link:
+                - /url: "#"
+        - button "Change country" [ref=e146] [cursor=pointer]:
+          - img
+          - text: Change country
+      - generic [ref=e149]:
+        - link "Cookie Settings" [ref=e150] [cursor=pointer]:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+        - link:
+          - /url: /#
+  - alert [ref=e151]
+```

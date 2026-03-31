@@ -1,0 +1,4 @@
+Opening page: https://www.kingspan.com/fr/fr/articles-de-connaissance/dpe-et-isolation-thermique-du-batiment
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/articles-de-connaissance/dpe-et-isolation-thermique-du-batiment
+[LOG] Status: 200 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/articles-de-connaissance/dpe-et-isolation-thermique-du-batiment
+[LOG] Status: 200 | URL: https://www.kingspan.com/fr/fr/articles-de-connaissance/dpe-et-isolation-thermique-du-batiment/

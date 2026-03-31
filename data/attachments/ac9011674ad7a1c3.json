@@ -1,0 +1,147 @@
+{
+  "metaTitle": {
+    "expected": "Condutas Pré-isoladas",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Condutas Pré-isoladas",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Condutas Pré-isoladas"
+      ],
+      "h2": [],
+      "h3": [
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Selecionado",
+        "Selecionado",
+        "Selecionado",
+        "filtro",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Ordenar por",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Painel PIR-ALU 35",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Painel PIR-ALU 45",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Placa PIR-ALU 40",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉCNICO",
+        "TODOS",
+        "CONDUTAS PRÉ-ISOLADAS",
+        "TODOS",
+        "CONDUTAS PRÉ-ISOLADAS",
+        "Aplicações",
+        "Grupo de produtos",
+        "Marca",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Painel PIR-ALU 35",
+        "Painel PIR-ALU 45",
+        "Placa PIR-ALU 40",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Condutas Pré-isoladas"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "ISOLAMENTO TÉCNICO",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 35,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR-ALU 35",
+      "cq5dam.web.1280.1280.png | alt: PIR-ALU 45",
+      "cq5dam.web.1280.1280.png | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

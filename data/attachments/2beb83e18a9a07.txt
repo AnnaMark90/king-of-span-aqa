@@ -1,0 +1,7 @@
+Opening page: https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp
+[LOG] Status: 502 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[LOG] Status: 200 | URL: https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp/
+[SKIP] Error data received for page: /pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos/therma-tf70-sp

@@ -1,0 +1,5 @@
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aplicacoes/paredes
+[LOG] Error: page.goto: HTTP/2 Error: NO_ERROR
+Call log:
+  - navigating to "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aplicacoes/paredes", waiting until "domcontentloaded"
+

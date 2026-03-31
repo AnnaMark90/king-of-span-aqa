@@ -1,0 +1,171 @@
+{
+  "metaTitle": {
+    "expected": "Página de início",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Página de início",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Construir Edifícios para um Mundo Melhor",
+        "Planet Passionate"
+      ],
+      "h2": [
+        "Aplicações",
+        "Produtos em Destaque",
+        "A nossa estratégia global de sustentabilidade"
+      ],
+      "h3": [
+        "Coberturas",
+        "Paredes",
+        "Pavimentos",
+        "Tectos Falsos"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Sugestão:",
+        "Vista rápida",
+        "Placa PIR GR",
+        "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Vista rápida",
+        "Placa PIR F ALK",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Vista rápida",
+        "Placa PIR AK",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Vista rápida",
+        "Painel PIR-ALU 35",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "Coberturas",
+        "Paredes",
+        "Pavimentos",
+        "Tectos Falsos",
+        "Placa PIR GR Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Placa PIR F ALK Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa PIR AK Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Painel PIR-ALU 35 Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "SABER MAIS",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Construir Edifícios para um Mundo Melhor",
+        "Planet Passionate"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Placa PIR GR",
+        "Placa PIR F ALK",
+        "Placa PIR AK",
+        "Painel PIR-ALU 35",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Aplicações",
+        "Produtos em Destaque"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Sugestão:",
+        "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+        "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.",
+        "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.",
+        "Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+        "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados."
+      ],
+      "a": [
+        "Coberturas",
+        "Paredes",
+        "Pavimentos",
+        "Tectos Falsos",
+        "SABER MAIS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 25,
+    "actual": 6
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo-light.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: PIR GR",
+      "original | alt: PIR F ALK",
+      "cq5dam.web.1280.1280.png | alt: PIR AK",
+      "cq5dam.web.1280.1280.png | alt: PIR-ALU 35",
+      "cq5dam.web.1280.1280.jpeg | alt: Planet Passionate 2025",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**",
+      "image | alt: Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.",
+      "image | alt: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada. ",
+      "image | alt: Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft. ",
+      "image | alt: Painel de espuma rígida PIR revestido com folha de alumínio estampada.",
+      "image | alt: Planet Passionate 2025"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 9,
+    "actual": 6
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

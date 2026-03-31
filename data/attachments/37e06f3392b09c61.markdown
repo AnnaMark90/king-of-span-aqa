@@ -1,0 +1,102 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link:
+      - /url: /kingspan-dep/pt/pt
+    - button "Open quick search modal" [ref=e6] [cursor=pointer]:
+      - img
+    - button [ref=e8] [cursor=pointer]:
+      - img
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - region [ref=e13]:
+        - group [ref=e16]
+      - generic [ref=e20]:
+        - banner [ref=e21]: Construir Edifícios para um Mundo Melhor
+        - button "O que procura?" [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+          - text: O que procura?
+        - paragraph [ref=e28]:
+          - generic [ref=e29]: "Sugestão:"
+      - button [ref=e31] [cursor=pointer]:
+        - img
+    - banner [ref=e32]:
+      - heading "Aplicações" [level=4] [ref=e33]
+      - generic [ref=e34]:
+        - link "Coberturas" [ref=e35]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas
+        - link "Paredes" [ref=e36]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes
+        - link "Pavimentos" [ref=e37]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-pavimentos
+        - link "Tectos Falsos" [ref=e38]:
+          - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos
+    - generic [ref=e41]:
+      - heading "Produtos em Destaque" [level=4] [ref=e43]
+      - region [ref=e46]:
+        - generic [ref=e48]:
+          - group [ref=e49]:
+            - article [ref=e50]:
+              - img "Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces." [ref=e52]
+              - generic [ref=e53]:
+                - heading "Placa PIR GR" [level=3] [ref=e54]
+                - paragraph [ref=e55]: Placa de espuma rígida PIR revestida com alumínio gofrado nas duas faces.
+              - link [ref=e56]:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/poliuretanos-pir-gr
+          - group [ref=e57]:
+            - article [ref=e58]:
+              - img "Placa de espuma rígida PIR revestida com complexo de alumínio multicamada." [ref=e60]
+              - generic [ref=e61]:
+                - heading "Placa PIR F ALK" [level=3] [ref=e62]
+                - paragraph [ref=e63]: Placa de espuma rígida PIR revestida com complexo de alumínio multicamada.
+              - link [ref=e64]:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-f-alk
+          - group [ref=e65]:
+            - article [ref=e66]:
+              - img "Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft." [ref=e68]
+              - generic [ref=e69]:
+                - heading "Placa PIR AK" [level=3] [ref=e70]
+                - paragraph [ref=e71]: Placa de espuma rígida PIR revestida com um complexo de alumínio-kraft.
+              - link [ref=e72]:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-coberturas/poliuretanos-pir-ak
+          - group [ref=e73]:
+            - article [ref=e74]:
+              - img "Painel de espuma rígida PIR revestido com folha de alumínio estampada." [ref=e76]
+              - generic [ref=e77]:
+                - heading "Painel PIR-ALU 35" [level=3] [ref=e78]
+                - paragraph [ref=e79]: Painel de espuma rígida PIR revestido com folha de alumínio estampada.
+              - link [ref=e80]:
+                - /url: /kingspan-dep/pt/pt/produtos/isolamento-tecnico/condutas-pre-isoladas/preisoladas-pir-alu-35
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - heading "Planet Passionate" [level=1] [ref=e86]
+        - generic [ref=e87]: A nossa estratégia global de sustentabilidade
+        - contentinfo [ref=e89]: "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados."
+        - link "Saber mais" [ref=e91] [cursor=pointer]:
+          - /url: /kingspan-dep/pt/pt/sobre-nos/planetpassionate
+      - img "Planet Passionate 2025" [ref=e94]
+  - contentinfo [ref=e95]:
+    - generic [ref=e96]:
+      - generic [ref=e98]:
+        - heading "Business Groups" [level=3] [ref=e100]:
+          - button "Business Groups" [ref=e101] [cursor=pointer]:
+            - text: Business Groups
+            - img
+        - heading "Products" [level=3] [ref=e103]:
+          - button "Products" [ref=e104] [cursor=pointer]:
+            - text: Products
+            - img
+        - heading "Knowledge & Inspiration" [level=3] [ref=e106]:
+          - button "Knowledge & Inspiration" [ref=e107] [cursor=pointer]:
+            - text: Knowledge & Inspiration
+            - img
+        - heading "Tools & Services" [level=3] [ref=e109]:
+          - button "Tools & Services" [ref=e110] [cursor=pointer]:
+            - text: Tools & Services
+            - img
+      - button "Change country" [ref=e113] [cursor=pointer]:
+        - img
+        - text: Change country
+```

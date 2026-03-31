@@ -1,0 +1,9 @@
+Opening page: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet
+Opening page: https://www.kingspan.com/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet
+[LOG] Status: 404 | URL: https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[LOG] Status: 404 | URL: https://www.kingspan.com/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet/
+Stop for diagnosis! Status code indicates a potential issue. Please check the page manually.
+[SKIP] Error data received for page: /fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet
+PROD ERROR https://www.kingspan.com/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet
+STAGE ERROR https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/articles-de-connaissance/comment-reduire-nos-dechets-et-tendre-vers-le-zero-dechet

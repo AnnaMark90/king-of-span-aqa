@@ -1,0 +1,133 @@
+{
+  "metaTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "A nossa estratégia global de sustentabilidade.",
+        "Planet Passionate Report 2025"
+      ],
+      "h2": [
+        "PLANET PASSIONATE"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Planet Passionate",
+        "O programa Planet Passionate visa ter um impacto positivo em três áreas-chave: alterações climáticas, circularidade e proteção do nosso mundo natural.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Com o nosso projecto Planet Passionate, comprometemo-nos a reduzir as emissões de CO2 dos nossos processos de produção para um nível tão próximo de zero quanto tecnicamente possível. Ao mesmo tempo, queremos reduzir as emissões de CO2 geradas na nossa cadeia de abastecimento. Para saber mais sobre o nosso projecto Planet Passionate, conhecer os nossos outros objectivos e saber mais sobre as nossas parcerias e compromissos globais, visite o site do Grupo Kingspan ou siga-nos nas redes sociais.",
+        "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "SOBRE NÓS",
+        "site do Grupo Kingspan",
+        "LEIA O NOSSO ÚLTIMO RELATÓRIO",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "A nossa estratégia global de sustentabilidade.",
+        "Planet Passionate Report 2025"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Planet Passionate",
+        "O programa Planet Passionate visa ter um impacto positivo em três áreas-chave: alterações climáticas, circularidade e proteção do nosso mundo natural.",
+        "Descubra o potencial",
+        "Deslocar-se para mais",
+        "Com o nosso projecto Planet Passionate, comprometemo-nos a reduzir as emissões de CO2 dos nossos processos de produção para um nível tão próximo de zero quanto tecnicamente possível. Ao mesmo tempo, queremos reduzir as emissões de CO2 geradas na nossa cadeia de abastecimento. Para saber mais sobre o nosso projecto Planet Passionate, conhecer os nossos outros objectivos e saber mais sobre as nossas parcerias e compromissos globais, visite o site do Grupo Kingspan ou siga-nos nas redes sociais.",
+        "No relatório de 2025, compartilhamos o progresso: mais de 600 projetos concluídos na operação e na cadeia de valor, reduções significativas nas emissões dos Escopos 1, 2 e 3 e avanços em energia renovável e materiais reciclados."
+      ],
+      "a": [
+        "SOBRE NÓS",
+        "site do Grupo Kingspan",
+        "LEIA O NOSSO ÚLTIMO RELATÓRIO",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 27,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/sobre-nos/planetpassionate/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/sobre-nos/planetpassionate"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/sobre-nos/planetpassionate",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/sobre-nos/planetpassionate",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.jpeg | alt: Planet Passionate report",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Planet Passionate report"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

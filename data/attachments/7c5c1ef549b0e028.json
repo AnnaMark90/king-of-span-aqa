@@ -1,0 +1,37 @@
+{
+  "successful": [
+    {
+      "url": "https://kingspan.formstack.com/forms/kti_technical_enquiries_passive_fire_protection_fr_be_fr",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://kingspan.formstack.com/forms/kti_customer_service_enquiry_fr",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/produits/protection-passive-contre-lincendie/coupe-feu/mortier-coupe-feu-compund-k-stop",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr",
+      "status": 200,
+      "statusText": "Successful"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/produits/protection-passive-contre-lincendie/coupe-feu",
+      "status": 200,
+      "statusText": "Successful"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/",
+      "status": 404,
+      "statusText": "Not Found"
+    }
+  ]
+}

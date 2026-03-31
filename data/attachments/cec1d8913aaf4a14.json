@@ -1,0 +1,134 @@
+{
+  "metaTitle": {
+    "expected": "Placa PUR AL PLUS",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Placa PUR AL PLUS",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Placa PUR AL PLUS"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "ISOLAMENTO TÉRMICO",
+        "O poder isolante da placa PUR AL PLUS assegura um bom conforto térmico. O seu acabamento em alumínio protege a placa de atmosferas agressivas e facilita a lavagem sob pressão para uma boa higiene nas instalações agrícolas. A sua rigidez permite comprimentos até 10m. minimizando as juntas durante a montagem. É fácil de instalar, graças aos sistemas de ajuste de perfis em PVC e ranhuras das placas. O seu acabamento em alumínio-ktaft garante um longa vida útil de instalação.",
+        "Vantagens",
+        "Baixo coeficiente de condutibilidade térmica.",
+        "Elevada rigidez e pouco peso.",
+        "Facilidade de manuseamento.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "DESCARREGAR IMAGEM",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Placa PUR AL PLUS",
+        "Descargas"
+      ],
+      "h2": [
+        "Informação técnica"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "DIMENSÕES",
+        "PROPRIEDADES TÉRMICAS",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "A placa de isolamento de espuma de poliisocianurato PUR AL PLUS tem boa resistência térmica, permitindo a utilização de placas de menor espessura. Placas com elevada rigidez, leves e com um complexo multicamadas de alumínio-kraft em mabas as faces.",
+        "Vantagens",
+        "Baixo coeficiente de condutibilidade térmica.",
+        "Elevada rigidez e pouco peso.",
+        "Facilidade de manuseamento."
+      ],
+      "a": [
+        "ISOLAMENTO TÉRMICO",
+        "PLACAS DE ISOLAMENTO PARA TECTOS FALSOS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 34,
+    "actual": 12
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/pur-al-plus/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/pur-al-plus"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/pur-al-plus",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-tectos-falsos/pur-al-plus",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "original | alt: Plava PUR AL PLUS",
+      "original | alt: Plava PUR AL PLUS",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Plava PUR AL PLUS"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 6,
+    "actual": 2
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

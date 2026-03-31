@@ -1,0 +1,149 @@
+{
+  "htmlTitle": {
+    "expected": "null",
+    "actual": "Kooltherm K5"
+  },
+  "metaTitle": {
+    "expected": "Kooltherm K5",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kooltherm K5",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [
+        "Produtos Recomendados"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Placa PIR AF",
+        "Placa de espuma rígida PIR revestida com folha de alumínio estampada.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Placa PIR AF Placa de espuma rígida PIR revestida com folha de alumínio estampada.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Kooltherm K5",
+        "Descargas"
+      ],
+      "h2": [
+        "Navigation",
+        "Informação técnica",
+        "Kooltherm K15",
+        "Kooltherm K8",
+        "Placa PIR AF"
+      ],
+      "h3": [
+        "CARACTERÍSTICAS TÉCNICAS",
+        "Kooltherm K15",
+        "Kooltherm K8",
+        "Placa PIR AF",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Produtos Recomendados"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "ISOLAMENTO TÉRMICO",
+        "O painel Kingspan® K5 para ETICS, é composto por um núcleo rígido de isolamento de resina modificada termoestável.",
+        "Vantagens",
+        "Atinge o valor U requerido com espessuras mínimas.",
+        "Ideal para projectos de renovação.",
+        "Fácil de manusear e instalar.",
+        "Isolamento de alta qualidade para fachadas ventiladas.",
+        "Isolamento de alta qualidade.",
+        "Placa de espuma rígida PIR revestida com folha de alumínio estampada."
+      ],
+      "a": [
+        "Isolamento Térmico",
+        "PLACAS DE ISOLAMENTO PARA PAREDES",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 12
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/produtos/isolamento-termico/placas-de-isolamento-para-paredes/kooltherm-k5",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "**Missing** | alt: **Missing**",
+      "**Missing** | alt: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: PIR AF",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**",
+      "image | alt: Kooltherm K5",
+      "image | alt: Kooltherm K5",
+      "image | alt: Kooltherm K5",
+      "image | alt: Kooltherm K5",
+      "image | alt: Isolamento de alta qualidade para fachadas ventiladas.",
+      "image | alt: Isolamento de alta qualidade.",
+      "image | alt: Placa de espuma rígida PIR revestida com folha de alumínio estampada. "
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 7,
+    "actual": 8
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

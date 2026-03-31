@@ -1,0 +1,141 @@
+{
+  "htmlTitle": {
+    "expected": "Engagements de Kingspan Direct Marketing | Kingspan FR",
+    "actual": "Engagements de Kingspan Direct Marketing"
+  },
+  "metaTitle": {
+    "expected": "Engagements de Kingspan Direct Marketing",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Engagements de Kingspan Direct Marketing",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Déclaration de consentement au marketing direct"
+      ],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "La déclaration de consentement suivante concerne uniquement le marketing direct des sociétés Kingspan Insulation qui contrôlent le contenu du sous-domaine pays/région de www.u-valuecalculator.com depuis lequel vous avez accédé à cette page. Cliquez ici pour accéder à la liste des responsables du traitement des données pour ce sous-domaine pays/région et leurs coordonnées. Un consentement distinct vous sera demandé dans chaque sous-domaine pays/région de www.u-valuecalculator.com.",
+        "Nous traitons vos données à caractère personnel, visées dans le présent formulaire, à des fins de marketing et de profilage conformément à notre Déclaration de confidentialité du site Web. Vous êtes en droit de retirer tout consentement que vous nous donnez à des fins de marketing et de vous opposer à tout traitement que vous considérez comme inexact. Veuillez lire notre Déclaration de confidentialité pour en savoir plus sur vos droits.",
+        "Si vous changez d’avis, vous pouvez retirer votre consentement à tout moment. Il vous suffit pour cela de contacter Kingspan Insulation ou les sociétés extérieures au groupe Kingspan qui vous ont envoyé un message de marketing direct.",
+        "Pour obtenir les coordonnées de la société Kingspan Insulation, veuillez consulter la liste des responsables du traitement des données en cliquant ICI. Si vous avez reçu des courriers électroniques, des courriers postaux ou des appels téléphoniques commerciaux de la part d’une société Kingspan ou d’une autre organisation tierce, et que vous ne souhaitez plus recevoir de communications commerciales de leur part, vous pourrez vous désabonner en suivant le lien de désinscription dans le courrier électronique, ou par tout autre moyen que nous pourrons vous communiquer.",
+        "Divisions en France",
+        "Mentions légales",
+        "Kingspan — France",
+        "@ 2025 Kingspan Group. Tous droits réservés."
+      ],
+      "a": [
+        "KINGSPAN INSULATION",
+        "www.u-valuecalculator.com",
+        "Cliquez ici",
+        "www.u-valuecalculator.com",
+        "ICI",
+        "Réalisations",
+        "A propos de nous",
+        "Outils de calcul",
+        "Carrière",
+        "Bâtiments Durables",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Kingspan Insulation",
+        "Kingspan Isolation Technique",
+        "Kingspan Light + Air",
+        "Kingspan Panneaux Sandwich Isolants",
+        "Kingspan Water & Energy",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies",
+        "Consentement aux notifications",
+        "Modalités et conditions générales d’utilisation",
+        "Politique de confidentialité du site internet",
+        "Politique de contrôle sur les cookies"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Déclaration de consentement au marketing direct"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "La déclaration de consentement suivante concerne uniquement le marketing direct des sociétés Kingspan Insulation qui contrôlent le contenu du sous-domaine pays/région de www.u-valuecalculator.com depuis lequel vous avez accédé à cette page. Cliquez ici pour accéder à la liste des responsables du traitement des données pour ce sous-domaine pays/région et leurs coordonnées. Un consentement distinct vous sera demandé dans chaque sous-domaine pays/région de www.u-valuecalculator.com.",
+        "Nous traitons vos données à caractère personnel, visées dans le présent formulaire, à des fins de marketing et de profilage conformément à notre Déclaration de confidentialité du site Web. Vous êtes en droit de retirer tout consentement que vous nous donnez à des fins de marketing et de vous opposer à tout traitement que vous considérez comme inexact. Veuillez lire notre Déclaration de confidentialité pour en savoir plus sur vos droits.",
+        "Si vous changez d’avis, vous pouvez retirer votre consentement à tout moment. Il vous suffit pour cela de contacter Kingspan Insulation ou les sociétés extérieures au groupe Kingspan qui vous ont envoyé un message de marketing direct.",
+        "Pour obtenir les coordonnées de la société Kingspan Insulation, veuillez consulter la liste des responsables du traitement des données en cliquant ICI. Si vous avez reçu des courriers électroniques, des courriers postaux ou des appels téléphoniques commerciaux de la part d’une société Kingspan ou d’une autre organisation tierce, et que vous ne souhaitez plus recevoir de communications commerciales de leur part, vous pourrez vous désabonner en suivant le lien de désinscription dans le courrier électronique, ou par tout autre moyen que nous pourrons vous communiquer."
+      ],
+      "a": [
+        "Accueil",
+        "KINGSPAN INSULATION",
+        "www.u-valuecalculator.com",
+        "Cliquez ici",
+        "www.u-valuecalculator.com",
+        "ICI",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 45,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/fr/fr/divisions/kingspaninsulation/u-value-calculator-engagements-de-kingspan-direct-marketing/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/fr/fr/divisions/kingspaninsulation/u-value-calculator-engagements-de-kingspan-direct-marketing"
+  },
+  "canonicalMatch": {
+    "expected": "/fr/fr/divisions/kingspaninsulation/u-value-calculator-engagements-de-kingspan-direct-marketing",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/fr/fr/divisions/kingspaninsulation/u-value-calculator-engagements-de-kingspan-direct-marketing",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 4,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

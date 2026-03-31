@@ -1,0 +1,123 @@
+{
+  "metaTitle": {
+    "expected": "Aviso de consentimento de marketing directo",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Aviso de consentimento de marketing directo",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Aviso de Consentimento de Marketing Directo",
+        "O seguinte aviso de consentimento refere-se apenas ao marketing directo das empresas Kingspan que controlam o conteúdo do subdomínio do país/região de www.kingspan.com de onde veio para esta página. Clique aqui para aceder a uma lista dos Controladores de Dados para este subdomínio de país / região e detalhes dos seus contactos. Ser-lhe-á pedido um consentimento separado em cada subdomínio de país / região de www.kingspan.com.",
+        "Processamos os seus dados pessoais, referidos neste formulário, para fins de marketing e criação de perfil , de acordo com a nosso Aviso de Privacidade do Website. Você tem o direito de retirar qualquer consentimento que nos der para fins de marketing e de se opôr a qualquer processamento que considere incorreto. Por favor, leia o nosso Aviso de Privacidade para saber mais sobre seus direitos.",
+        "Se mudar de ideias, pode retirar o seu consentimento a qualquer momento. Pode fazê-lo entrando em contacto com a empresa Kingspan relevante ou empresas de fora do grupo Kingspan de quem recebeu uma mensagem de marketing directo. Para detalhes de contacto das nossas empresas Kingspan, consulte a lista de controladores de dados aqui. Se recebeu marketing por e-mail de uma empresa Kingspan ou de outra terceira organização e decidir que já não deseja receber mais e-mails de marketing, poderá optar por não mais marketing por e-mail seguindo um link de cancelamento de inscrição no e-mail ou por qualquer outro meio que lhe possamos comunicar.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "www.kingspan.com",
+        "aqui",
+        "www.kingspan.com",
+        "Aviso de Privacidade do Website",
+        "aqui",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Aviso de Consentimento de Marketing Directo",
+        "O seguinte aviso de consentimento refere-se apenas ao marketing directo das empresas Kingspan que controlam o conteúdo do subdomínio do país/região de www.kingspan.com de onde veio para esta página. Clique aqui para aceder a uma lista dos Controladores de Dados para este subdomínio de país / região e detalhes dos seus contactos. Ser-lhe-á pedido um consentimento separado em cada subdomínio de país / região de www.kingspan.com.",
+        "Processamos os seus dados pessoais, referidos neste formulário, para fins de marketing e criação de perfil , de acordo com a nosso Aviso de Privacidade do Website. Você tem o direito de retirar qualquer consentimento que nos der para fins de marketing e de se opôr a qualquer processamento que considere incorreto. Por favor, leia o nosso Aviso de Privacidade para saber mais sobre seus direitos.",
+        "Se mudar de ideias, pode retirar o seu consentimento a qualquer momento. Pode fazê-lo entrando em contacto com a empresa Kingspan relevante ou empresas de fora do grupo Kingspan de quem recebeu uma mensagem de marketing directo. Para detalhes de contacto das nossas empresas Kingspan, consulte a lista de controladores de dados aqui. Se recebeu marketing por e-mail de uma empresa Kingspan ou de outra terceira organização e decidir que já não deseja receber mais e-mails de marketing, poderá optar por não mais marketing por e-mail seguindo um link de cancelamento de inscrição no e-mail ou por qualquer outro meio que lhe possamos comunicar."
+      ],
+      "a": [
+        "www.kingspan.com",
+        "aqui",
+        "www.kingspan.com",
+        "Aviso de Privacidade do Website",
+        "aqui",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 26,
+    "actual": 7
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/aviso-de-consentimento-de-marketing-directo/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aviso-de-consentimento-de-marketing-directo"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/aviso-de-consentimento-de-marketing-directo",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/aviso-de-consentimento-de-marketing-directo",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 4,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "metaTitle": {
+    "expected": "Paredes",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Paredes",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Paredes"
+      ],
+      "h2": [],
+      "h3": [
+        "Aplicações (1)",
+        "Grupo de produtos",
+        "Marca"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "(1) Selecionado",
+        "Selecionado",
+        "Selecionado",
+        "filtro",
+        "Aplicações",
+        "Paredes (4)",
+        "Grupo de produtos",
+        "Marca",
+        "Ordenar por",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Coltlite",
+        "Ventilador estático de lamelas para extração natural de fumo e calor",
+        "ECO",
+        "Ventilador estático de lamelas para extração natural de fumo e calor",
+        "Placa PIR 7C",
+        "Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+        "Placa PIR AF",
+        "Placa de espuma rígida PIR revestida com folha de alumínio estampada.",
+        "Grupos de negócios Portugal",
+        "Informação Legal",
+        "Kingspan — Portugal",
+        "© 2025 Kingspan Group. Todos os direitos reservados"
+      ],
+      "a": [
+        "Sobre nós",
+        "APLICAÇÕES",
+        "TODOS",
+        "PAVIMENTOS",
+        "PAREDES",
+        "COBERTURAS",
+        "TECTOS FALSOS",
+        "TODOS",
+        "PAVIMENTOS",
+        "PAREDES",
+        "COBERTURAS",
+        "TECTOS FALSOS",
+        "AplicaçõesParedes (4)",
+        "Grupo de produtos",
+        "Marca",
+        "Featured",
+        "A To Z",
+        "Z To A",
+        "Coltlite Ventilador estático de lamelas para extração natural de fumo e calor",
+        "ECO Ventilador estático de lamelas para extração natural de fumo e calor",
+        "Placa PIR 7C Placa de espuma PIR revestida com complexo de alumínio-kraft multicamadas.",
+        "Placa PIR AF Placa de espuma rígida PIR revestida com folha de alumínio estampada.",
+        "Sobre nós",
+        "Sustentabilidade",
+        "Aplicações",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website",
+        "Política e Controlo de Cookies",
+        "Termos & Condições de Utilização do Website",
+        "Política de Privacidade do Website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Paredes"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "APLICAÇÕES",
+        "TODOS",
+        "TECTOS FALSOS",
+        "PAVIMENTOS",
+        "PAREDES",
+        "COBERTURAS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 38,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/pt/pt/aplicacoes/paredes/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/pt/pt/aplicacoes/paredes"
+  },
+  "canonicalMatch": {
+    "expected": "/pt/pt/aplicacoes/paredes",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/pt/pt/aplicacoes/paredes",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "kingspan-logo.svg | alt: Kingspan logo",
+      "kingspan-logo-mobile.svg | alt: Kingspan logo",
+      "cq5dam.web.1280.1280.png | alt: coltlite",
+      "cq5dam.web.1280.1280.png | alt: eco",
+      "cq5dam.web.1280.1280.png | alt: PIR 7C",
+      "cq5dam.web.1280.1280.png | alt: PIR AF",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 8,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}
