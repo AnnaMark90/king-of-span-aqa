@@ -72,6 +72,10 @@ jobs:
         run: |
           mkdir -p ./all-blob-reports
           npx playwright merge-reports --reporter allure-playwright ./all-blob-reports
+      - name: Add Run Info to Allure
+        run: |
+          echo "Pipeline_Run_Number=${{ github.run_number }}" >> allure-results/environment.properties
+          echo "Batch_Name=${{ github.event.inputs.batch_name || 'default' }}" >> allure-results/environment.properties
       - name: Generate Allure Report
         run: npx allure generate allure-results -o allure-report --clean
       - name: Upload Allure Report

@@ -37,3 +37,7 @@ Thumbs.db
 
 # screenshots
 /images
+
+# Allure Reports
+allure-report/
+allure-results/
