@@ -44,12 +44,12 @@ for (const page of TEST_PAGES) {
             needsFunc: false,
           }),
         ]);
-        if (!prodData?.func || !stageData?.func) {
+        if (!prodData || !stageData) {
           console.log(`[SKIP] Error data received for page: /${page.path}`);
-          if (!prodData?.func) {
+          if (!prodData) {
             console.log(`PROD ERROR ${page.prodUrl}`);
           }
-          if (!stageData?.func) {
+          if (!stageData) {
             console.log(`STAGE ERROR ${page.stageUrl}`);
           }
         }

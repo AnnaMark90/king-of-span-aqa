@@ -49,11 +49,16 @@ export async function collectEnvData({
   const pageObject = new PageObject(page);
 
   try {
-    const opened = await safeRun(
-      pageObject.openPage(url),
-      false,
-      `openPage ${url}`,
-    );
+    let opened = false;
+    for (let i = 0; i < 3; i++) {
+      opened = await safeRun(
+        pageObject.openPage(url),
+        false,
+        `openPage ${url}`,
+      );
+      if (opened) break;
+      if (i < 2) await page.waitForTimeout(2000);
+    }
     if (!opened) {
       console.error(`[CRITICAL] Couldn't collect data for: ${url}`);
       return null;
