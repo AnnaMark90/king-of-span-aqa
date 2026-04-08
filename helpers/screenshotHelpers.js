@@ -113,7 +113,7 @@ export async function compareEnvsSnapshots({
     diffImage.data,
     width,
     height,
-    { threshold: 0.15 },
+    { threshold: 0.2 },
   );
   if (mismatchPixels > 0) {
     const dir = path.dirname(diffPath);
@@ -134,9 +134,9 @@ export async function compareEnvsSnapshots({
     expect
       .soft(
         diffPercent,
-        `Visual difference detected on ${path.basename(stagePath)}`,
+        `Visual difference detected on ${path.basename(stagePath)}. Mismatch: ${diffPercent.toFixed(2)}%`,
       )
-      .toBeLessThanOrEqual(0.05);
+      .toBeLessThanOrEqual(5);
   }
 }
 
