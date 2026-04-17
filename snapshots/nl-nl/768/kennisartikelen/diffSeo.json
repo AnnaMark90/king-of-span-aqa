@@ -1,0 +1,180 @@
+{
+  "htmlTitle": {
+    "expected": "Kennisartikelen | Kingspan NL",
+    "actual": "Kennisartikelen"
+  },
+  "metaTitle": {
+    "expected": "Kennisartikelen",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Kennisartikelen",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [],
+      "h2": [],
+      "h3": [
+        "Productgroep",
+        "Thema",
+        "Toepassing"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Filter Dutch",
+        "Productgroep",
+        "Thema",
+        "Toepassing",
+        "Sorteer op",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "Aan welke veiligheidseisen moeten de vluchtroutes van een wokkeltrappenhuis voldoen?",
+        "Een wokkeltrappenhuis is in feite een trappenhuis met twee trappenhuizen in één",
+        "De voor- en nadelen van EPS isolatie",
+        "EPS is een veelzijdig isolatiemateriaal. Ontdek hier de voor- en nadelen van EPS isolatie",
+        "Het Mollier diagram: de basis voor een klimaatinstallatie op maat",
+        "Klimaatmetingen helpen om het klimaat in uw gebouw., het Mollier Diagram helpt daar bij",
+        "Renoveren of transformeren? Kingspan als one stop shop",
+        "Kingspan Light + Air is dé one stop shop voor complete renovatie en transformatie projecten.",
+        "Terugnamegarantie van Kingspan Unidek: een volgende stap richting circulariteit",
+        "Kingspan Unidek introduceert een terugnamegarantie voor een duurzame toekomst. Lees hier meer",
+        "Veelgestelde vragen (FAQ) over Kingspan TEK",
+        "Vind op deze pagina het antwoord op al uw vragen over Kingspan TEK (FAQ)",
+        "Wat zijn de verschillende soorten dakelementen",
+        "Gemakkelijk en snel een nieuwbouwdak of hellend dak bouwen of renoveren. Bekijk onze dakelementen",
+        "Wetenschappelijk onderzoek Kingspan TEK panelen laat zeer positieve resultaten zien",
+        "Lees hier meer over de resultaten van het wetenschappelijke onderzoek over Kingspan TEK panelen",
+        "5 Redenen om klimaatbeheersing te onderhouden",
+        "Goed onderhoud helpt om continu te zorgen voor een aangename werkomgeving en vervuiling te voorkomen",
+        "U bekijkt 9 / 180",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "Productgroep",
+        "Thema",
+        "Toepassing",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "Home",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 35,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/kennisartikelen/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/kennisartikelen"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/kennisartikelen",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/kennisartikelen",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.jpeg | alt: 5 Redenen om klimaatbeheersing te onderhouden | title: 5 Redenen om klimaatbeheersing te onderhouden",
+      "cq5dam.web.1280.1280.jpeg | alt: Aan welke veiligheidseisen moeten de vluchtroutes van een wokkeltrappenhuis voldoen? | title: Aan welke veiligheidseisen moeten de vluchtroutes van een wokkeltrappenhuis voldoen?",
+      "cq5dam.web.1280.1280.jpeg | alt: De voor- en nadelen van EPS isolatie | title: De voor- en nadelen van EPS isolatie",
+      "cq5dam.web.1280.1280.jpeg | alt: Renoveren of transformeren? Kingspan als one stop shop | title: Renoveren of transformeren? Kingspan als one stop shop",
+      "cq5dam.web.1280.1280.jpeg | alt: Veelgestelde vragen (FAQ) over Kingspan TEK | title: Veelgestelde vragen (FAQ) over Kingspan TEK",
+      "cq5dam.web.1280.1280.jpeg | alt: Wat zijn de verschillende soorten dakelementen | title: Wat zijn de verschillende soorten dakelementen",
+      "cq5dam.web.1280.1280.jpeg | alt: Wetenschappelijk onderzoek Kingspan TEK panelen laat zeer positieve resultaten zien | title: Wetenschappelijk onderzoek Kingspan TEK panelen laat zeer positieve resultaten zien",
+      "cq5dam.web.1280.1280.png | alt: Het Mollier diagram: de basis voor een klimaatinstallatie op maat | title: Het Mollier diagram: de basis voor een klimaatinstallatie op maat",
+      "cq5dam.web.1280.1280.png | alt: Terugnamegarantie van Kingspan Unidek: een volgende stap richting circulariteit | title: Terugnamegarantie van Kingspan Unidek: een volgende stap richting circulariteit",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 1
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

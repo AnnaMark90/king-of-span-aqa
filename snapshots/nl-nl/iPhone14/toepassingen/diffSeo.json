@@ -1,0 +1,252 @@
+{
+  "htmlTitle": {
+    "expected": "Toepassingen | Kingspan NL",
+    "actual": "Toepassingen"
+  },
+  "metaTitle": {
+    "expected": "Toepassingen",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Toepassingen",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Toepassingen"
+      ],
+      "h2": [],
+      "h3": [
+        "Merk",
+        "Productgroep"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "geselecteerd",
+        "geselecteerd",
+        "Filter Dutch",
+        "Merk",
+        "Productgroep",
+        "Sorteer op",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Snel bekijken",
+        "K-Roc KS1000 FF dakpaneel",
+        "Brandveilig dakpaneel met steenwol isolatiekern",
+        "Snel bekijken",
+        "K-Roc KS1000 RH gevelpaneel",
+        "Brandveilig gevelpaneel met blinde bevestiging en steenwol kern",
+        "Snel bekijken",
+        "K-Roc KS1150 RF gevelpaneel",
+        "Brandveilig gevelpaneel met zichtbare bevestiging en steenwol kern",
+        "Snel bekijken",
+        "Kooltherm K21 Vliesgevelplaat",
+        "Hoogwaardige isolatie voor gebruik achter regenwerende gevelsystemen",
+        "Snel bekijken",
+        "QuadCore AWP Supreme gevelpaneel",
+        "Brandwerend architectonisch gevelpaneel met QuadCore isolatiekern",
+        "Snel bekijken",
+        "QuadCore AWP gevelpaneel",
+        "Architectonisch gevelpaneel met uitstekende isolatie en blinde bevestiging",
+        "Snel bekijken",
+        "QuadCore Coldstore dakpaneel",
+        "Uitstekend isolerend dakpaneel voor platte en licht hellende daken",
+        "Snel bekijken",
+        "QuadCore Evolution gevelpaneel",
+        "Architectonisch gevelpaneel met zeer vlak design en verfijnde detaillering",
+        "Snel bekijken",
+        "QuadCore KS1000RW dakpaneel",
+        "Trapezium dakpaneel met voor hellende daken",
+        "U bekijkt 9/194",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "Merk",
+        "Productgroep",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Uitgelicht K-Roc KS1000 FF dakpaneel",
+        "Uitgelicht K-Roc KS1000 RH gevelpaneel",
+        "Uitgelicht K-Roc KS1150 RF gevelpaneel",
+        "Kooltherm K21 Vliesgevelplaat",
+        "Uitgelicht QuadCore AWP Supreme gevelpaneel",
+        "Uitgelicht QuadCore AWP gevelpaneel",
+        "Uitgelicht QuadCore Coldstore dakpaneel",
+        "Uitgelicht QuadCore Evolution gevelpaneel",
+        "Uitgelicht QuadCore KS1000RW dakpaneel",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Toepassingen"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "HOME",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 36,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/toepassingen/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/toepassingen",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/toepassingen",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.png | alt: Coldstore dakpaneel product render | title: Coldstore dakpaneel product render",
+      "cq5dam.web.1280.1280.png | alt: Kingspan KS1000RW dakpaneel product render | title: Kingspan KS1000RW dakpaneel product render",
+      "cq5dam.web.1280.1280.png | alt: Kooltherm K21 hoekafbeelding | title: Kooltherm K21 hoekafbeelding",
+      "cq5dam.web.1280.1280.png | alt: Product render QuadCore AWP Supreme Micro-Rib | title: Product render QuadCore AWP Supreme Micro-Rib",
+      "cq5dam.web.1280.1280.png | alt: Product render QuadCore Evolution Axis | title: Product render QuadCore Evolution Axis",
+      "cq5dam.web.1280.1280.png | alt: Product render van AWP Gevelpaneel Mini-Micro | title: Product render van AWP Gevelpaneel Mini-Micro",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc KS1000 FF dakpaneel | title: Render van K-Roc KS1000 FF dakpaneel",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc KS1150 RF gevelpaneel | title: Render van K-Roc KS1150 RF gevelpaneel",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc RH gevelpaneel | title: Render van K-Roc RH gevelpaneel",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/applications",
+      "fr-BE|/kingspan-dep/be/fr/applications",
+      "nl-BE|/kingspan-dep/be/nl/toepassingen",
+      "en-CA|/kingspan-dep/ca/en/applications",
+      "de-DE|/kingspan-dep/de/de/anwendungen",
+      "fr-FR|/kingspan-dep/fr/fr/applications",
+      "en-GB|/kingspan-dep/gb/en/applications",
+      "en-IE|/kingspan-dep/ie/en/applications",
+      "nl-NL|/kingspan-dep/nl/nl/toepassingen",
+      "en-NZ|/kingspan-dep/nz/en/applications",
+      "en-US|/kingspan-dep/us/en/applications",
+      "en-AE|/kingspan-dep/ae/en/applications",
+      "en-SG|/kingspan-dep/sg/en/applications",
+      "en-VN|/kingspan-dep/vn/en/applications",
+      "ro-RO|/kingspan-dep/ro/ro/aplicatii",
+      "pl-PL|/kingspan-dep/pl/pl/zastosowanie",
+      "fi-FI|/kingspan-dep/fi/fi/kayttokohteet",
+      "cs-CZ|/kingspan-dep/cz/cs/aplikace",
+      "de-AT|/kingspan-dep/at/de/anwendungen",
+      "en-QA|/kingspan-dep/qa/en/applications",
+      "en-KZ|/kingspan-dep/kz/en/applications",
+      "en-ZA|/kingspan-dep/za/en/applications",
+      "en-SA|/kingspan-dep/sa/en/applications",
+      "en-EG|/kingspan-dep/eg/en/applications",
+      "en-TR|/kingspan-dep/tr/en/applications",
+      "hr-HR|/kingspan-dep/hr/hr/aplikacija",
+      "da-DK|/kingspan-dep/dk/da/applikationer",
+      "et-EE|/kingspan-dep/ee/et/rakendus",
+      "nn-NO|/kingspan-dep/no/nn/applikasjoner",
+      "sv-SE|/kingspan-dep/se/sv/applikationer",
+      "de-CH|/kingspan-dep/ch/de/anwendungen",
+      "lt-LT|/kingspan-dep/lt/lt/naudojimo-sritys",
+      "es-MX|/kingspan-dep/mx/es/aplicaciones",
+      "sr-RS|/kingspan-dep/rs/sr/aplikacije",
+      "lv-LV|/kingspan-dep/lv/lv/pieteikums",
+      "sk-SK|/kingspan-dep/sk/sk/aplikacie",
+      "es-CO|/kingspan-dep/co/es/aplicaciones",
+      "hu-HU|/kingspan-dep/hu/hu/felhasznalas",
+      "en-MA|/kingspan-dep/ma/en/applications",
+      "fr-CH|/kingspan-dep/ch/fr/applications",
+      "bg-BG|/kingspan-dep/bg/bg/prilojenie",
+      "el-GR|/kingspan-dep/gr/el/efarmogi"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

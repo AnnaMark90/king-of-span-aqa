@@ -1,0 +1,214 @@
+{
+  "htmlTitle": {
+    "expected": "Planet Passionate | Kingspan NL",
+    "actual": "Planet Passionate"
+  },
+  "metaTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Planet Passionate",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Ons Planet Passionate- programma",
+        "Ontdek ons Planet Passionate-rapport"
+      ],
+      "h2": [
+        "Lancering terugnamegarantie"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Planet Passionate",
+        "4 belangrijke aandachtsgebieden - Energie, Koolstof, Circulariteit, Water. Ontdek ons Planet Passionate Programma",
+        "Ontdek meer",
+        "Scroll verder",
+        "Door middel van Planet Passionate zijn wij vastberaden om onze productie CO2-uitstoot te reduceren tot zo dicht mogelijk bij nul, voor zover dat technisch mogelijk is. Daarnaast willen wij de CO2-intensiteit in onze primaire toeleveringsketen reduceren. Voor meer informatie over deze en andere doelstellingen en onze partnerschappen en wereldwijde verbintenissen, kan je de wereldwijde Planet Passionate Hub op onze Kingspan Group website bezoeken of onze voortgang volgen op sociale media.",
+        "In het Rapport 2025 delen we onze voortgang, met aanzienlijke verminderingen van Scope 1-, 2- en 3-emissies en voortdurende vooruitgang in hernieuwbare energie en gerecyclede materialen terwijl we toewerken naar 2030.",
+        "Kingspan Light + Air neemt vanaf december 2025 een belangrijke stap richting een circulaire economie met de introductie van een terugnamegarantie op aluminium natuurlijke ventilatoren, rookwarmteventilatoren en glasdaksystemen.",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "OVER ONS",
+        "Planet Passionate Hub",
+        "LEES ONS NIEUWSTE RAPPORT",
+        "LEES MEER",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Ons Planet Passionate-programma",
+        "Ontdek ons Planet Passionate-rapport",
+        "Lancering terugnamegarantie"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Planet Passionate",
+        "4 belangrijke aandachtsgebieden - Energie, Koolstof, Circulariteit, Water. Ontdek ons Planet Passionate Programma",
+        "Ontdek meer",
+        "Scroll verder",
+        "Door middel van Planet Passionate zijn wij vastberaden om onze productie CO2-uitstoot te reduceren tot zo dicht mogelijk bij nul, voor zover dat technisch mogelijk is. Daarnaast willen wij de CO2-intensiteit in onze primaire toeleveringsketen reduceren. Voor meer informatie over deze en andere doelstellingen en onze partnerschappen en wereldwijde verbintenissen, kan je de wereldwijde Planet Passionate Hub op onze Kingspan Group website bezoeken of onze voortgang volgen op sociale media.",
+        "In het Rapport 2025 delen we onze voortgang, met aanzienlijke verminderingen van Scope 1-, 2- en 3-emissies en voortdurende vooruitgang in hernieuwbare energie en gerecyclede materialen terwijl we toewerken naar 2030.",
+        "Kingspan Light + Air neemt vanaf december 2025 een belangrijke stap richting een circulaire economie met de introductie van een terugnamegarantie op aluminium natuurlijke ventilatoren, rookwarmteventilatoren en glasdaksystemen."
+      ],
+      "a": [
+        "Home",
+        "OVER ONS",
+        "Planet Passionate Hub",
+        "LEES ONS NIEUWSTE RAPPORT",
+        "LEES MEER",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 28,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/over-ons/Planet-Passionate/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/Planet-Passionate"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/over-ons/Planet-Passionate",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.jpeg | alt: Aluminium | title: Aluminium",
+      "cq5dam.web.1280.1280.jpeg | alt: Explore Our Interactive Report | title: Interactive Planet Passionate Report",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Aluminium | title: Aluminium",
+      "image | alt: Interactive Planet Passionate Report | title: Explore Our Interactive Report",
+      "kingspan-logo-mobile.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 3
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/about-us/Planet-Passionate",
+      "de-AT|/kingspan-dep/at/de/uber-uns/Planet-Passionate",
+      "nl-BE|/kingspan-dep/be/nl/over-ons/Planet-Passionate",
+      "fr-BE|/kingspan-dep/be/fr/a-propos-de-kingspan/Planet-Passionate",
+      "en-CA|/kingspan-dep/ca/en/about-us/Planet-passionate",
+      "en-IE|/kingspan-dep/ie/en/about-kingspan/planet-passionate-sustainability-programme",
+      "hu-HU|/kingspan-dep/hu/hu/rolunk/Planet-Passionate",
+      "cs-CZ|/kingspan-dep/cz/cs/o-nas/Planet-Passionate",
+      "en-EG|/kingspan-dep/eg/en/about-us/Planet-passionate",
+      "fi-FI|/kingspan-dep/fi/fi/meista/planet-passionate",
+      "fr-FR|/kingspan-dep/fr/fr/a-propos-de-nous/Planet-Passionate",
+      "nl-NL|/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+      "de-DE|/kingspan-dep/de/de/uber-uns/Planet-Passionate",
+      "en-GB|/kingspan-dep/gb/en/about-us/planet-passionate",
+      "en-NZ|/kingspan-dep/nz/en/about-us/Planet-Passionate",
+      "en-US|/kingspan-dep/us/en/about-us/Planet-Passionate",
+      "en-SG|/kingspan-dep/sg/en/about-us/planet-passionate",
+      "en-AE|/kingspan-dep/ae/en/about-us/Planet-passionate",
+      "en-VN|/kingspan-dep/vn/en/about-us/planet-passionate",
+      "ro-RO|/kingspan-dep/ro/ro/despre-noi/Planet-Passionate",
+      "pl-PL|/kingspan-dep/pl/pl/o-nas/Planet-Passionate",
+      "en-ZA|/kingspan-dep/za/en/about-us/Planet-passionate",
+      "en-TR|/kingspan-dep/tr/en/about-us/Planet-passionate",
+      "en-SA|/kingspan-dep/sa/en/about-us/Planet-passionate",
+      "en-QA|/kingspan-dep/qa/en/about-us/Planet-passionate",
+      "en-KZ|/kingspan-dep/kz/en/about-us/Planet-passionate",
+      "es-MX|/kingspan-dep/mx/es/sobre-nosotros/Planet-Passionate",
+      "uk-UA|/kingspan-dep/ua/uk/pro-nas/planet-passionate",
+      "it-IT|/kingspan-dep/it/it/chi-siamo/planet-passionate",
+      "en-MA|/kingspan-dep/ma/en/about-us/Planet-passionate",
+      "fr-CH|/kingspan-dep/ch/fr/a-propos-de-nous/planet-passionate",
+      "sl-SI|/kingspan-dep/si/sl/o-nas/planet-passionate",
+      "de-CH|/kingspan-dep/ch/de/uber-uns/planet-passionate",
+      "hr-HR|/kingspan-dep/hr/hr/o-nama/planeta-pasioniranih",
+      "es-ES|/kingspan-dep/es/es/sobre-nosotros/planetpassionate",
+      "pt-PT|/kingspan-dep/pt/pt/sobre-nos/planetpassionate",
+      "sr-RS|/kingspan-dep/rs/sr/o-nama/planeta-pasioniranih",
+      "sk-SK|/kingspan-dep/sk/sk/o-nas/planet-passionate",
+      "sv-SE|/kingspan-dep/se/sv/om-oss/planet-passionate",
+      "nn-NO|/kingspan-dep/no/nn/om-oss/planet-passionate",
+      "da-DK|/kingspan-dep/dk/da/om-os/planet-passionate",
+      "lv-LV|/kingspan-dep/lv/lv/par-mums/planet-passionate",
+      "et-EE|/kingspan-dep/ee/et/meist/planet-passionate",
+      "lt-LT|/kingspan-dep/lt/lt/apie-mus/planet-passionate"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

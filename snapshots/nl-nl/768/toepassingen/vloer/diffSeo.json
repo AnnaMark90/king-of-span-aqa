@@ -1,0 +1,233 @@
+{
+  "htmlTitle": {
+    "expected": "Vloer | Kingspan NL",
+    "actual": "Vloer"
+  },
+  "metaTitle": {
+    "expected": "Vloer",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Vloer",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Vloer"
+      ],
+      "h2": [],
+      "h3": [
+        "Merk",
+        "Productgroep"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "geselecteerd",
+        "geselecteerd",
+        "Filter Dutch",
+        "Merk",
+        "Productgroep",
+        "Sorteer op",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Unidek EPS 100",
+        "Unidek EPS isolatieplaten",
+        "Unidek EPS 60 RE",
+        "Unidek EPS 60 RE is deels gemaakt van gerecycled materiaal",
+        "K-Stop Brandwerende Mortel",
+        "Brandwerende dragende mortel",
+        "K-Stop Coated Batt",
+        "Brandwerende oplossing voor doorvoeringen in wanden en vloeren",
+        "K-Stop Drukverdelende Grafiet Mastiek",
+        "Brandwerend afdichtingsmiddel voor penetraties",
+        "K-Stop Firescreen Sealant",
+        "Brandwerend afdichtingsmiddel",
+        "K-Stop Lijm Voor Hoge Temperaturen",
+        "Brandwerende lijm / afdichtmiddel voor hoge temperaturen",
+        "K-Stop Manchet",
+        "Brandwerende oplossing voor leidingdoorboringen",
+        "K-Stop Multicoat",
+        "Ablatieve coating",
+        "U bekijkt 9/44",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "TOEPASSINGEN",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "Merk",
+        "Productgroep",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Aanbevolen Unidek EPS 100",
+        "Aanbevolen Unidek EPS 60 RE",
+        "K-Stop Brandwerende Mortel",
+        "K-Stop Coated Batt",
+        "K-Stop Drukverdelende Grafiet Mastiek",
+        "K-Stop Firescreen Sealant",
+        "K-Stop Lijm Voor Hoge Temperaturen",
+        "K-Stop Manchet",
+        "K-Stop Multicoat",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Vloer"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [],
+      "a": [
+        "Home",
+        "TOEPASSINGEN",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/toepassingen/vloer/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen/vloer"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/toepassingen/vloer",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/toepassingen/vloer",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.png | alt: **Missing** | title: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: **Missing** | title: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: **Missing** | title: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: **Missing** | title: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: Unidek EPS 100 | title: Unidek EPS 100",
+      "cq5dam.web.1280.1280.png | alt: Unidek EPS 60 RE | title: Unidek EPS 60 RE",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "original | alt: **Missing** | title: **Missing**",
+      "original | alt: **Missing** | title: **Missing**",
+      "original | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/applications/floor",
+      "nl-BE|/kingspan-dep/be/nl/toepassingen/vloer",
+      "fr-BE|/kingspan-dep/be/fr/applications/sol",
+      "en-CA|/kingspan-dep/ca/en/applications/floor",
+      "da-DK|/kingspan-dep/dk/da/applikationer/gulv",
+      "en-EG|/kingspan-dep/eg/en/applications/floors",
+      "fi-FI|/kingspan-dep/fi/fi/kayttokohteet/Lattia",
+      "fr-FR|/kingspan-dep/fr/fr/applications/sol",
+      "de-DE|/kingspan-dep/de/de/anwendungen/Fussboden",
+      "en-IE|/kingspan-dep/ie/en/applications/floor",
+      "en-KZ|/kingspan-dep/kz/en/applications/floors",
+      "lv-LV|/kingspan-dep/lv/lv/pielietojums/gridas",
+      "lt-LT|/kingspan-dep/lt/lt/naudojimo-sritys/grindys",
+      "nl-NL|/kingspan-dep/nl/nl/toepassingen/vloer",
+      "en-NZ|/kingspan-dep/nz/en/applications/floor",
+      "nn-NO|/kingspan-dep/no/nn/applikasjoner/gulv",
+      "pl-PL|/kingspan-dep/pl/pl/zastosowanie/Podloga",
+      "en-QA|/kingspan-dep/qa/en/applications/floors",
+      "en-SA|/kingspan-dep/sa/en/applications/floors",
+      "en-SG|/kingspan-dep/sg/en/applications/floor",
+      "en-ZA|/kingspan-dep/za/en/applications/floors",
+      "sv-SE|/kingspan-dep/se/sv/applikationer/golv",
+      "en-TR|/kingspan-dep/tr/en/applications/floors",
+      "en-AE|/kingspan-dep/ae/en/applications/floor",
+      "en-GB|/kingspan-dep/gb/en/applications/floor",
+      "en-US|/kingspan-dep/us/en/applications/floor",
+      "en-VN|/kingspan-dep/vn/en/applications/floor",
+      "en-MA|/kingspan-dep/ma/en/applications/floors",
+      "fr-CH|/kingspan-dep/ch/fr/applications/sol",
+      "bg-BG|/kingspan-dep/bg/bg/prilojenie/pod",
+      "el-GR|/kingspan-dep/gr/el/efarmogi/dapedo"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

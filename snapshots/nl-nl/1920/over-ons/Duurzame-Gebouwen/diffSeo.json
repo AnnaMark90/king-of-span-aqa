@@ -1,0 +1,212 @@
+{
+  "htmlTitle": {
+    "expected": "Duurzame Gebouwen | Kingspan NL",
+    "actual": "Duurzame Gebouwen"
+  },
+  "metaTitle": {
+    "expected": "Duurzame Gebouwen",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Duurzame Gebouwen",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Wij helpen u betere gebouwen te creëren voor een betere wereld"
+      ],
+      "h2": [
+        "Better Buildings for a Better World",
+        "Aanbevolen producten"
+      ],
+      "h3": [],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Duurzame gebouwen",
+        "Gebouwen moeten meer presteren dan ooit tevoren. Door te innoveren in geavanceerde materialen en digitalisering, kunnen wij u helpen om gebouwen te creëren die de duurzaamheidsuitdagingen van de toekomst aankunnen. Bekijk onze wereldwijde voorbeelden",
+        "Ontdek meer",
+        "Scroll verder",
+        "Producten en gebouwen koolstofvrij maken, circulariteit mogelijk maken, de bouw efficiënter maken op het gebied van tijd en middelen, dat zijn de uitdagingen waar we bij Kingspan mee bezig zijn. Scroll naar beneden en klik verder om meer te weten te komen over de nieuwste initiatieven en lanceringen van onze producten en diensten.",
+        "Architecten over de hele wereld gebruiken producten en oplossingen van Kingspan om bijzondere gebouwen te ontwerpen die werkelijk een architectonische impact hebben en de grote uitdagingen aangaan waar de gebouwde omgeving vandaag de dag voor staat.",
+        "QuadCore AWP gevelpaneel",
+        "Architectonisch gevelpaneel met uitstekende isolatie en blinde bevestiging",
+        "OPTIM-R Vloersysteem",
+        "Thermische vacuüm isolatie voor vloeren",
+        "BlueMaster® Dubbelwandig grote capaciteiten",
+        "Dubbelwandige tanks van 22.000 tot 25.000 liter",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "OVER ONS",
+        "ONTDEK BETTER BUILDINGS",
+        "QuadCore AWP gevelpaneel Architectonisch gevelpaneel met uitstekende isolatie en blinde bevestiging",
+        "OPTIM-R Vloersysteem Thermische vacuüm isolatie voor vloeren",
+        "BlueMaster® Dubbelwandig grote capaciteiten Dubbelwandige tanks van 22.000 tot 25.000 liter",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Wij helpen u betere gebouwen te creëren voor een betere wereld",
+        "Decarbonising products and buildings, enabling circularity, making construction more efficient",
+        "Better Buildings for a Better World"
+      ],
+      "h2": [
+        "OPTIM-R Vloersysteem"
+      ],
+      "h3": [
+        "OPTIM-R Vloersysteem",
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Duurzame gebouwen",
+        "Aanbevolen producten"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Gebouwen moeten meer presteren dan ooit tevoren. Door te innoveren in geavanceerde materialen en digitalisering, kunnen wij u helpen om gebouwen te creëren die de duurzaamheidsuitdagingen van de toekomst aankunnen. Bekijk onze wereldwijde voorbeelden",
+        "Through innovation in advanced materials & digitalisation, we’re helping you create buildings that tackle the sustainability challenges of the future. Explore our global showcases & product roadmaps.",
+        "Ontdek meer",
+        "Scroll verder",
+        "Producten en gebouwen koolstofvrij maken, circulariteit mogelijk maken, de bouw efficiënter maken op het gebied van tijd en middelen, dat zijn de uitdagingen waar we bij Kingspan mee bezig zijn. Scroll naar beneden en klik verder om meer te weten te komen over de nieuwste initiatieven en lanceringen van onze producten en diensten.",
+        "Architecten over de hele wereld gebruiken producten en oplossingen van Kingspan om bijzondere gebouwen te ontwerpen die werkelijk een architectonische impact hebben en de grote uitdagingen aangaan waar de gebouwde omgeving vandaag de dag voor staat.",
+        "Thermische vacuüm isolatie voor vloeren"
+      ],
+      "a": [
+        "HOME",
+        "OVER ONS",
+        "ONTDEK BETTER BUILDINGS",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 30,
+    "actual": 11
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/over-ons/Duurzame-Gebouwen/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/Duurzame-Gebouwen"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/over-ons/Duurzame-Gebouwen",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/over-ons/Duurzame-Gebouwen",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "**Missing** | alt: **Missing** | title: **Missing**",
+      "cq5dam.web.1280.1280.png | alt: Better Buildings Book | title: Kingspan Better Buildings book cover",
+      "cq5dam.web.1280.1280.png | alt: BlueMaster Dubbelwandig grote capaciteiten | title: BlueMaster Dubbelwandig grote capaciteiten",
+      "cq5dam.web.1280.1280.png | alt: OPTIM-R hoek | title: OPTIM-R hoek",
+      "cq5dam.web.1280.1280.png | alt: Product render van AWP Gevelpaneel Mini-Micro | title: Product render van AWP Gevelpaneel Mini-Micro",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Kingspan Better Buildings book cover | title: Better Buildings Book",
+      "image | alt: Thermische vacuüm isolatie voor vloeren | title: **Missing**",
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 8,
+    "actual": 3
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-IE|/kingspan-dep/ie/en/about-kingspan/SustainableBuildings",
+      "fr-FR|/kingspan-dep/fr/fr/a-propos-de-nous/CentredeDurabilte",
+      "nl-NL|/kingspan-dep/nl/nl/over-ons/Duurzame-Gebouwen",
+      "fr-BE|/kingspan-dep/be/fr/a-propos-de-kingspan/CentredeDurabilte",
+      "nl-BE|/kingspan-dep/be/nl/over-ons/Duurzame-Gebouwen",
+      "en-AU|/kingspan-dep/au/en/about-us/Sustainable-Buildings-Hub",
+      "en-CA|/kingspan-dep/ca/en/about-us/Sustainable-Buildings-Hub",
+      "de-DE|/kingspan-dep/de/de/uber-uns/Plattform-fur-nachhaltige-Gebaude",
+      "en-GB|/kingspan-dep/gb/en/about-us/sustainable-buildings-hub",
+      "en-NZ|/kingspan-dep/nz/en/about-us/sustainable-buildings-hub",
+      "en-SG|/kingspan-dep/sg/en/about-us/sustainable-buildings-hub",
+      "en-US|/kingspan-dep/us/en/about-us/Sustainable-Buildings-Hub",
+      "en-VN|/kingspan-dep/vn/en/about-us/sustainable-buildings-hub",
+      "en-AE|/kingspan-dep/ae/en/about-us/Sustainable-Buildings-Hub",
+      "de-AT|/kingspan-dep/at/de/uber-uns/Plattform-fur-nachhaltige-Gebaude",
+      "cs-CZ|/kingspan-dep/cz/cs/o-nas/centrum-udrzitelnych-budov",
+      "fi-FI|/kingspan-dep/fi/fi/meista/Kestavan-kehityksen-mukaiset-rakennukset",
+      "hu-HU|/kingspan-dep/hu/hu/rolunk/fenntarthato-epuletek",
+      "pl-PL|/kingspan-dep/pl/pl/o-nas/Centrum-Zrownowazonych-Budynkow",
+      "ro-RO|/kingspan-dep/ro/ro/despre-noi/hub-pentru-cladiri-durabile",
+      "en-ZA|/kingspan-dep/za/en/about-us/Sustainable-Buildings-Hub",
+      "en-TR|/kingspan-dep/tr/en/about-us/Sustainable-Buildings-Hub",
+      "en-SA|/kingspan-dep/sa/en/about-us/Sustainable-Buildings-Hub",
+      "en-QA|/kingspan-dep/qa/en/about-us/Sustainable-Buildings-Hub",
+      "en-KZ|/kingspan-dep/kz/en/about-us/Sustainable-Buildings-Hub",
+      "en-EG|/kingspan-dep/eg/en/about-us/Sustainable-Buildings-Hub",
+      "en-MA|/kingspan-dep/ma/en/about-us/Sustainable-Buildings-Hub",
+      "fr-CH|/kingspan-dep/ch/fr/a-propos-de-nous/batiments-durables",
+      "es-ES|/kingspan-dep/es/es/sobre-nosotros/hubsostenibilidad",
+      "pt-PT|/kingspan-dep/pt/pt/sobre-nos/hubsostenibilidade"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

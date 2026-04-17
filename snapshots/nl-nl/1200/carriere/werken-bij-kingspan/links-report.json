@@ -1,0 +1,97 @@
+{
+  "successful": [
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/light-and-air/testimonial-ryan-siroen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/unidek/testimonial-jenny-de-wit",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/geisoleerde-panelen/testimonial-mark-geutjes",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/unidek",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/unidek/testimonial-vince-bremen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/light-and-air/testimonial-kim-toonen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/light-and-air",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/carriere/werken-bij-kingspan/geisoleerde-panelen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "header"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/carriere",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "nav"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/carriere/werken-bij-kingspan/Insulation/testimonial-jeffrey-kartomoehamat",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "section"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/carriere/werken-bij-kingspan/Insulation",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "section"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/carriere/werken-bij-kingspan",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "footer"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/Contact",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "slot:button"
+    }
+  ]
+}

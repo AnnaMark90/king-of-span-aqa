@@ -1,0 +1,205 @@
+{
+  "htmlTitle": {
+    "expected": "Carriere | Kingspan NL",
+    "actual": "Carriere"
+  },
+  "metaTitle": {
+    "expected": "Carriere",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Carriere",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Zet de NEXT STEP bij Kingspan"
+      ],
+      "h2": [
+        "PEOPLE",
+        "Voor jezelf en voor de wereld"
+      ],
+      "h3": [
+        "Afdeling",
+        "Contracttype",
+        "Divisie",
+        "Locatie"
+      ],
+      "h4": [],
+      "h5": [
+        "Business Controller DACH & CEE",
+        "Commercieel Medewerker Binnendienst S&M",
+        "Director Sales",
+        "Magazijn Medewerker",
+        "Manager Marketing",
+        "Medewerker Fabricage",
+        "Medewerker Technische Dienst",
+        "Monteur"
+      ],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Ontdek meer",
+        "Scroll verder",
+        "Filter Dutch",
+        "Afdeling",
+        "Contracttype",
+        "Divisie",
+        "Locatie",
+        "Sorteer op",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "U bekijkt 8 / 17",
+        "Zet de volgende stap bij de wereldleider in innovatieve oplossingen voor bouwschil, isolatie en leefklimaat. Zet de NEXT STEP bij Kingspan.",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "Afdeling",
+        "Contracttype",
+        "Divisie",
+        "Locatie",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "Business Controller DACH & CEE Winterswijk, Kingspan Insulation",
+        "Commercieel Medewerker Binnendienst S&M Kingspan Light + Air, Cuijk",
+        "Director Sales Kingspan Light + Air, Uden",
+        "Magazijn Medewerker Kingspan Light + Air, Uden",
+        "Manager Marketing Kingspan Light + Air, Uden",
+        "Medewerker Fabricage Kingspan Light + Air, Cuijk",
+        "Medewerker Technische Dienst Kingspan Light + Air, Uden, Cuijk",
+        "Monteur Kingspan Light + Air, Op afstand",
+        "MEER WETEN",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Zet de NEXT STEP bij Kingspan"
+      ],
+      "h2": [],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Ontdek meer",
+        "Scroll verder",
+        "Zet de volgende stap bij de wereldleider in innovatieve oplossingen voor bouwschil, isolatie en leefklimaat. Zet de NEXT STEP bij Kingspan."
+      ],
+      "a": [
+        "HOME",
+        "MEER WETEN",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 36,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/carriere/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/carriere"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/carriere",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/carriere",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.jpeg | alt: The Next Step | title: The Next Step",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "cq5dam.web.1280.1280.jpeg | alt: background | title: **Missing**",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "original | alt: background | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "image | alt: The Next Step | title: The Next Step",
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 2
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "nl-BE|/kingspan-dep/be/nl",
+      "fr-BE|/kingspan-dep/be/fr/carrieres0",
+      "nl-NL|/kingspan-dep/nl/nl/carriere"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

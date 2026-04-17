@@ -1,0 +1,42 @@
+{
+  "successful": [
+    {
+      "url": "https://www.kingspan.com/nl/nl/nieuws-evenementen/terugnamegarantie-kingspan-light-air",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://viewer.ipaper.io/kingspan/c2510682-planet-passionate-report-2025/c2510682-planet-passionate-report-2025/?page=1",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://group.kingspan.com/commitments/planet-passionate",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "nav"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "footer"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "header"
+    }
+  ],
+  "redirected": [],
+  "broken": []
+}

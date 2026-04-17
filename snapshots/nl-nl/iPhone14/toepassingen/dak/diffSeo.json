@@ -1,0 +1,259 @@
+{
+  "htmlTitle": {
+    "expected": "Dak | Kingspan NL",
+    "actual": "Dak"
+  },
+  "metaTitle": {
+    "expected": "Dak",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Dak",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Dak"
+      ],
+      "h2": [],
+      "h3": [
+        "Merk",
+        "Productgroep"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Bekijk ons brede assortiment van geïsoleerde dakpanelen, dakisolatie, daklichten en nog veel meer.",
+        "geselecteerd",
+        "geselecteerd",
+        "Filter Dutch",
+        "Merk",
+        "Productgroep",
+        "Sorteer op",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Snel bekijken",
+        "K-Roc KS1000 FF dakpaneel",
+        "Brandveilig dakpaneel met steenwol isolatiekern",
+        "Snel bekijken",
+        "QuadCore Coldstore dakpaneel",
+        "Uitstekend isolerend dakpaneel voor platte en licht hellende daken",
+        "Snel bekijken",
+        "QuadCore KS1000RW dakpaneel",
+        "Trapezium dakpaneel met voor hellende daken",
+        "Snel bekijken",
+        "QuadCore PowerPanel",
+        "Geïntegreerd dakpaneel met ingebouwde zonne-energie",
+        "Snel bekijken",
+        "QuadCore RT dakpanpaneel",
+        "Dakpanpaneel met traditionele uitstraling van een pannendak",
+        "Snel bekijken",
+        "Unidek Aero",
+        "Constructief alles-in-1 dakelement voor totaaloplossingen",
+        "Snel bekijken",
+        "Unidek Aero Light",
+        "Constructief standaard dakelement voor vrijstaande en geschakelde woningen",
+        "Snel bekijken",
+        "Unidek PasDak",
+        "Geprefabriceerde totaaloplossing voor complexere dakconstructies",
+        "Snel bekijken",
+        "Unidek Reno Dekfolie",
+        "Snelle, lichtgewicht renovatieoplossing op elk bestaand dakbeschot",
+        "U bekijkt 9/109",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "TOEPASSINGEN",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "Merk",
+        "Productgroep",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Uitgelicht K-Roc KS1000 FF dakpaneel",
+        "Uitgelicht QuadCore Coldstore dakpaneel",
+        "Uitgelicht QuadCore KS1000RW dakpaneel",
+        "Uitgelicht QuadCore PowerPanel",
+        "Uitgelicht QuadCore RT dakpanpaneel",
+        "Aanbevolen Unidek Aero",
+        "Aanbevolen Unidek Aero Light",
+        "Aanbevolen Unidek PasDak",
+        "Aanbevolen Unidek Reno Dekfolie",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Dak"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Bekijk ons brede assortiment van geïsoleerde dakpanelen, dakisolatie, daklichten en nog veel meer."
+      ],
+      "a": [
+        "Home",
+        "TOEPASSINGEN",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/toepassingen/dak/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen/dak"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/toepassingen/dak",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/toepassingen/dak",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.png | alt: Coldstore dakpaneel product render | title: Coldstore dakpaneel product render",
+      "cq5dam.web.1280.1280.png | alt: Kingspan KS1000RW dakpaneel product render | title: Kingspan KS1000RW dakpaneel product render",
+      "cq5dam.web.1280.1280.png | alt: Product render QuadCore Power Panel | title: Product render QuadCore Power Panel",
+      "cq5dam.web.1280.1280.png | alt: RT dakpanpanelen product render terracotta | title: RT dakpanpanelen product render terracotta",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc KS1000 FF dakpaneel | title: Render van K-Roc KS1000 FF dakpaneel",
+      "cq5dam.web.1280.1280.png | alt: Unidek Aero Dakelement | title: Unidek Aero Dakelement",
+      "cq5dam.web.1280.1280.png | alt: Unidek Aero Light | title: Unidek Aero Light",
+      "cq5dam.web.1280.1280.png | alt: Unidek PasDak | title: Unidek PasDak",
+      "cq5dam.web.1280.1280.png | alt: Unidek Reno Dekfolie | title: Unidek Reno Dekfolie",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-fat.fc912760.svg | alt: Meer | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo-mobile.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 13,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-IE|/kingspan-dep/ie/en/applications/roof",
+      "fr-FR|/kingspan-dep/fr/fr/applications/toiture",
+      "nl-NL|/kingspan-dep/nl/nl/toepassingen/dak",
+      "fr-BE|/kingspan-dep/be/fr/applications/toiture",
+      "nl-BE|/kingspan-dep/be/nl/toepassingen/dak",
+      "en-AU|/kingspan-dep/au/en/applications/roof",
+      "en-CA|/kingspan-dep/ca/en/applications/roof",
+      "de-DE|/kingspan-dep/de/de/anwendungen/dach",
+      "en-GB|/kingspan-dep/gb/en/applications/roof",
+      "en-NZ|/kingspan-dep/nz/en/applications/roof",
+      "en-SG|/kingspan-dep/sg/en/applications/roof",
+      "en-US|/kingspan-dep/us/en/applications/roof",
+      "en-VN|/kingspan-dep/vn/en/applications/roof",
+      "en-AE|/kingspan-dep/ae/en/applications/roof",
+      "ro-RO|/kingspan-dep/ro/ro/aplicatii/acoperis",
+      "pl-PL|/kingspan-dep/pl/pl/zastosowanie/Dach",
+      "hu-HU|/kingspan-dep/hu/hu/felhasznalas/teto",
+      "fi-FI|/kingspan-dep/fi/fi/kayttokohteet/katto",
+      "cs-CZ|/kingspan-dep/cz/cs/aplikace/Strecha",
+      "de-AT|/kingspan-dep/at/de/anwendungen/Dach",
+      "en-EG|/kingspan-dep/eg/en/applications/roof",
+      "en-KZ|/kingspan-dep/kz/en/applications/roof",
+      "en-SA|/kingspan-dep/sa/en/applications/roof",
+      "en-TR|/kingspan-dep/tr/en/applications/roof",
+      "en-QA|/kingspan-dep/qa/en/applications/roof",
+      "en-ZA|/kingspan-dep/za/en/applications/roof",
+      "en-MA|/kingspan-dep/ma/en/applications/roof",
+      "fr-CH|/kingspan-dep/ch/fr/applications/toiture",
+      "de-CH|/kingspan-dep/ch/de/anwendungen/dach",
+      "hr-HR|/kingspan-dep/hr/hr/aplikacija/krov",
+      "bs-BA|/kingspan-dep/ba/bs/aplikacije/krov",
+      "es-CO|/kingspan-dep/co/es/aplicaciones/techos",
+      "da-DK|/kingspan-dep/dk/da/applikationer/tag",
+      "lv-LV|/kingspan-dep/lv/lv/pielietojums/jumts",
+      "lt-LT|/kingspan-dep/lt/lt/naudojimo-sritys/stogas",
+      "es-MX|/kingspan-dep/mx/es/aplicaciones/techos",
+      "nn-NO|/kingspan-dep/no/nn/applikasjoner/hustak",
+      "sr-RS|/kingspan-dep/rs/sr/aplikacije/krov",
+      "sl-SI|/kingspan-dep/si/sl/uporaba/streha",
+      "sk-SK|/kingspan-dep/sk/sk/aplikacie/stecha",
+      "sv-SE|/kingspan-dep/se/sv/applikationer/tak",
+      "es-ES|/kingspan-dep/es/es/aplicaciones/cubiertas",
+      "el-GR|/kingspan-dep/gr/el/efarmogi/orofi",
+      "bg-BG|/kingspan-dep/bg/bg/prilojenie/pokriv"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

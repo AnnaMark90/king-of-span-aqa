@@ -1,0 +1,103 @@
+{
+  "successful": [
+    {
+      "url": "https://www.kingspan.com/group",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://viewer.ipaper.io/kingspan/kingspan-better-buildings-for-a-better-world-issue-2/",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/kingspan-divisies/kingspan-geisoleerde-panelen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/kingspan-divisies/kingspan-unidek",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/kingspan-divisies/kingspan-light-air",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "header"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/kingspan-divisies/kingspaninsulation",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/kingspan-divisies/kingspantechnicalinsulation",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "section"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "footer"
+    },
+    {
+      "url": "https://www.instagram.com/kingspan_global/?hl=en",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC-WAUiGVJpFZIAjUItwBN_Q",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://twitter.com/globalkingspan?lang=en",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://www.linkedin.com/company/kingspan",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    }
+  ],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://www.kingspan.com/nl/nl/kingspan-divisies/Kingspan-Water-Energy",
+      "status": 404,
+      "statusText": "Not Found",
+      "parent": "section"
+    },
+    {
+      "url": "https://www.facebook.com/globalkingspan/",
+      "status": 400,
+      "statusText": "Bad Request",
+      "parent": "main"
+    }
+  ]
+}

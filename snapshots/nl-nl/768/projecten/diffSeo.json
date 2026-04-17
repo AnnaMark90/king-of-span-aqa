@@ -1,0 +1,237 @@
+{
+  "htmlTitle": {
+    "expected": "Projecten | Kingspan NL",
+    "actual": "Projecten"
+  },
+  "metaTitle": {
+    "expected": "Projecten",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Projecten",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "EDGE Amsterdam West"
+      ],
+      "h2": [],
+      "h3": [
+        "Merk",
+        "Productgroep",
+        "Sector",
+        "Toepassing"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Projecten",
+        "Het 48.000m² kantoorgebouw uit de jaren ‘70 is een ontwerp van Cie Architecten en was toe aan herontwikkeling. Het bouwteam heeft ervoor gezorgd dat het gebouw voldoet aan de hoogste eisen op het gebied van duurzaamheid, technologie en gezondheid.",
+        "Ontdek meer",
+        "Scroll verder",
+        "Filter Dutch",
+        "Merk",
+        "Productgroep",
+        "Sector",
+        "Toepassing",
+        "Sorteer op",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "Gevelned",
+        "Een optimaal werkklimaat voor GevelNed",
+        "Hotel de Timmerfabriek Vlissingen",
+        "Hotel de Timmerfabriek in Vlissingen is voorzien van RWA-brandveiligheidssystemen.",
+        "Kiefel Packaging",
+        "Verbetering van het binnenklimaat. Te hoge temperaturen voor metaalbewerkers en machineoperators en",
+        "SRON Leiden",
+        "State of the art, niet alleen nu maar ook in de toekomst. Dat is het nieuwe pand van SRON.",
+        "Scheepsbouwloods Rotterdam",
+        "Een oud gebouw renoveren met bestaande materialen: Kingspan Light + Air deed het in Rotterdam.",
+        "214 woningen naar NOM in Zoetermeer",
+        "214 woningen naar NOM in Zoetermeer",
+        "75 Recreatiewoningen Simonshaven",
+        "In Simonshaven worden 75 vrijstaande recreatievilla’s gebouwd",
+        "76 flexwoningen in Olst en Wijhe",
+        "In Olst en Wijhe realiseert Kingspan TEK 76 flexwoningen",
+        "AFAS Leusden - KLA",
+        "AFAS Clubhuis & AFAS Theater: een veelzijdig gebouw met veel glas en bijzondere gevels",
+        "U bekijkt 9 / 209",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "Merk",
+        "Productgroep",
+        "Sector",
+        "Toepassing",
+        "Aanbevolen",
+        "Nieuwste",
+        "Oudste",
+        "A naar Z",
+        "Z naar A",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "EDGE Amsterdam West",
+        "John Deere upgrades naar FuelMaster-dieseltanks",
+        "Rotterdamse Eyecatcher"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Projecten"
+      ],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Het 48.000m² kantoorgebouw uit de jaren ‘70 is een ontwerp van Cie Architecten en was toe aan herontwikkeling. Het bouwteam heeft ervoor gezorgd dat het gebouw voldoet aan de hoogste eisen op het gebied van duurzaamheid, technologie en gezondheid.",
+        "John Deere, de internationaal bekende fabrikant van landbouw-, bouw- en bosbouwmachines en dieselmotoren, moest op zijn hoofdkantoor in Illinois oude en gecorrodeerde brandstoftanks upgraden.",
+        "Spiegelende 'soepkom', een iconisch bouwwerk dat nu al tot de meest opvallende gebouwen van de havenstad Rotterdam behoort. Geïsoleerd met Kooltherm K15 Plus.",
+        "Ontdek meer",
+        "Scroll verder"
+      ],
+      "a": [
+        "HOME",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 39,
+    "actual": 11
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/projecten/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/projecten"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/projecten",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/projecten",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.jpeg | alt: 214 woningen naar NOM in Zoetermeer | title: 214 woningen naar NOM in Zoetermeer",
+      "cq5dam.web.1280.1280.jpeg | alt: 75 Recreatiewoningen Simonshaven | title: 75 Recreatiewoningen Simonshaven",
+      "cq5dam.web.1280.1280.jpeg | alt: 76 flexwoningen in Olst en Wijhe | title: 76 flexwoningen in Olst en Wijhe",
+      "cq5dam.web.1280.1280.jpeg | alt: AFAS Leusden - KLA | title: AFAS Leusden - KLA",
+      "cq5dam.web.1280.1280.jpeg | alt: Gevelned  | title: Gevelned ",
+      "cq5dam.web.1280.1280.jpeg | alt: Hotel de Timmerfabriek Vlissingen | title: Hotel de Timmerfabriek Vlissingen",
+      "cq5dam.web.1280.1280.jpeg | alt: SRON Leiden | title: SRON Leiden",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "original | alt: Kiefel Packaging  | title: Kiefel Packaging ",
+      "original | alt: Scheepsbouwloods Rotterdam | title: Scheepsbouwloods Rotterdam",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 12,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-IE|/kingspan-dep/ie/en/case-studies",
+      "fr-FR|/kingspan-dep/fr/fr/realisations",
+      "nl-NL|/kingspan-dep/nl/nl/projecten",
+      "fr-BE|/kingspan-dep/be/fr/realisations",
+      "nl-BE|/kingspan-dep/be/nl/projecten",
+      "en-AU|/kingspan-dep/au/en/case-studies",
+      "en-CA|/kingspan-dep/ca/en/case-studies",
+      "de-DE|/kingspan-dep/de/de/referenzen",
+      "en-GB|/kingspan-dep/gb/en/case-studies",
+      "en-NZ|/kingspan-dep/nz/en/case-studies",
+      "en-AE|/kingspan-dep/ae/en/case-studies",
+      "en-SG|/kingspan-dep/sg/en/case-studies",
+      "en-VN|/kingspan-dep/vn/en/case-studies",
+      "en-US|/kingspan-dep/us/en/case-studies",
+      "de-AT|/kingspan-dep/at/de/referenzen",
+      "cs-CZ|/kingspan-dep/cz/cs/realizovane-projekty",
+      "fi-FI|/kingspan-dep/fi/fi/projektit",
+      "hu-HU|/kingspan-dep/hu/hu/esettanumanyok",
+      "pl-PL|/kingspan-dep/pl/pl/zrealizowane-projekty",
+      "ro-RO|/kingspan-dep/ro/ro/studii-de-caz",
+      "en-KZ|/kingspan-dep/kz/en/case-studies",
+      "en-EG|/kingspan-dep/eg/en/case-studies",
+      "en-SA|/kingspan-dep/sa/en/case-studies",
+      "en-TR|/kingspan-dep/tr/en/case-studies",
+      "en-QA|/kingspan-dep/qa/en/case-studies",
+      "en-ZA|/kingspan-dep/za/en/case-studies",
+      "en-MA|/kingspan-dep/ma/en/case-studies",
+      "hr-HR|/kingspan-dep/hr/hr/studije-slucajeva",
+      "de-CH|/kingspan-dep/ch/de/referenzen",
+      "bg-BG|/kingspan-dep/bg/bg/kazysi-ot-praktikata",
+      "it-IT|/kingspan-dep/it/it/progetti-e-realizzazioni"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

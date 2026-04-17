@@ -7,7 +7,7 @@ export default defineConfig({
   workers: 1,
   timeout: 3 * 60 * 1000,
   reporter: [
-    ["html"],
+    ["html", { open: "never" }],
     ["blob"],
     [
       "allure-playwright",

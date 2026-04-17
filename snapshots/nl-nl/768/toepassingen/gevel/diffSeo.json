@@ -1,0 +1,250 @@
+{
+  "htmlTitle": {
+    "expected": "Gevel | Kingspan NL",
+    "actual": "Gevel"
+  },
+  "metaTitle": {
+    "expected": "Gevel",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Gevel",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Gevel"
+      ],
+      "h2": [],
+      "h3": [
+        "Merk",
+        "Productgroep"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Bekijk ons brede assortiment wandproducten, waaronder wandpaneelsystemen, architectonische gevels en isolatie.",
+        "geselecteerd",
+        "geselecteerd",
+        "Filter Dutch",
+        "Merk",
+        "Productgroep",
+        "Sorteer op",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "K-Roc KS1000 RH gevelpaneel",
+        "Brandveilig gevelpaneel met blinde bevestiging en steenwol kern",
+        "K-Roc KS1150 RF gevelpaneel",
+        "Brandveilig gevelpaneel met zichtbare bevestiging en steenwol kern",
+        "Kooltherm K21 Vliesgevelplaat",
+        "Hoogwaardige isolatie voor gebruik achter regenwerende gevelsystemen",
+        "QuadCore AWP Supreme gevelpaneel",
+        "Brandwerend architectonisch gevelpaneel met QuadCore isolatiekern",
+        "QuadCore AWP gevelpaneel",
+        "Architectonisch gevelpaneel met uitstekende isolatie en blinde bevestiging",
+        "QuadCore Evolution gevelpaneel",
+        "Architectonisch gevelpaneel met zeer vlak design en verfijnde detaillering",
+        "Unidek SIPS",
+        "Met een EPS-kern voor grondgebonden, gestapelde en modulaire woningbouw",
+        "ALTITUDE Alaska",
+        "Karakter. Uniek. Hedendaags.",
+        "ALTITUDE Alpes",
+        "Elegantie. Zuiverheid. Harmonie.",
+        "U bekijkt 9/72",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "TOEPASSINGEN",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "ALLE",
+        "VLOER",
+        "DAK",
+        "GEVEL",
+        "Merk",
+        "Productgroep",
+        "Aanbevolen",
+        "A naar Z",
+        "Z naar A",
+        "Uitgelicht K-Roc KS1000 RH gevelpaneel",
+        "Uitgelicht K-Roc KS1150 RF gevelpaneel",
+        "Kooltherm K21 Vliesgevelplaat",
+        "Uitgelicht QuadCore AWP Supreme gevelpaneel",
+        "Uitgelicht QuadCore AWP gevelpaneel",
+        "Uitgelicht QuadCore Evolution gevelpaneel",
+        "Unidek SIPS",
+        "ALTITUDE Alaska",
+        "ALTITUDE Alpes",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Gevel"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Bekijk ons brede assortiment wandproducten, waaronder wandpaneelsystemen, architectonische gevels en isolatie."
+      ],
+      "a": [
+        "Home",
+        "TOEPASSINGEN",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 37,
+    "actual": 9
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/toepassingen/gevel/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen/gevel"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/toepassingen/gevel",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/toepassingen/gevel",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.png | alt: Kooltherm K21 hoekafbeelding | title: Kooltherm K21 hoekafbeelding",
+      "cq5dam.web.1280.1280.png | alt: Product render QuadCore AWP Supreme Micro-Rib | title: Product render QuadCore AWP Supreme Micro-Rib",
+      "cq5dam.web.1280.1280.png | alt: Product render QuadCore Evolution Axis | title: Product render QuadCore Evolution Axis",
+      "cq5dam.web.1280.1280.png | alt: Product render van ALTITUDE Alaska T | title: Product render van ALTITUDE Alaska T",
+      "cq5dam.web.1280.1280.png | alt: Product render van ALTITUDE Alpes C | title: Product render van ALTITUDE Alpes C",
+      "cq5dam.web.1280.1280.png | alt: Product render van AWP Gevelpaneel Mini-Micro | title: Product render van AWP Gevelpaneel Mini-Micro",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc KS1150 RF gevelpaneel | title: Render van K-Roc KS1150 RF gevelpaneel",
+      "cq5dam.web.1280.1280.png | alt: Render van K-Roc RH gevelpaneel | title: Render van K-Roc RH gevelpaneel",
+      "cq5dam.web.1280.1280.png | alt: Unidek SIPS Gevelelement | title: Unidek SIPS Gevelelement",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-fat.fc912760.svg | alt: Meer | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "kingspan-logo.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 13,
+    "actual": 1
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-IE|/kingspan-dep/ie/en/applications/wall",
+      "fr-FR|/kingspan-dep/fr/fr/applications/facade",
+      "nl-NL|/kingspan-dep/nl/nl/toepassingen/gevel",
+      "fr-BE|/kingspan-dep/be/fr/applications/facade",
+      "nl-BE|/kingspan-dep/be/nl/toepassingen/gevel",
+      "en-AU|/kingspan-dep/au/en/applications/wall",
+      "en-CA|/kingspan-dep/ca/en/applications/wall",
+      "de-DE|/kingspan-dep/de/de/anwendungen/wand",
+      "en-GB|/kingspan-dep/gb/en/applications/wall",
+      "en-NZ|/kingspan-dep/nz/en/applications/wall",
+      "en-SG|/kingspan-dep/sg/en/applications/wall",
+      "en-US|/kingspan-dep/us/en/applications/wall",
+      "en-VN|/kingspan-dep/vn/en/applications/wall",
+      "ro-RO|/kingspan-dep/ro/ro/aplicatii/Perete",
+      "pl-PL|/kingspan-dep/pl/pl/zastosowanie/sciana",
+      "hu-HU|/kingspan-dep/hu/hu/felhasznalas/fal",
+      "fi-FI|/kingspan-dep/fi/fi/kayttokohteet/seina",
+      "cs-CZ|/kingspan-dep/cz/cs/aplikace/Stena",
+      "de-AT|/kingspan-dep/at/de/anwendungen/Wand",
+      "en-ZA|/kingspan-dep/za/en/applications/wall",
+      "en-TR|/kingspan-dep/tr/en/applications/wall",
+      "en-SA|/kingspan-dep/sa/en/applications/wall",
+      "en-QA|/kingspan-dep/qa/en/applications/wall",
+      "en-KZ|/kingspan-dep/kz/en/applications/wall",
+      "en-EG|/kingspan-dep/eg/en/applications/wall",
+      "en-AE|/kingspan-dep/ae/en/applications/wall",
+      "en-MA|/kingspan-dep/ma/en/applications/wall",
+      "de-CH|/kingspan-dep/ch/de/anwendungen/wand",
+      "bs-BA|/kingspan-dep/ba/bs/aplikacije/zid",
+      "es-CO|/kingspan-dep/co/es/aplicaciones/paredes",
+      "hr-HR|/kingspan-dep/hr/hr/aplikacija/zid",
+      "da-DK|/kingspan-dep/dk/da/applikationer/vaeg",
+      "lv-LV|/kingspan-dep/lv/lv/pielietojums/siena",
+      "lt-LT|/kingspan-dep/lt/lt/naudojimo-sritys/sienos",
+      "es-MX|/kingspan-dep/mx/es/aplicaciones/paredes",
+      "nn-NO|/kingspan-dep/no/nn/applikasjoner/vegg",
+      "sr-RS|/kingspan-dep/rs/sr/aplikacije/zid",
+      "sk-SK|/kingspan-dep/sk/sk/aplikacie/stena",
+      "sl-SI|/kingspan-dep/si/sl/uporaba/stena",
+      "sv-SE|/kingspan-dep/se/sv/applikationer/vagg",
+      "es-ES|/kingspan-dep/es/es/aplicaciones/paredes",
+      "bg-BG|/kingspan-dep/bg/bg/prilojenie/stena",
+      "el-GR|/kingspan-dep/gr/el/efarmogi/toichos",
+      "fr-CH|/kingspan-dep/ch/fr/applications/facade"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

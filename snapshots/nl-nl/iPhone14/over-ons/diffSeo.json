@@ -1,0 +1,265 @@
+{
+  "htmlTitle": {
+    "expected": "Over ons | Kingspan NL",
+    "actual": "Over ons"
+  },
+  "metaTitle": {
+    "expected": "Over ons",
+    "actual": "**Missing**"
+  },
+  "ogTitle": {
+    "expected": "Over ons",
+    "actual": "**Missing**"
+  },
+  "texts": {
+    "expected": {
+      "h1": [
+        "Wij zetten ons in voor duurzaamheid, innovatie en prestaties",
+        "Ontdek ons Planet Passionate programma"
+      ],
+      "h2": [
+        "DUURZAME OPLOSSINGEN",
+        "Betere gebouwen voor een betere wereld",
+        "Kom meer te weten over ons bedrijf in Nederland",
+        "PLANET PASSIONATE",
+        "Wij hebben onszelf ambitieuze en meetbare doelen gesteld op het gebied van energie, koolstof, circulariteit en waterbeheer."
+      ],
+      "h3": [
+        "Kingspan Geisoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy"
+      ],
+      "h4": [],
+      "h5": [],
+      "h6": [],
+      "p": [
+        "Producten & Oplossingen",
+        "Services",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Contact",
+        "Kingspan Nederland",
+        "Ontdek hoe u betere gebouwen voor een betere wereld kunt creëren met de geavanceerde isolatie- en bouwschiloplossingen van Kingspan.",
+        "Ontdek meer",
+        "Scroll verder",
+        "Kingspan is wereldleider op het gebied van geavanceerde isolatie- en bouwschiloplossingen. Onze missie is een toekomst zonder schadelijke uitstoot waarin het welzijn van de mens en onze planeet centraal staat.",
+        "Scroll naar beneden voor meer informatie over onze activiteiten, onze visie op duurzaamheid en onze innovatiestrategie in Nederland.",
+        "Bezoek de website van de Kingspan Group om meer te weten te komen over onze wereldwijde activiteiten.",
+        "1965",
+        "Jaar",
+        "Opgericht in Ierland",
+        "80+",
+        "Landen",
+        "Wereldwijd",
+        "22,000",
+        "Medewerkers",
+        "Wereldwijd",
+        "212+",
+        "Productielocaties",
+        "Wereldwijd",
+        "Architecten over de hele wereld gebruiken producten en oplossingen van Kingspan om bijzondere gebouwen te ontwerpen die werkelijk een architectonische impact hebben en de grote uitdagingen aangaan waar de gebouwde omgeving vandaag de dag voor staat.",
+        "Ontdek ons programma en leer hoe wij ons bedrijf en onze producten transformeren in overeenstemming met onze Planet Passionate-visie.",
+        "Blijf verbonden",
+        "Divisies in Nederland",
+        "Juridische informatie",
+        "Kingspan — Nederland",
+        "© 2025 Kingspan Group. All Rights Reserved"
+      ],
+      "a": [
+        "Vacatures",
+        "Duurzaamheid",
+        "Kennisbank",
+        "Projecten",
+        "HOME",
+        "Kingspan Group",
+        "LEES MEER",
+        "Kingspan Geisoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "LEES MEER",
+        "Home",
+        "Kennisbank",
+        "Projecten",
+        "Over ons",
+        "Nieuws & Evenementen",
+        "Werken bij",
+        "Contact",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Kingspan Geïsoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website",
+        "Cookiebeleid",
+        "Algemene voorwaarden gebruik website",
+        "Privacyverklaring website"
+      ]
+    },
+    "actual": {
+      "h1": [
+        "Wij zetten ons in voor duurzaamheid, innovatie en prestaties",
+        "Betere gebouwen voor een betere wereld",
+        "Ontdek ons Planet Passionate programma"
+      ],
+      "h2": [
+        "Navigation"
+      ],
+      "h3": [
+        "Business Groups",
+        "Products",
+        "Knowledge & Inspiration",
+        "Tools & Services"
+      ],
+      "h4": [
+        "Kom meer te weten over ons bedrijf in Nederland"
+      ],
+      "h5": [],
+      "h6": [
+        "Blijf verbonden"
+      ],
+      "p": [
+        "Kingspan Nederland",
+        "Ontdek hoe u betere gebouwen voor een betere wereld kunt creëren met de geavanceerde isolatie- en bouwschiloplossingen van Kingspan.",
+        "Ontdek meer",
+        "Scroll verder",
+        "Kingspan is wereldleider op het gebied van geavanceerde isolatie- en bouwschiloplossingen. Onze missie is een toekomst zonder schadelijke uitstoot waarin het welzijn van de mens en onze planeet centraal staat.",
+        "Scroll naar beneden voor meer informatie over onze activiteiten, onze visie op duurzaamheid en onze innovatiestrategie in Nederland.",
+        "Bezoek de website van de Kingspan Group om meer te weten te komen over onze wereldwijde activiteiten.",
+        "Jaar",
+        "Opgericht in Ierland",
+        "Landen",
+        "Wereldwijd",
+        "Medewerkers",
+        "Wereldwijd",
+        "Productielocaties",
+        "Wereldwijd",
+        "Architecten over de hele wereld gebruiken producten en oplossingen van Kingspan om bijzondere gebouwen te ontwerpen die werkelijk een architectonische impact hebben en de grote uitdagingen aangaan waar de gebouwde omgeving vandaag de dag voor staat.",
+        "Ontdek ons programma en leer hoe wij ons bedrijf en onze producten transformeren in overeenstemming met onze Planet Passionate-visie."
+      ],
+      "a": [
+        "HOME",
+        "Kingspan Group",
+        "LEES MEER",
+        "Kingspan Geisoleerde Panelen",
+        "Kingspan Insulation",
+        "Kingspan Light + Air",
+        "Kingspan Technical Insulation",
+        "Kingspan Unidek",
+        "Kingspan Water & Energy",
+        "LEES MEER",
+        "Cookie Settings"
+      ]
+    }
+  },
+  "listItemsCount": {
+    "expected": 27,
+    "actual": 8
+  },
+  "robots": {
+    "expected": "index,follow",
+    "actual": "**Missing**"
+  },
+  "ogUrl": {
+    "expected": "https://www.kingspan.com/nl/nl/over-ons/",
+    "actual": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons"
+  },
+  "canonicalMatch": {
+    "expected": "/nl/nl/over-ons",
+    "actual": "/**Missing**"
+  },
+  "canonicalStageSelf": {
+    "expected": "/kingspan-dep/nl/nl/over-ons",
+    "actual": "/**Missing**"
+  },
+  "images_and_alts": {
+    "expected": [
+      "cq5dam.web.1280.1280.jpeg | alt: Planet Passionate report 2024 | title: Planet Passionate report 2024",
+      "cq5dam.web.1280.1280.png | alt: cincinnati | title: building in cincinnati with Kingspan products",
+      "kingspan-logo.svg | alt: Kingspan logo | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**",
+      "plus-icon-white.d27856c3.svg | alt: **Missing** | title: **Missing**"
+    ],
+    "actual": [
+      "image | alt: Planet Passionate report 2024 | title: Planet Passionate report 2024",
+      "image | alt: building in cincinnati with Kingspan products | title: cincinnati",
+      "kingspan-logo-mobile.svg | alt: **Missing** | title: **Missing**"
+    ]
+  },
+  "imageDimensions_count": {
+    "expected": 5,
+    "actual": 3
+  },
+  "hreflangs": {
+    "expected": [],
+    "actual": [
+      "en-AU|/kingspan-dep/au/en/about-us",
+      "de-AT|/kingspan-dep/at/de/uber-uns",
+      "nl-BE|/kingspan-dep/be/nl/over-ons",
+      "fr-BE|/kingspan-dep/be/fr/a-propos-de-kingspan",
+      "bs-BA|/kingspan-dep/ba/bs/o-nama",
+      "en-CA|/kingspan-dep/ca/en/about-us",
+      "es-CO|/kingspan-dep/co/es/sobre-nosotros",
+      "hr-HR|/kingspan-dep/hr/hr/o-nama",
+      "cs-CZ|/kingspan-dep/cz/cs/o-nas",
+      "da-DK|/kingspan-dep/dk/da/om-os",
+      "en-EG|/kingspan-dep/eg/en/about-us",
+      "et-EE|/kingspan-dep/ee/et/meist",
+      "fi-FI|/kingspan-dep/fi/fi/meista",
+      "fr-FR|/kingspan-dep/fr/fr/a-propos-de-nous",
+      "de-DE|/kingspan-dep/de/de/uber-uns",
+      "hu-HU|/kingspan-dep/hu/hu/rolunk",
+      "en-IE|/kingspan-dep/ie/en/about-kingspan",
+      "en-KZ|/kingspan-dep/kz/en/about-us",
+      "lv-LV|/kingspan-dep/lv/lv/par-mums",
+      "lt-LT|/kingspan-dep/lt/lt/apie-mus",
+      "es-MX|/kingspan-dep/mx/es/sobre-nosotros",
+      "nl-NL|/kingspan-dep/nl/nl/over-ons",
+      "en-NZ|/kingspan-dep/nz/en/about-us",
+      "nn-NO|/kingspan-dep/no/nn/om-oss",
+      "pl-PL|/kingspan-dep/pl/pl/o-nas",
+      "en-QA|/kingspan-dep/qa/en/about-us",
+      "ro-RO|/kingspan-dep/ro/ro/despre-noi",
+      "en-SA|/kingspan-dep/sa/en/about-us",
+      "sr-RS|/kingspan-dep/rs/sr/o-nama",
+      "en-SG|/kingspan-dep/sg/en/about-us",
+      "sk-SK|/kingspan-dep/sk/sk/o-nas",
+      "sl-SI|/kingspan-dep/si/sl/o-nas",
+      "en-ZA|/kingspan-dep/za/en/about-us",
+      "sv-SE|/kingspan-dep/se/sv/om-oss",
+      "de-CH|/kingspan-dep/ch/de/uber-uns",
+      "en-TR|/kingspan-dep/tr/en/about-us",
+      "en-AE|/kingspan-dep/ae/en/about-us",
+      "en-GB|/kingspan-dep/gb/en/about-us",
+      "uk-UA|/kingspan-dep/ua/uk/pro-nas",
+      "en-US|/kingspan-dep/us/en/about-us",
+      "en-VN|/kingspan-dep/vn/en/about-us",
+      "it-IT|/kingspan-dep/it/it/chi-siamo",
+      "en-MA|/kingspan-dep/ma/en/about-us",
+      "fr-CH|/kingspan-dep/ch/fr/a-propos-de-nous"
+    ]
+  },
+  "headers_contentType": {
+    "expected": "text/html;charset=utf-8",
+    "actual": "text/html; charset=utf-8"
+  },
+  "headers_cacheControl": {
+    "expected": "max-age=86400",
+    "actual": "private, no-cache, no-store, max-age=0, must-revalidate"
+  }
+}

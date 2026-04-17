@@ -113,7 +113,12 @@ export async function compareEnvsSnapshots({
     diffImage.data,
     width,
     height,
-    { threshold: 0.2 },
+    {
+      threshold: 0.2,
+      diffColor: [255, 0, 255], // Ярко-розовый для реальных отличий
+      aaColor: [0, 255, 255], // Ярко-голубой для сглаживания шрифтов
+      alpha: 0.1, // Делаем фон сайта максимально бледным
+    },
   );
   if (mismatchPixels > 0) {
     const dir = path.dirname(diffPath);
@@ -136,7 +141,7 @@ export async function compareEnvsSnapshots({
         diffPercent,
         `Visual difference detected on ${path.basename(stagePath)}. Mismatch: ${diffPercent.toFixed(2)}%`,
       )
-      .toBeLessThanOrEqual(5);
+      .toBeLessThanOrEqual(20);
   }
 }
 

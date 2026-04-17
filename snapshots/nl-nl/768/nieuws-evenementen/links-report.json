@@ -1,0 +1,18 @@
+{
+  "successful": [],
+  "redirected": [],
+  "broken": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "header"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/nieuws-evenementen",
+      "status": 403,
+      "statusText": "Forbidden",
+      "parent": "footer"
+    }
+  ]
+}

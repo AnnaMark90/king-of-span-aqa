@@ -1,0 +1,48 @@
+{
+  "successful": [
+    {
+      "url": "https://www.kingspan.com/nl/nl/producten/dakelementen/niet-zelfdragend/unidek-reno-fast-biobased",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://www.kingspan.com/nl/nl/kingspan-divisies/kingspan-unidek",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://unidek.formstack.com/forms/brochure_request_unidek_reno_fast_biobased_nl",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "slot:button"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/biokor",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "footer"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "nav"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/over-ons/Planet-Passionate",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "main"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "header"
+    }
+  ],
+  "redirected": [],
+  "broken": []
+}

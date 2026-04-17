@@ -1,0 +1,24 @@
+{
+  "successful": [
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "nav"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "header"
+    },
+    {
+      "url": "https://d25x3lb2mhyb8n.cloudfront.net/kingspan-dep/nl/nl/toepassingen/dak",
+      "status": 200,
+      "statusText": "Successful",
+      "parent": "footer"
+    }
+  ],
+  "redirected": [],
+  "broken": []
+}
