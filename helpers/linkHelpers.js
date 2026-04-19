@@ -1,6 +1,11 @@
 import fs from "fs";
 import path from "path";
-import { getStatusText, USER_AGENT } from "../constants/constants.js";
+import {
+  getStatusText,
+  IGNORED_DOMAINS,
+  REQUEST_HEADERS,
+  USER_AGENT,
+} from "../constants/constants.js";
 
 // function for link validation, may be reuse for other link-related checks in the future
 export async function checkLinks(browser, url) {
@@ -41,26 +46,46 @@ export async function checkLinks(browser, url) {
 
 export async function checkLinksStatus(request, linksData) {
   const cleanMap = new Map();
-  linksData.forEach((l) => {
-    if (l?.href?.startsWith("http")) {
-      const cleanHref = l.href.split("#")[0];
-      if (!cleanMap.has(cleanHref))
-        cleanMap.set(cleanHref, { href: cleanHref, parent: l.parent });
+
+  for (const { href, parent } of linksData) {
+    if (href?.startsWith("http")) {
+      const cleanHref = href.split("#")[0];
+      if (!cleanMap.has(cleanHref)) {
+        cleanMap.set(cleanHref, { href: cleanHref, parent });
+      }
     }
-  });
+  }
+
   const cleanUrls = Array.from(cleanMap.values());
   const results = { successful: [], redirected: [], broken: [] };
-  const headers = {
-    "User-Agent": USER_AGENT,
-    Accept: "*/*",
-    "Accept-Encoding": "identity",
-  };
+
   for (let i = 0; i < cleanUrls.length; i += 10) {
     const batch = cleanUrls.slice(i, i + 10);
+    const skippedInBatch = [];
+
     await Promise.all(
       batch.map(async ({ href, parent }) => {
+        const matchedDomain = IGNORED_DOMAINS.find((domain) =>
+          href.includes(domain),
+        );
+
+        if (matchedDomain) {
+          skippedInBatch.push(matchedDomain);
+          results.successful.push({
+            url: href,
+            status: "SKIPPED",
+            statusText: `Ignored Anti-Bot (${matchedDomain})`,
+            parent,
+          });
+          return;
+        }
+
         const response = await request
-          .get(href, { timeout: 25000, ignoreHTTPSErrors: true, headers })
+          .get(href, {
+            timeout: 25000,
+            ignoreHTTPSErrors: true,
+            headers: REQUEST_HEADERS,
+          })
           .catch((err) => ({ status: () => 0, error: err.message }));
 
         const status = response.status();
@@ -71,13 +96,25 @@ export async function checkLinksStatus(request, linksData) {
           parent,
         };
 
-        if (status >= 200 && status < 300) results.successful.push(record);
-        else if (status >= 300 && status < 400) results.redirected.push(record);
-        else results.broken.push(record);
+        if (status >= 200 && status < 300) {
+          results.successful.push(record);
+        } else if (status >= 300 && status < 400) {
+          results.redirected.push(record);
+        } else {
+          results.broken.push(record);
+        }
       }),
     );
+
+    if (skippedInBatch.length > 0) {
+      console.log(
+        `[SKIP] Ignored social links: ${[...new Set(skippedInBatch)].join(", ")}`,
+      );
+    }
+
     await new Promise((r) => setTimeout(r, 500));
   }
+
   return results;
 }
 

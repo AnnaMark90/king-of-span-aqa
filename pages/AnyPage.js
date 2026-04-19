@@ -35,7 +35,7 @@ export class AnyPage extends BasePage {
             new Promise((resolve) => {
               img.onload = resolve;
               img.onerror = resolve;
-              setTimeout(resolve, 1000);
+              setTimeout(resolve, 5000);
             }),
         ),
       );

@@ -51,6 +51,15 @@ jobs:
           path: blob-report
           retention-days: 1
 
+      - name: Upload Snapshot Shard
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshot-shard-${{ matrix.shardIndex }}
+          path: snapshots
+          if-no-files-found: ignore
+          retention-days: 14
+
   merge-reports:
     if: always()
     needs: [test]
@@ -68,6 +77,12 @@ jobs:
           path: all-blob-reports
           pattern: blob-report-*
           merge-multiple: true
+      - name: Download snapshot shards
+        uses: actions/download-artifact@v4
+        with:
+          path: merged-snapshots
+          pattern: snapshot-shard-*
+          merge-multiple: true
       - name: Merge into Allure Results
         run: |
           mkdir -p ./all-blob-reports
@@ -78,9 +93,34 @@ jobs:
           echo "Batch_Name=${{ github.event.inputs.batch_name || 'default' }}" >> allure-results/environment.properties
       - name: Generate Allure Report
         run: npx allure generate allure-results -o allure-report --clean
+      - name: Package Allure Report
+        run: |
+          cd allure-report
+          zip -r ../allure-html-report.zip .
+      - name: Package Raw Snapshots
+        run: |
+          if [ -d merged-snapshots/snapshots ]; then
+            cd merged-snapshots
+            zip -r ../raw-snapshots.zip snapshots
+          else
+            echo "No merged snapshots directory found"
+          fi
       - name: Upload Allure Report
         uses: actions/upload-artifact@v4
         with:
           name: allure-html-report
           path: allure-report
+          retention-days: 14
+      - name: Upload Allure ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-html-report-zip
+          path: allure-html-report.zip
+          retention-days: 14
+      - name: Upload Raw Snapshots ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-snapshots-zip
+          path: raw-snapshots.zip
+          if-no-files-found: ignore
           retention-days: 14

@@ -13,7 +13,7 @@ const CONFIG = {
 const isCellColored = (cell) => {
   const fill = cell?.fill;
   const hex = fill?.fgColor?.argb?.toUpperCase();
-  
+
   return (
     fill?.type === "pattern" &&
     fill?.pattern === "solid" &&
@@ -35,7 +35,7 @@ const getValidPathname = (cell) => {
     "";
 
   const url = String(rawUrl).trim();
-  
+
   if (["undefined", "null", ""].includes(url)) return null;
 
   try {
@@ -81,7 +81,9 @@ async function generateLinks() {
     if (validPaths.length) {
       const outputPath = path.join(outputDir, `${localeName}.txt`);
       fs.writeFileSync(outputPath, validPaths.join("\n"), "utf-8");
-      console.log(`[SUCCESS] ${localeName}: сгенерировано ${validPaths.length} ссылок -> ${outputPath}`);
+      console.log(
+        `[SUCCESS] ${localeName}: сгенерировано ${validPaths.length} ссылок -> ${outputPath}`,
+      );
     } else {
       console.log(`[INFO] ${localeName}: пропущена (нет валидных ссылок).`);
     }

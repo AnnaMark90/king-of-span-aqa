@@ -27,6 +27,22 @@ export const getStatusText = (status) => {
   return codes[status] || "Unknown Status";
 };
 
+export const IGNORED_DOMAINS = [
+  "facebook.com",
+  "linkedin.com",
+  "twitter.com",
+  "instagram.com",
+  "youtube.com",
+  "pinterest.com",
+  "x.com",
+];
+
+export const REQUEST_HEADERS = {
+  "User-Agent": USER_AGENT,
+  Accept: "*/*",
+  "Accept-Encoding": "identity",
+};
+
 const batchName = (
   process.env.npm_config_batch ||
   process.env.BATCH ||

@@ -1,3 +1,4 @@
+import { test } from "@playwright/test";
 import {
   preparePageForScreenshot,
   takeSmartScreenshots,
@@ -8,7 +9,19 @@ export const safeRun = async (promise, fallback = null, context = "") => {
   try {
     return await promise;
   } catch (err) {
-    console.error(`[safeRun] ${context}`, err);
+    const errorMessage = err?.message || String(err);
+    console.error(`[safeRun] ${context}:`, errorMessage);
+
+    try {
+      const testInfo = test.info();
+      if (testInfo) {
+        testInfo.annotations.push({
+          type: "Warning",
+          description: `[safeRun] ${context}: ${errorMessage}`,
+        });
+      }
+    } catch (e) {}
+
     return fallback;
   }
 };

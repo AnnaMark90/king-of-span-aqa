@@ -40,7 +40,12 @@ export const normalizeHreflangs = (hreflangs) =>
   hreflangs.map((h) => `${h.lang}|${pathOnlySafe(h.href)}`);
 
 export function getSnapshotPaths({ lang, device, pageKey }) {
-  const dir = path.join(process.cwd(), "snapshots", lang, device, pageKey);
+  const safePageKey = (pageKey || "home")
+    .split("/")
+    .filter(Boolean)
+    .map((segment) => segment.replace(/[<>:"\\|?*]/g, "_"))
+    .join(path.sep);
+  const dir = path.join(process.cwd(), "snapshots", lang, device, safePageKey);
 
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
