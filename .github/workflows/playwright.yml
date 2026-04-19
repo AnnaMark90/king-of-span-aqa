@@ -99,9 +99,9 @@ jobs:
           zip -r ../allure-html-report.zip .
       - name: Package Raw Snapshots
         run: |
-          if [ -d merged-snapshots/snapshots ]; then
-            cd merged-snapshots
-            zip -r ../raw-snapshots.zip snapshots
+          if [ -d merged-snapshots/snapshots ] && [ "$(ls -A merged-snapshots/snapshots)" ]; then
+            cd merged-snapshots snapshots
+            zip -r raw-snapshots.zip snapshots
           else
             echo "No merged snapshots directory found"
           fi
