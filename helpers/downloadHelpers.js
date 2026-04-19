@@ -111,12 +111,28 @@ async function expandCollapsedAccordions(scope) {
   }
 }
 
+async function verifyContent(scope) {
+  if (!scope) return false;
+  return await scope.evaluate(
+    (el, selectors) => {
+      const hasNested = !!el.querySelector(selectors.nested);
+      const hasAnchors = !!el.querySelector(selectors.anchors);
+      const hasButtons = !!el.querySelector(selectors.buttons);
+      return hasNested || hasAnchors || hasButtons;
+    },
+    {
+      nested: NESTED_LINKS_SELECTOR,
+      anchors: ANCHOR_LINKS_SELECTOR,
+      buttons: BULK_BUTTON_SELECTORS[0],
+    },
+  );
+}
+
 export async function detectDownloadSection(page) {
   let scope = await findFirstVisibleLocator(page, DOWNLOAD_PANEL_SELECTORS);
 
-  if (scope) {
+  if (scope && (await verifyContent(scope))) {
     const panelId = await scope.getAttribute("id");
-
     return {
       page,
       scope,
@@ -138,12 +154,11 @@ export async function detectDownloadSection(page) {
       const controlledPanel = page
         .locator(`[id="${controlledPanelId}"]`)
         .first();
-
       await controlledPanel
         .waitFor({ state: "visible", timeout: 3000 })
         .catch(() => {});
 
-      if ((await controlledPanel.count()) > 0) {
+      if (await verifyContent(controlledPanel)) {
         return {
           page,
           scope: controlledPanel,
@@ -152,27 +167,6 @@ export async function detectDownloadSection(page) {
           expandAccordions: true,
         };
       }
-    }
-
-    await page.waitForTimeout(500);
-    scope = await findFirstVisibleLocator(page, DOWNLOAD_PANEL_SELECTORS);
-    if (!scope) {
-      const panelLocator = page.locator(DOWNLOAD_PANEL_SELECTORS);
-      if ((await panelLocator.count()) > 0) {
-        scope = panelLocator.first();
-      }
-    }
-
-    if (scope) {
-      const panelId = await scope.getAttribute("id");
-
-      return {
-        page,
-        scope,
-        panelId,
-        type: "downloads-panel",
-        expandAccordions: true,
-      };
     }
   }
 
