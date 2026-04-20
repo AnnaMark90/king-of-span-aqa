@@ -115,8 +115,8 @@ export async function compareEnvsSnapshots({
     height,
     {
       threshold: 0.2,
-      diffColor: [255, 0, 0], // красный для отличий
-      aaColor: [255, 255, 0], // желтый для сглаживания шрифтов
+      diffColor: [255, 150, 150], // мягко-красный для отличий
+      aaColor: [180, 220, 255], // голубой для сглаживания шрифтов
       alpha: 0.4, // для более видимого фона сайта
     },
   );
@@ -135,7 +135,7 @@ export async function compareEnvsSnapshots({
         console.error("Attachment error:", e);
       }
     }
-    
+
     // проверка на 30 пикселей
     expect
       .soft(
